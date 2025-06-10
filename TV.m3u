@@ -927,35 +927,35 @@ http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Первый информационный HD (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 1 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 1
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 1 HD 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 1 HD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 2 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 2
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 24 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 24
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 24 HD 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 24 HD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 2 HD 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 2 HD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 3 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 3
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 3 HD 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 3 HD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 HD 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 HD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 Интернет 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 Интернет
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 Интернет HD 
+#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 Интернет HD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",БелРос 
+#EXTINF:-1 group-title="dmi3y-tv.ru",БелРос
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",СТВ HD720 
+#EXTINF:-1 group-title="dmi3y-tv.ru",СТВ HD720
 http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",ОНТ HD 
+#EXTINF:-1 group-title="dmi3y-tv.ru",ОНТ HD
 http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",OneBY
 http://dmi3y-tv.ru/hls/CH_1MUZ.m3u8
@@ -1563,11 +1563,10 @@ http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 
 
 
-
-#EXTINF:-1 group-title="СМОТРИМ",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",РОССИЯ РТР HD720 (ASIA) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",РОССИЯ РТР HD720 (СНГ) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Россия 1 (+1)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Россия 1 (+2)
@@ -1586,6 +1585,28 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Россия 1 (+9)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+1) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+2) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+3) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+4) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+5) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+6) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+7) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+8) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 1 HD (+9) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Россия К +2
@@ -1594,8 +1615,42 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Россия К +7
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="http://i121.fastpic.org/big/2023/0110/46/4c20b6b7c8b6bc277120cad791ad1b46.png",Смотрим Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия К HD (+2) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия К HD (+4) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия К HD (+7) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Россия К HD (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",360
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",360 HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",360 Новости HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/VTJqdoX.png",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/VTJqdoX.png",360° HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/YXDeX8q.png",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/YXDeX8q.png",360° Новости
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",PLANETA RTR HD720 (EURO)
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b=.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",PLANETA RTR HD720 (EURO)
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",PLANETA RTR HD720 (USA) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",[Радио] Вести FM HD
+http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",[Радио] Радио России HD
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Кино и сериалы
@@ -1604,41 +1659,16 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",Соловьев Live HD
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1=.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",Соловьев Live HD
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",PLANETA RTR HD720 (EURO)
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b=.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",PLANETA RTR HD720 (EURO)
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Москва 24 (Москва)
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",[Радио] Вести FM HD
-http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",[Радио] Радио России HD
-http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
-#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/VTJqdoX.png",360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",360
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",360 HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/VTJqdoX.png",360° HD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",360 Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="СМОТРИМ",360 Новости HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/YXDeX8q.png",360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="https://i.imgur.com/YXDeX8q.png",360° Новости
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
-
+#EXTINF:-1 group-title="СМОТРИМ" tvg-logo="http://i121.fastpic.org/big/2023/0110/46/4c20b6b7c8b6bc277120cad791ad1b46.png",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Соловьев Live HD
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1=.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",Соловьев Live HD
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 
 
 
