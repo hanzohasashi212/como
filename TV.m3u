@@ -1867,6 +1867,909 @@ https://tv.tvcdnpotok.com/1168/index.m3u8?wmsAuthSign=7e295606be318c8471f577a51f
 
 
 
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://178.217.72.66:8080/TV_1000_Action/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://80.245.95.243:8888/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://77.235.1.19:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://31.222.206.100/8049/index.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://cdn.admuspeh.my/8049/video.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1 tvg-id="32862297" group-title="HDgo",TV1000 Action
+http://135.181.115.81:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="3509590310" group-title="HDgo",TV1000 Русское кино
+https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="3509590310" group-title="HDgo",TV1000 Русское кино
+http://185.50.148.2:7703/TV1000RusKino/index.m3u8
+#EXTINF:-1 tvg-id="3509590310" group-title="HDgo",TV1000 Русское кино
+http://195.245.99.242/1000_rus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="3509590310" group-title="HDgo",TV1000 Русское кино
+http://80.245.95.243:8888/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="3509590310" group-title="HDgo",TV1000 Русское кино
+https://vod.splay.uz/live_splay/original/TV1000rus/mono.ts.m3u8
+#EXTINF:-1 tvg-id="3509590310" group-title="HDgo",TV1000 Русское кино
+http://109.248.236.51/viju_tv1000_russkoe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="82685218" group-title="HDgo",TV1000
+https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="82685218" group-title="HDgo",TV1000
+http://95.181.17.26/streaming/tv1000/71/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="82685218" group-title="HDgo",TV1000
+https://vod.splay.uz/live_splay/original/TV1000/mono.ts.m3u8
+#EXTINF:-1 tvg-id="82685218" group-title="HDgo",TV1000
+http://80.245.95.243:8888/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="82685218" group-title="HDgo",TV1000
+http://cdn.admuspeh.my/8048/video.m3u8
+#EXTINF:-1 tvg-id="82685218" group-title="HDgo",TV1000
+http://178.217.72.66:8080/TV_1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="82685218" group-title="HDgo",TV1000
+http://109.248.236.51/viju_tv1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3862579060" group-title="HDgo",Мосфильм. Золотая коллекция
+http://195.245.99.242:80/Mosfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="3862579060" group-title="HDgo",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="3622229225" group-title="HDgo",312
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="3622229225" group-title="HDgo",312
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1943956545" group-title="HDgo",BACKUSTV DARK
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="1943956545" group-title="HDgo",BACKUSTV DARK
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="943414217" group-title="HDgo",BACKUSTV ORIGINAL
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="943414217" group-title="HDgo",BACKUSTV ORIGINAL
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1875937505" group-title="HDgo",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="1875937505" group-title="HDgo",Кино 1 International
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 tvg-id="1126412221" group-title="HDgo",TLC HD
+http://178.217.72.66:8080/Discovery_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1126412221" group-title="HDgo",TLC HD
+http://cdn.admuspeh.my/8060/video.m3u8
+#EXTINF:-1 tvg-id="1280586919" group-title="HDgo",Viasat History
+https://vod.splay.uz/live_splay/original/Viasat_History/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1280586919" group-title="HDgo",Viasat History
+http://178.217.72.66:8080/Viasat_History/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="587586998" group-title="HDgo",Viasat Explore
+http://109.248.236.51/viju_explore/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="587586998" group-title="HDgo",Viasat Explore
+https://vod.splay.uz/live_splay/original/Viasat_Explorer/mono.ts.m3u8
+#EXTINF:-1 tvg-id="587586998" group-title="HDgo",Viasat Explore
+http://178.217.72.66:8080/Viasat_Explorer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="885889783" group-title="HDgo",Viasat Nature
+http://178.217.72.66:8080/Viasat_Nature/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="885258414" group-title="HDgo",Сарафан ТВ
+http://31.148.48.15/Sarafan/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="885258414" group-title="HDgo",Сарафан ТВ
+http://158.160.149.81:8080/236/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2157121829" group-title="HDgo",Discovery Channel
+http://178.217.72.66:8080/Discovery_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2157121829" group-title="HDgo",Discovery Channel
+https://vod.splay.uz/live_splay/original/Discovery_Channel/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2157121829" group-title="HDgo",Discovery Channel
+http://195.245.99.242/Discovery/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2157121829" group-title="HDgo",Discovery Channel
+http://195.245.99.242/ID/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+http://95.181.17.14/abr1/IQHD/71/copy/playlist.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+http://31.210.208.171:8080/myplanet/index.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+http://tv.streams.baikal-telecom.net:8080/Nauka20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+http://109.248.236.51/moya_planeta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
+#EXTINF:-1 tvg-id="293247180" group-title="HDgo",Моя планета
+http://80.245.95.243:8888/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://95.181.17.10/streaming/nstv/71/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://109.248.236.51/nstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://158.101.214.187:8080/channel/6dc7d494/index.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://141.95.55.143/CH157/index.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://178.217.72.66:8080/NSTV/index.m3u8
+#EXTINF:-1 tvg-id="3445937976" group-title="HDgo",НСТ
+http://195.245.99.242/NST/playlist.m3u8
+#EXTINF:-1 tvg-id="825865464" group-title="HDgo",Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 tvg-id="825865464" group-title="HDgo",Вопросы и ответы
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+https://streaming.goodstream.cyou/live/44.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+https://st1.uzdigital.tv/Dom_Kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+http://31.148.48.15:80/Dom_Kino/index.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+http://31.210.208.171:8080/domkino/index.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+http://95.217.196.109:8081/russia/dom_kino/chunks.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+http://46.174.83.66/Dom_Kino/index.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+https://stream2.itv.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+http://185.50.148.2:7707/DomKino/index.m3u8
+#EXTINF:-1 tvg-id="811164814" group-title="HDgo",Дом кино
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://185.23.80.28:8080/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://158.101.194.132:8080/channel/n7ffadd45/index.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+https://stream3.itv.uz/1057/index.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+https://streamer1.connectto.com/519/mono.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://31.222.206.100/8139/index.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://94.232.104.237:8011/kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://streaming.tv-teleport.ru/Kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://cdn.admuspeh.my/8139/video.m3u8
+#EXTINF:-1 tvg-id="3477190290" group-title="HDgo",Кинопоказ
+http://31.210.208.171:8080/kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="3077379552" group-title="HDgo",Телекафе
+http://31.148.48.15:80/Telekafe/index.m3u8
+#EXTINF:-1 tvg-id="3077379552" group-title="HDgo",Телекафе
+http://109.248.236.51/telecafe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3077379552" group-title="HDgo",Телекафе
+http://45.11.139.43:8555/telekafe/index.m3u8
+#EXTINF:-1 tvg-id="3077379552" group-title="HDgo",Телекафе
+https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe-avc1_3000000=9.m3u8
+#EXTINF:-1 tvg-id="3077379552" group-title="HDgo",Телекафе
+http://95.181.17.10/streaming/telekafe/71/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="674980750" group-title="HDgo",Русский детектив
+http://195.245.99.242/Detectiv/playlist.m3u8
+#EXTINF:-1 tvg-id="674980750" group-title="HDgo",Русский детектив
+http://31.148.48.15/Russkiy_Detektiv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="674980750" group-title="HDgo",Русский детектив
+http://77.235.1.19:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="674980750" group-title="HDgo",Русский детектив
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1048055183" group-title="HDgo",Русский бестселлер
+http://77.235.1.19:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="1048055183" group-title="HDgo",Русский бестселлер
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1048055183" group-title="HDgo",Русский бестселлер
+http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1048055183" group-title="HDgo",Русский бестселлер
+http://195.245.99.242/Bestseler/playlist.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+http://tv.streams.baikal-telecom.net:8080/RusskiyRoman/mono.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+https://vs3.cdn.tvime.ru/Russkii_Roman/index.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+http://95.181.17.14/streaming/rus_roman/71/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+http://77.235.1.19:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+http://188.190.222.53/Russkiy_roman/index.m3u8
+#EXTINF:-1 tvg-id="3157176015" group-title="HDgo",Русский роман
+http://31.148.48.15/Russkiy_Roman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1595225752" group-title="HDgo",.sci‑fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 tvg-id="1595225752" group-title="HDgo",.sci‑fi
+http://online.hdgo.site/player30/playerjs.html?file=https://cors-proxy.cooks.fyi/141.95.55.143/CH175/index.m3u8
+#EXTINF:-1 tvg-id="1595225752" group-title="HDgo",.sci‑fi
+http://45.159.74.22/Kinoseriya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1686733196" group-title="HDgo",.red
+http://77.235.1.19:8000/play/a07e/index.m3u8
+#EXTINF:-1 tvg-id="1686733196" group-title="HDgo",.red
+http://online.hdgo.site/player30/playerjs.html?file=https://cors-proxy.cooks.fyi/141.95.55.143/CH147/index.m3u8
+#EXTINF:-1 tvg-id="2986889415" group-title="HDgo",Кино ТВ HD
+http://live-3.otcnet.ru/kinotvplus4/index.m3u8
+#EXTINF:-1 tvg-id="2986889415" group-title="HDgo",Кино ТВ HD
+http://86.57.198.251:8181/play/1026/index.m3u8
+#EXTINF:-1 tvg-id="2986889415" group-title="HDgo",Кино ТВ HD
+http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2986889415" group-title="HDgo",Кино ТВ HD
+http://31.148.48.15:80/Kino_TV/index.m3u8
+#EXTINF:-1 tvg-id="2986889415" group-title="HDgo",Кино ТВ HD
+http://77.235.1.19:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="2986889415" group-title="HDgo",Кино ТВ HD
+http://80.245.95.243:8888/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="2783041228" group-title="HDgo",СТС Kids
+http://80.245.95.243:8888/play/tpi8789/index.m3u8
+#EXTINF:-1 tvg-id="2783041228" group-title="HDgo",СТС Kids
+https://flussonic.salomtv.uz/STSkids/video.m3u8
+#EXTINF:-1 tvg-id="2783041228" group-title="HDgo",СТС Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+#EXTINF:-1 tvg-id="2962970437" group-title="HDgo",СТС Love
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ctc-love/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="2962970437" group-title="HDgo",СТС Love
+http://185.50.148.2:7706/STSLove/index.m3u8
+#EXTINF:-1 tvg-id="2962970437" group-title="HDgo",СТС Love
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/video_640x360_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="2962970437" group-title="HDgo",СТС Love
+http://109.248.236.51/sts_love/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2962970437" group-title="HDgo",СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="3358843646" group-title="HDgo",Amedia Premium HD
+http://109.248.236.51/amedia_premium_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3358843646" group-title="HDgo",Amedia Premium HD
+http://77.235.1.19:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="219272029" group-title="HDgo",НТВ Право
+http://65.21.85.175:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="3728972057" group-title="HDgo",НТВ Мир
+http://109.248.236.51/ntv_mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1493306972" group-title="HDgo",НТВ Сериал
+http://65.21.85.175:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="2706291437" group-title="HDgo",Russia Today
+http://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8
+#EXTINF:-1 tvg-id="3969072064" group-title="HDgo",Nickelodeon HD
+http://178.134.1.158:8081/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="3969072064" group-title="HDgo",Nickelodeon HD
+https://tv.movielab.pro/174/video.m3u8
+#EXTINF:-1 tvg-id="3969072064" group-title="HDgo",Nickelodeon HD
+http://135.181.115.81:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="119896733" group-title="HDgo",ViP Serial HD
+http://158.101.214.187:8080/channel/1bba7b52/index.m3u8
+#EXTINF:-1 tvg-id="119896733" group-title="HDgo",ViP Serial HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1935024293" group-title="HDgo",ViP Comedy HD
+http://80.245.95.243:8888/play/kln006/index.m3u8
+#EXTINF:-1 tvg-id="1935024293" group-title="HDgo",ViP Comedy HD
+http://95.181.17.6/abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8
+#EXTINF:-1 tvg-id="2510176861" group-title="HDgo",Amedia 1
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1 tvg-id="211227623" group-title="HDgo",Amedia 2
+http://185.50.148.2:7703/Fox/index.m3u8
+#EXTINF:-1 tvg-id="211227623" group-title="HDgo",Amedia 2
+http://77.235.1.19:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="3775528942" group-title="HDgo",Amedia Hit HD
+http://77.235.1.19:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="3775528942" group-title="HDgo",Amedia Hit HD
+http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1378415405" group-title="HDgo",ViP Megahit HD
+http://95.181.17.6/abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8
+#EXTINF:-1 tvg-id="1378415405" group-title="HDgo",ViP Megahit HD
+http://80.245.95.243:8888/play/iop001/index.m3u8
+#EXTINF:-1 tvg-id="658076642" group-title="HDgo",ViP Premiere HD
+http://141.95.55.143/CH315/index.m3u8
+#EXTINF:-1 tvg-id="658076642" group-title="HDgo",ViP Premiere HD
+http://77.235.1.19:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="658076642" group-title="HDgo",ViP Premiere HD
+http://95.181.17.14/abr2/tv1000_premium_hd/71/copy/playlist.m3u8
+#EXTINF:-1 tvg-id="658076642" group-title="HDgo",ViP Premiere HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="658076642" group-title="HDgo",ViP Premiere HD
+http://80.245.95.243:8888/play/klm009/index.m3u8
+#EXTINF:-1 tvg-id="1810789715" group-title="HDgo",FilmBox HD
+http://77.235.1.19:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="1810789715" group-title="HDgo",FilmBox HD
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="1810789715" group-title="HDgo",FilmBox HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3850539831" group-title="HDgo",Star Family HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3850539831" group-title="HDgo",Star Family HD
+http://77.235.1.19:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="2450997739" group-title="HDgo",Star Cinema HD
+https://vod.splay.uz/live_splay/original/Star_Cinema/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2450997739" group-title="HDgo",Star Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2450997739" group-title="HDgo",Star Cinema HD
+http://77.235.1.19:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="3754341817" group-title="HDgo",Fox Kids TV
+http://foxkids-online.ru/hls/test.m3u8
+#EXTINF:-1 tvg-id="1661609425" group-title="HDgo",ID Xtra
+http://195.245.99.242/ID/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1661609425" group-title="HDgo",ID Xtra
+https://cors-proxy.cooks.fyi/141.95.55.143/CH573/index.m3u8
+#EXTINF:-1 tvg-id="158125772" group-title="HDgo",START World
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3377308204" group-title="HDgo",START Air
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2638459492" group-title="HDgo",Доктор
+http://31.148.48.15/Doktor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2638459492" group-title="HDgo",Доктор
+http://31.148.48.15/Doktor/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="298182499" group-title="HDgo",Мировое кино
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="298182499" group-title="HDgo",Мировое кино
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="168871058" group-title="HDgo",Кино Боевик
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="168871058" group-title="HDgo",Кино Боевик
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1350314380" group-title="HDgo",Наше крутое HD
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="1350314380" group-title="HDgo",Наше крутое HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="677597226" group-title="HDgo",Trash TV
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="677597226" group-title="HDgo",Trash TV
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="106443269" group-title="HDgo",VHS Видеокассета
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 tvg-id="1165864650" group-title="HDgo",Discovery Science
+http://178.217.72.66:8080/Discovery_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1165864650" group-title="HDgo",Discovery Science
+http://195.245.99.242/Discovery/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1165864650" group-title="HDgo",Discovery Science
+http://195.245.99.242/ID/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1557641505" group-title="HDgo",Иллюзион+
+http://95.181.17.10/abr2/illusionplus/71/copy/playlist.m3u8
+#EXTINF:-1 tvg-id="1557641505" group-title="HDgo",Иллюзион+
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1557641505" group-title="HDgo",Иллюзион+
+http://77.235.1.19:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="3374627196" group-title="HDgo",Русский иллюзион
+http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+#EXTINF:-1 tvg-id="3374627196" group-title="HDgo",Русский иллюзион
+https://cors-proxy.cooks.fyi/178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:-1 tvg-id="3101768756" group-title="HDgo",Бобер
+http://178.217.72.66:8080/Bober/index.m3u8
+#EXTINF:-1 tvg-id="3101768756" group-title="HDgo",Бобер
+http://109.248.236.51/bober/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4084907383" group-title="HDgo",RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1 tvg-id="3401655334" group-title="HDgo",Про Любовь
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="3401655334" group-title="HDgo",Про Любовь
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1194787754" group-title="HDgo",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="2755990365" group-title="HDgo",История
+http://31.148.48.15/Istoriya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2755990365" group-title="HDgo",История
+http://31.210.208.171:8080/istoriya/index.m3u8
+#EXTINF:-1 tvg-id="2755990365" group-title="HDgo",История
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="632391023" group-title="HDgo",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2120830940" group-title="HDgo",Лен ТВ 24
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-id="2122447054" group-title="HDgo",Смотрим ТВ
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="2813702428" group-title="HDgo",ОНТ
+https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
+#EXTINF:-1 tvg-id="1229118341" group-title="HDgo",Ретро ТВ
+http://online.hdgo.site/player30/playerjs.html?file=http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 tvg-id="1229118341" group-title="HDgo",Ретро ТВ
+https://vod.splay.uz/live_splay/original/Retro/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1229118341" group-title="HDgo",Ретро ТВ
+http://135.181.115.81:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="3265331757" group-title="HDgo",Е TV / Game Show
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3265331757" group-title="HDgo",Е TV / Game Show
+http://82.215.111.227/1404/index.m3u8
+#EXTINF:-1 tvg-id="3340854084" group-title="HDgo",Премиальное HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="802270364" group-title="HDgo",Дом Кино Премиум HD
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="802270364" group-title="HDgo",Дом Кино Премиум HD
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="3224939355" group-title="HDgo",Техно 24
+http://109.248.236.51/tehno_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="867548568" group-title="HDgo",DTX
+http://178.217.72.66:8080/Discovery_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="867548568" group-title="HDgo",DTX
+http://195.245.99.242/Discovery/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="867548568" group-title="HDgo",DTX
+http://195.245.99.242/ID/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="539658434" group-title="HDgo",Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/mono.ts.m3u8
+#EXTINF:-1 tvg-id="539658434" group-title="HDgo",Animal Planet HD
+http://31.148.48.15/Animal_Planet_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="539658434" group-title="HDgo",Animal Planet HD
+http://109.248.236.51/animal_planet_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3417673270" group-title="HDgo",Viasat Kino World
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1665657948" group-title="HDgo",Private TV
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="1665657948" group-title="HDgo",Private TV
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="3631167104" group-title="HDgo",Brazzers TV Europe
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="3631167104" group-title="HDgo",Brazzers TV Europe
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="1889899164" group-title="HDgo",Hustler HD
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="1889899164" group-title="HDgo",Hustler HD
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="3717976755" group-title="HDgo",Dorcel TV
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="3717976755" group-title="HDgo",Dorcel TV
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="1292486237" group-title="HDgo",Penthouse Gold
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="1292486237" group-title="HDgo",Penthouse Gold
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="2284676858" group-title="HDgo",O-la-la
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="2284676858" group-title="HDgo",O-la-la
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="2479469712" group-title="HDgo",Blue Hustler
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="2479469712" group-title="HDgo",Blue Hustler
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="2510498717" group-title="HDgo",Зоопарк
+http://109.248.236.51/zoopark/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="842276276" group-title="HDgo",Загородный
+http://online.hdgo.site/player30/playerjs.html?file=http://109.248.236.51/zagorodniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3428472058" group-title="HDgo",Перец
+http://109.248.236.51/perec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="52797249" group-title="HDgo",АВТО 24
+https://vod.splay.uz/live_splay/original/Avto24/mono.ts.m3u8
+#EXTINF:-1 tvg-id="52797249" group-title="HDgo",АВТО 24
+http://109.248.236.51/avto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2064179096" group-title="HDgo",Мульт
+http://95.181.17.10/abr2/tlum_hd/71/copy/playlist.m3u8
+#EXTINF:-1 tvg-id="2064179096" group-title="HDgo",Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="2064179096" group-title="HDgo",Мульт
+http://77.235.1.19:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="2064179096" group-title="HDgo",Мульт
+http://109.248.236.51/mult/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1122752026" group-title="HDgo",Big Planet
+http://185.50.148.2:7703/BigPlanet/index.m3u8
+#EXTINF:-1 tvg-id="3147791150" group-title="HDgo",КиноСезон
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="3147791150" group-title="HDgo",КиноСезон
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="715798264" group-title="HDgo",LAVA TV
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="715798264" group-title="HDgo",LAVA TV
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="513342104" group-title="HDgo",Большое Интересное Кино
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="513342104" group-title="HDgo",Большое Интересное Кино
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1895933222" group-title="HDgo",Дорама
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3541641651" group-title="HDgo",Cartoon Network HD
+http://178.134.1.158:8081/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="3541641651" group-title="HDgo",Cartoon Network HD
+http://94.232.104.237:8000/play/032/index.m3u8
+#EXTINF:-1 tvg-id="1426066927" group-title="HDgo",КТК
+http://109.248.236.51/ktk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1426066927" group-title="HDgo",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1464370259" group-title="HDgo",Солнце
+http://tv.mediacdn.ru/live/disney/playlist_2000k.m3u8
+#EXTINF:-1 tvg-id="1464370259" group-title="HDgo",Солнце
+https://a3569456006-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="1464370259" group-title="HDgo",Солнце
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/solntse/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="3274493520" group-title="HDgo",Cartoonito
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="3274493520" group-title="HDgo",Cartoonito
+http://135.181.115.81:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="4185822626" group-title="HDgo",Nicktoons
+https://tv.movielab.pro/9941/video.m3u8
+#EXTINF:-1 tvg-id="2706694775" group-title="HDgo",Премиум Кино
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="2706694775" group-title="HDgo",Премиум Кино
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3133433193" group-title="HDgo",Семейное Кино
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="3133433193" group-title="HDgo",Семейное Кино
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1404888742" group-title="HDgo",National Geographic
+http://109.248.236.51/black/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1404888742" group-title="HDgo",National Geographic
+https://vod.splay.uz/live_splay/original/National_Geographic/mono.ts.m3u8
+#EXTINF:-1 tvg-id="3288982390" group-title="HDgo",National Geographic Wild
+http://109.248.236.51/black/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3288982390" group-title="HDgo",National Geographic Wild
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1450005202" group-title="HDgo",Победа
+http://109.248.236.51/pobeda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2292201706" group-title="HDgo",САПФИР
+https://132544.edgevideo.ru/streams/132544_899249/132544480/index.m3u8
+#EXTINF:-1 tvg-id="3943418080" group-title="HDgo",Солдаты онлайн
+https://132544.edgevideo.ru/streams/132544_730983/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="2030996927" group-title="HDgo",2х2
+http://31.210.208.171:8080/2x2/index.m3u8
+#EXTINF:-1 tvg-id="2030996927" group-title="HDgo",2х2
+https://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="644802875" group-title="HDgo",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="644802875" group-title="HDgo",312 Кино
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1267423046" group-title="HDgo",Арсенал HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4043841392" group-title="HDgo",КИНЕКО
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="4043841392" group-title="HDgo",КИНЕКО
+http://77.235.1.19:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="4043841392" group-title="HDgo",КИНЕКО
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3148318890" group-title="HDgo",Еврокино
+https://cors-proxy.cooks.fyi/141.95.55.143/CH163/index.m3u8
+#EXTINF:-1 tvg-id="3148318890" group-title="HDgo",Еврокино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2085623894" group-title="HDgo",Комедийное HD
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2981564183" group-title="HDgo",Охота и рыбалка
+http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-id="2107450687" group-title="HDgo",Охотник и рыболов
+https://stream1.itv.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2107450687" group-title="HDgo",Охотник и рыболов
+http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-id="1398030002" group-title="HDgo",Оружие
+http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:-1 tvg-id="1398030002" group-title="HDgo",Оружие
+http://109.248.236.51/oruzhie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1792825095" group-title="HDgo",Усадьба
+http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:-1 tvg-id="3647558457" group-title="HDgo",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="481345111" group-title="HDgo",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 tvg-id="277727521" group-title="HDgo",TVMChannel
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="908815269" group-title="HDgo",Bridge TV
+http://194.26.229.213/BRIDGE/index.m3u8
+#EXTINF:-1 tvg-id="908815269" group-title="HDgo",Bridge TV
+http://31.148.48.15/Bridge_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="908815269" group-title="HDgo",Bridge TV
+http://109.248.236.51/bridge_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4052193556" group-title="HDgo",ТНТ Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="4052193556" group-title="HDgo",ТНТ Music
+http://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
+#EXTINF:-1 tvg-id="1755583273" group-title="HDgo",MTV Россия
+http://fl5.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="3697847548" group-title="HDgo",RT Doc
+http://cdn-01.bonus-tv.ru:80/rtdoc/index.m3u8
+#EXTINF:-1 tvg-id="415630120" group-title="HDgo",Nick Jr
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="415630120" group-title="HDgo",Nick Jr
+http://141.95.55.143/CH1965/index.m3u8
+#EXTINF:-1 tvg-id="3924257144" group-title="HDgo",Мама
+http://stream01.vnet.am/Mama/mono.m3u8
+#EXTINF:-1 tvg-id="3924257144" group-title="HDgo",Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-id="4020591240" group-title="HDgo",Любимое.TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="4020591240" group-title="HDgo",Любимое.TV
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1879683086" group-title="HDgo",Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1879683086" group-title="HDgo",Мультимания
+http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="792963847" group-title="HDgo",ТНВ ПЛАНЕТА
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="792963847" group-title="HDgo",ТНВ ПЛАНЕТА
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1654072749" group-title="HDgo",TV XXI (TV 21)
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2885315646" group-title="HDgo",History Channel HD
+http://stream01.vnet.am/Channel_123/mono.m3u8
+#EXTINF:-1 tvg-id="1824600837" group-title="HDgo",Ocean TV
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1824600837" group-title="HDgo",Ocean TV
+http://31.148.48.15/Moya_Planeta/index.m3u8
+#EXTINF:-1 tvg-id="12539743" group-title="HDgo",Глазами Туриста
+https://stream1.itv.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="12539743" group-title="HDgo",Глазами Туриста
+http://82.215.111.227/1423/index.m3u8
+#EXTINF:-1 tvg-id="3396779413" group-title="HDgo",Уникум
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="3396779413" group-title="HDgo",Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1 tvg-id="3396779413" group-title="HDgo",Уникум
+http://95.181.17.14/abr1/detckiyHD/71/copy/playlist.m3u8
+#EXTINF:-1 tvg-id="2140791655" group-title="HDgo",Millenium TV
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="2140791655" group-title="HDgo",Millenium TV
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1108520172" group-title="HDgo",Hollywood HD
+http://141.95.55.143/CH291/index.m3u8
+#EXTINF:-1 tvg-id="2821014669" group-title="HDgo",Bollywood HD
+https://cors-proxy.cooks.fyi/141.95.55.143/CH1011/index.m3u8
+#EXTINF:-1 tvg-id="4254570768" group-title="HDgo",Драйв ТВ
+http://82.215.111.227/1421/index.m3u8
+#EXTINF:-1 tvg-id="4254570768" group-title="HDgo",Драйв ТВ
+https://stream1.itv.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4254570768" group-title="HDgo",Драйв ТВ
+http://31.148.48.15/Drive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="83056298" group-title="HDgo",Живая Планета
+https://stream1.itv.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="83056298" group-title="HDgo",Живая Планета
+http://82.215.111.227/1250/index.m3u8
+#EXTINF:-1 tvg-id="3764189200" group-title="HDgo",Наука 2.0
+https://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 tvg-id="3764189200" group-title="HDgo",Наука 2.0
+https://stream1.itv.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1640794218" group-title="HDgo",Точка отрыва
+http://109.248.236.51/hdl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2219637481" group-title="HDgo",Мультиландия
+http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8
+#EXTINF:-1 tvg-id="2219637481" group-title="HDgo",Мультиландия
+http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1365960494" group-title="HDgo",Da Vinci Kids
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4107311923" group-title="HDgo",Карусель
+https://a3569456000-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="4107311923" group-title="HDgo",Карусель
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="4107311923" group-title="HDgo",Карусель
+http://109.248.236.51/karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1270650052" group-title="HDgo",Рыжий
+http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="380640468" group-title="HDgo",Детский Мир
+https://tv.movielab.pro/32/video.m3u8
+#EXTINF:-1 tvg-id="380640468" group-title="HDgo",Детский Мир
+http://195.245.99.242:80/DetskiyMir/playlist.m3u8
+#EXTINF:-1 tvg-id="3650872692" group-title="HDgo",ТВ3
+https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 tvg-id="3650872692" group-title="HDgo",ТВ3
+http://a775797900-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="4052703503" group-title="HDgo",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-id="4052703503" group-title="HDgo",Ю
+http://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 tvg-id="3482928175" group-title="HDgo",Пятый канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 tvg-id="3482928175" group-title="HDgo",Пятый канал
+https://tv5-live-megafon2.mediavitrina.ru/hls-livef2/tv-5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="3482928175" group-title="HDgo",Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 tvg-id="3482928175" group-title="HDgo",Пятый канал
+https://a775797900-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="3482928175" group-title="HDgo",Пятый канал
+http://135.181.115.81/russia/5kanal/playlist.m3u8
+#EXTINF:-1 tvg-id="1256769602" group-title="HDgo",Домашний
+http://109.248.236.51/domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1256769602" group-title="HDgo",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="3776229244" group-title="HDgo",Че
+https://a3569456014-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="3776229244" group-title="HDgo",Че
+http://77.235.1.19:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="2222193862" group-title="HDgo",Travel+Adventure HD
+http://31.148.48.15/Travel_Adventure_HD/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-id="2222193862" group-title="HDgo",Travel+Adventure HD
+http://141.95.55.143/CH4577/index.m3u8
+#EXTINF:-1 tvg-id="2222193862" group-title="HDgo",Travel+Adventure HD
+http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3579692552" group-title="HDgo",TOP SECRET
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="3579692552" group-title="HDgo",TOP SECRET
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="378308118" group-title="HDgo",РЕН ТВ
+https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTINF:-1 tvg-id="378308118" group-title="HDgo",РЕН ТВ
+http://141.95.55.143/CH4523/index.m3u8
+#EXTINF:-1 tvg-id="378308118" group-title="HDgo",РЕН ТВ
+http://flu.ttk.mx:90/REN_TV/mono.m3u8
+#EXTINF:-1 tvg-id="378308118" group-title="HDgo",РЕН ТВ
+http://stream01.vnet.am/RenTv/mono.m3u8
+#EXTINF:-1 tvg-id="2901906194" group-title="HDgo",Домашние животные
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1305279126" group-title="HDgo",Первый канал Евразия
+http://online.hdgo.site/player30/playerjs.html?file=https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
+#EXTINF:-1 tvg-id="3994968776" group-title="HDgo",Феникс Плюс
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="3994968776" group-title="HDgo",Феникс Плюс
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1232434253" group-title="HDgo",Загородная жизнь
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 tvg-id="1232434253" group-title="HDgo",Загородная жизнь
+http://80.245.95.243:8888/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="1182847667" group-title="HDgo",Любимое кино
+http://91.205.199.3/lubimoekino/index.m3u8
+#EXTINF:-1 tvg-id="410564330" group-title="HDgo",Gulli Girl
+http://135.181.115.81:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="2327817521" group-title="HDgo",КТО КУДА
+http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1599348922" group-title="HDgo",FlixSnip
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="1599348922" group-title="HDgo",FlixSnip
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1250576907" group-title="HDgo",Дача
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2184279050" group-title="HDgo",World Fashion Channel Russia
+http://live-3.otcnet.ru/wfcint/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3491673490" group-title="HDgo",Русская комедия
+http://31.173.165.29:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="3491673490" group-title="HDgo",Русская комедия
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4002283151" group-title="HDgo",КИНОКЛУБ
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="4002283151" group-title="HDgo",КИНОКЛУБ
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2429461355" group-title="HDgo",Твое ТВ HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-id="2429461355" group-title="HDgo",Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="2596967126" group-title="HDgo",Movie Classic
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2930962440" group-title="HDgo",RETRO 80 HD
+https://autopilot.catcast.tv/content/38204/index.m3u8
+#EXTINF:-1 tvg-id="2256182588" group-title="HDgo",МУЗ ТВ
+http://109.248.236.51/muz_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2256182588" group-title="HDgo",МУЗ ТВ
+https://a3569456025-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="708971208" group-title="HDgo",Fashion TV
+http://146.158.0.56/FashionBox/mono.m3u8
+#EXTINF:-1 tvg-id="708971208" group-title="HDgo",Fashion TV
+http://176.74.80.162:8099/FashionBox/index.m3u8
+#EXTINF:-1 tvg-id="708971208" group-title="HDgo",Fashion TV
+https://tbs01-edge11.itdc.ge/fashionbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2463988009" group-title="HDgo",Блокбастер
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2586401442" group-title="HDgo",Суббота!
+http://a3569456000-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="2586401442" group-title="HDgo",Суббота!
+https://a775797900-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/video_384x216_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="2359886179" group-title="HDgo",Russian Music Box
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2411187628" group-title="HDgo",8 канал
+http://146.158.0.56:80/8kanal/index.m3u8
+#EXTINF:-1 tvg-id="2331222995" group-title="HDgo",Смайлик ТВ
+https://stream1.itv.uz/1425/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1720480413" group-title="HDgo",ОТР
+http://31.148.48.15:80/OTR/index.m3u8
+#EXTINF:-1 tvg-id="1720480413" group-title="HDgo",ОТР
+http://94.232.104.237:8000/play/009/index.m3u8
+#EXTINF:-1 tvg-id="1720480413" group-title="HDgo",ОТР
+http://online.hdgo.site/player30/playerjs.html?file=https://streaming.televizor-24-tochka.ru/live/12-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 tvg-id="2657229135" group-title="HDgo",Россия 24
+http://109.248.236.51/rossia_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="353747275" group-title="HDgo",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3478480831" group-title="HDgo",ТВЦ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="3276015310" group-title="HDgo",Россия К
+http://109.248.236.51/rossia_k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2431634863" group-title="HDgo",Россия 1
+http://flu.ttk.mx:90/Russia-1/mono.m3u8
+#EXTINF:-1 tvg-id="2431634863" group-title="HDgo",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="2431634863" group-title="HDgo",Россия 1
+https://flussonic.salomtv.uz/Rossiya1/video.m3u8
+#EXTINF:-1 tvg-id="792652135" group-title="HDgo",КиноМистика - Сити Эдем ТВ
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="792652135" group-title="HDgo",КиноМистика - Сити Эдем ТВ
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1846293471" group-title="HDgo",Беларусь 2
+http://87.99.87.203:2007/channel/154fe33c/index.m3u8
+#EXTINF:-1 tvg-id="3853834318" group-title="HDgo",Беларусь 24
+http://87.99.87.203:2007/channel/n6b537b88/index.m3u8
+#EXTINF:-1 tvg-id="3853834318" group-title="HDgo",Беларусь 24
+https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w717386883_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-id="420152137" group-title="HDgo",Беларусь 3
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w14452038_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-id="420152137" group-title="HDgo",Беларусь 3
+http://87.99.87.203:2007/channel/154fe33d/index.m3u8
+#EXTINF:-1 tvg-id="4144325221" group-title="HDgo",Беларусь 1
+http://87.99.87.203:2007/channel/154fe33b/index.m3u8
+#EXTINF:-1 tvg-id="4144325221" group-title="HDgo",Беларусь 1
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1244197741_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-id="2082087273" group-title="HDgo",UNIVER TV
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1252281823" group-title="HDgo",Том и Джерри ТВ
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-id="1503291659" group-title="HDgo",Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="3837224842" group-title="HDgo",ТДК
+http://31.148.48.15:80/TDK/index.m3u8
+#EXTINF:-1 tvg-id="941984329" group-title="HDgo",СПАС
+https://streaming.televizor-24-tochka.ru/live/15-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 tvg-id="941984329" group-title="HDgo",СПАС
+https://spas.mediacdn.ru/cdn/spas/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-id="4250660800" group-title="HDgo",CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="4250660800" group-title="HDgo",CGTN Русский
+http://94.158.54.107/87/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="389019703" group-title="HDgo",О!Кино
+http://82.215.111.227/1058/index.m3u8
+#EXTINF:-1 tvg-id="389019703" group-title="HDgo",О!Кино
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="797447890" group-title="HDgo",Мир
+https://streaming.televizor-24-tochka.ru/live/22-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 tvg-id="797447890" group-title="HDgo",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="797447890" group-title="HDgo",Мир
+https://vgtrk-live-megafon2.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/mir/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="2050908290" group-title="HDgo",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="375054020" group-title="HDgo",Здоровое ТВ
+http://82.215.111.227/1428/index.m3u8
+#EXTINF:-1 tvg-id="375054020" group-title="HDgo",Здоровое ТВ
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:-1 tvg-id="375054020" group-title="HDgo",Здоровое ТВ
+https://stream1.itv.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="365810565" group-title="HDgo",Жара Kids TV
+http://109.248.236.51/zhara/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4008629851" group-title="HDgo",Мульт БУМ! ТВ
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-id="2562520577" group-title="HDgo",РБК
+http://46.174.83.66/RBC/index.m3u8
+#EXTINF:-1 tvg-id="2562520577" group-title="HDgo",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="2717931929" group-title="HDgo",Cinema Classic TV
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4159381967" group-title="HDgo",НТМ Мордовия
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="339340549" group-title="HDgo",Белсат ТВ
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 tvg-id="2563174241" group-title="HDgo",Мульт и Музыка
+http://109.239.208.82:80/multmusic/index.m3u8
+#EXTINF:-1 tvg-id="2563174241" group-title="HDgo",Мульт и Музыка
+http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="483772725" group-title="HDgo",TiJi
+http://online.hdgo.site/player30/playerjs.html?file=http://109.248.236.51/tiji/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2134942498" group-title="HDgo",Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="2848405567" group-title="HDgo",NRJ Hits TV
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 tvg-id="3823747885" group-title="HDgo",Музыка Первого
+http://31.148.48.15:80/Muzika_Pervogo/index.m3u8
+#EXTINF:-1 tvg-id="2264025058" group-title="HDgo",Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="4042471844" group-title="HDgo",Поехали!
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1825078018" group-title="HDgo",Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 tvg-id="2494051600" group-title="HDgo",ТНТ4
+https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
+#EXTINF:-1 tvg-id="1091150128" group-title="HDgo",Ani
+http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="1990796034" group-title="HDgo",360
+https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 tvg-id="2850694652" group-title="HDgo",Нано
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 tvg-id="2850694652" group-title="HDgo",Нано
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 tvg-id="2029368514" group-title="HDgo",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 tvg-id="1715493518" group-title="HDgo",Известия ТВ
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="2786488239" group-title="HDgo",RTG
+http://31.148.48.15:80/RTG/index.m3u8
+#EXTINF:-1 tvg-id="2786488239" group-title="HDgo",RTG
+http://188.113.190.15/63/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="160063318" group-title="HDgo",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
