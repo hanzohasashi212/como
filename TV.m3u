@@ -2007,13 +2007,33 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 
 
 
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/1/logo_256_1655445101.png", Первый канал
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/wX1qs-TnFuEs0U-DOEjXFw,1754376887/streaming/1kanalott-drm/324/5/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Россия
+https://mhd.iptv2022.com/p/vE2ohg7MgervmMR5SJ49-A,1754377313/streaming/1kanalott-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Россия-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd.iptv2022.com/p/jeDNI7xpk9ekLF8csqh6JQ,1754376903/streaming/rossia1ott-drm/324/5/index.m3u8
-
+https://mhd.iptv2022.com/p/qnyIlyxvGf_ueZmV44Vq6A,1754377331/streaming/rossia1ott-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Матч ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd.iptv2022.com/p/u6OpdSnYmn5qJrckupD6Og,1754377351/streaming/matchott-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Телекомпания НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd.iptv2022.com/p/VxkBO__aRzlmn6zdQ_3i4g,1754377369/streaming/ntvnn-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Петербург - 5 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd.iptv2022.com/p/HqPpoVaXqabWuQ2EzYh6Cg,1754377395/streaming/5kanalott-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Россия - К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd.iptv2022.com/p/uJDiB6aeECgsvkXFcXsHUg,1754377413/streaming/rossiak-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Россия - 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd.iptv2022.com/p/x8HBi-aH9Az3bY-MHHypWw,1754377431/streaming/rossia24nn-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Детско-юношеский телеканал «Карусель»
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd.iptv2022.com/p/8thDHX3q6KjnWXJRTkwgSQ,1754377451/streaming/karusel-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Общественное телевидение России
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd.iptv2022.com/p/3h0ZLjzVPlt76m0k4J7Asg,1754377467/streaming/otr-drm/324/5/index.m3u8
 
 
 
