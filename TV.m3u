@@ -6363,7 +6363,8 @@ http://iptv.prosto.tv:7000/ch346/video.m3u8
 http://iptv.prosto.tv:7000/ch316/video.m3u8
 
 
-
+#EXTINF:-1 group-title="С сайтов",Devil TV
+https://vsd254.okcdn.ru/hls/4129979632256.m3u8/sig/UM5NYkA8QjE/expires/1755455842565/srcIp/213.230.92.73/urls/185.226.53.64/clientType/0/srcAg/UNKNOWN/mid/4929588829824/video.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="http://i120.fastpic.org/big/2022/1129/a3/e14bf519c90b3f8cb5fc4aea77209aa3.png" tvg-id="Среда (Дагестан)",СРЕДА
 http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema",Alpha Moretime
