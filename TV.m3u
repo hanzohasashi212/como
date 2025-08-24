@@ -1195,109 +1195,359 @@ https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=i_
 
 
 
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg",Mahalla
-https://iptv.itv.uz/hls/live/t/-48JtWskdRHSbTWaoyKDMA/e/1756041292/1013/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg",Amudaryo TV
-https://iptv.itv.uz/hls/live/t/-7wsSEeAhlnDFanZ8YA_4A/e/1756041559/1491/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg",Sport UZ HD
-https://iptv.itv.uz/hls/live/t/-Nla-TWAK10f4PG98RBGgg/e/1756041153/1004/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg",Gold Television
-https://iptv.itv.uz/hls/live/t/3UFvunvz9vYJyYkuPogxlw/e/1756041352/4007/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/26//3b502b779ef41d61b37bc535bf869f87-q-500x500.jpeg",NTV
-https://iptv.itv.uz/hls/live/t/5ZTNlU0CNdg8g_TGGk0Nug/e/1756041401/1284/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/30//e0b6c076a550ab5149d1a5812d14c587-q-500x500.jpeg",Sevimli TV SD
-https://iptv.itv.uz/hls/live/t/6BfEpukW0Fte567PfOIWsw/e/1756041193/1056/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg",Kinoteatr HD
-https://iptv.itv.uz/hls/live/t/7IpdSl0MtUHB3PjkKVPR3w/e/1756041301/1009/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg",Ташкент
-https://iptv.itv.uz/hls/live/t/b0yxt8YfsmJUns-cD5zU3Q/e/1756041143/1003/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/10/28//a29a63851d77f2b79dd890b5e888b72d-q-500x500.jpeg",LUX.TV
-https://iptv.itv.uz/hls/live/t/cC3icbXV7TOS2bER640nqw/e/1756041372/1210/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",Mimi TV
-https://iptv.itv.uz/hls/live/t/dL56AG2glOcfDtDqvnpLkQ/e/1756041480/1470/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg",Fergana MTRK
-https://iptv.itv.uz/hls/live/t/fd4Snfb0r58K6NcSgGGGAQ/e/1756041421/1458/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg",O'zbekiston 24 HD
-https://iptv.itv.uz/hls/live/t/FW7ep4sjqIDHZSm2veoPgw/e/1756041173/1011/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/01//0e264d0a734bc52d4887a98dddd13bfa-q-500x500.jpeg",MYDAYTV
-https://iptv.itv.uz/hls/live/t/i4d2OjKAbq2FQcJtLxHazg/e/1756041232/1265/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg",MakonTV HD
-https://iptv.itv.uz/hls/live/t/iWxp7r4yfLF4iaZlKyISUA/e/1756041610/1497/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg",Navo
-https://iptv.itv.uz/hls/live/t/J8NeA_-G5fq0bHtaeV5sRg/e/1756041271/1008/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg",Jaslar TV
-https://iptv.itv.uz/hls/live/t/ja6QxK7b8EzszJcEoQGIzQ/e/1756041580/1490/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg",Dunyo bo`ylab
-https://iptv.itv.uz/hls/live/t/JwkThVYf-q1dg0Xuwhjliw/e/1756041322/1006/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg",Vodiy TV
-https://iptv.itv.uz/hls/live/t/k3R7cqSdcaw6VjbsYldenA/e/1756041461/4012/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg",TTV Kino
-https://iptv.itv.uz/hls/live/t/kfcb9wy5ixD5AzGAHdqI7g/e/1756041500/1486/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg",Madaniyat va Marifat
-https://iptv.itv.uz/hls/live/t/kpeJ2wx8o8fuplPh3zei0g/e/1756041281/1005/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg",Узбекистан
-https://iptv.itv.uz/hls/live/t/l4FxDrZDOy3dCyb4fjVhpA/e/1756041121/1001/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg",Taraqqiyot TV
-https://iptv.itv.uz/hls/live/t/lFk3LZihNJphTihlt8IM3w/e/1756041332/1204/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg",Milliy SD
-https://iptv.itv.uz/hls/live/t/mE36yNoR-8vA-ekReqGn0g/e/1756041203/1216/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg",TTV
-https://iptv.itv.uz/hls/live/t/MnU3Bmt1nuTYOHn7R18A0w/e/1756041490/1494/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/22//42581c5407b1ecfcc533a153c0d3dc19-q-500x500.jpeg",LiveTV
-https://iptv.itv.uz/hls/live/t/Mq3S2Q28Yw9Sk0JQxnBZ5Q/e/1756041600/1475/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/06//d650b7a25deeb8a4f48a899eca793598-q-500x500.jpeg",BizTV HD
-https://iptv.itv.uz/hls/live/t/MqZbDTJ4ZFMkROuAf7UKqQ/e/1756041262/1211/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg",Xorazm MTRK
-https://iptv.itv.uz/hls/live/t/OGzuvbg3k7b42VKmLqy3yA/e/1756041441/1464/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg",Ellikqala TV
-https://iptv.itv.uz/hls/live/t/o_Zr1fIcTaXkZIhLIoV1PA/e/1756041540/1495/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg",TTV Musiqa
-https://iptv.itv.uz/hls/live/t/p0j8v_nO7m0EhsVA8H_HDg/e/1756041510/1485/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg",Shifo TV
-https://iptv.itv.uz/hls/live/t/PhBLVVIg1edLbnofp-DVKg/e/1756041470/1469/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg",Ruxsor TV
-https://iptv.itv.uz/hls/live/t/R0JH7Hs-jj9DwdPRTH1mmg/e/1756041362/4008/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg",Surxondaryo MTRK
-https://iptv.itv.uz/hls/live/t/R5uC1i5a8k_KidTEZ52qjw/e/1756041431/1463/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg",Bolajon
-https://iptv.itv.uz/hls/live/t/Rm0v7ruBcUHonyXqrlqV0Q/e/1756041241/1007/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg",Jizzax TV
-https://iptv.itv.uz/hls/live/t/RZA0RvlZ60HVa0Wbcz4oug/e/1756041520/1488/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg",Futbol TV
-https://iptv.itv.uz/hls/live/t/S57a2T_8AuJGMy7WuHGapg/e/1756041163/1010/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg",Aqlvoy
-https://iptv.itv.uz/hls/live/t/sVFJ1cNJPBzyd18mnMY79Q/e/1756041251/1205/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27d9324713264f6d8c4cc6986cf4ae86-q-500x500.jpeg",iTV Music
-https://iptv.itv.uz/hls/live/t/tcHBMz1W9JktrfCREAQffQ/e/1756041212/4001/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg",Ёшлар
-https://iptv.itv.uz/hls/live/t/txApE1zwFm-7Y5R_rzvrzg/e/1756041132/1002/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/24//b2e7b7a4e645fbef99b302d06b35670d-q-500x500.jpeg",Biz Cinema
-https://iptv.itv.uz/hls/live/t/u2Bab5hOthlXxS35su_Ibg/e/1756041381/1213/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/26//0cc702bdf78b38aff615d7c502dd4fe2-q-500x500.jpeg",Istiqlol TV
-https://iptv.itv.uz/hls/live/t/U4hsaAOCyVadF10sSyPgmg/e/1756041411/1283/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg",Muloqot TV
-https://iptv.itv.uz/hls/live/t/vGVBtgYKQ_c1ZLLWUVWiEw/e/1756041590/1285/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/19//2b9d5460c300fafc6cac117e0650b4fd-q-500x500.jpeg",S-Ikbol
-https://iptv.itv.uz/hls/live/t/wQPdp0eIZNdulchMMmSDzg/e/1756041342/1282/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//91c58d573e4a8e351e68a0ebcbe724ab-q-500x500.jpeg",iTV Cinema
-https://iptv.itv.uz/hls/live/t/w_PGcha2BKJ1yIccD_leqA/e/1756041183/4000/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/24//261595d890bd48621a89240d3d182aa2-q-500x500.jpeg",Biz Music FHD
-https://iptv.itv.uz/hls/live/t/x3WYJwipoIMOzNFxPhJ9KQ/e/1756041391/1212/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg",MY5 SD
-https://iptv.itv.uz/hls/live/t/xSayeyiJrc8Ky-ioC-EZPg/e/1756041222/1217/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg",ishonch TV
-https://iptv.itv.uz/hls/live/t/xwViCsSy0tH_6co_zChL8Q/e/1756041530/1489/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg",Nasaf TV
-https://iptv.itv.uz/hls/live/t/y5K995_siXEKXfyBiXvTIg/e/1756041569/1492/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg",O'zbekiston tarixi FHD
-https://iptv.itv.uz/hls/live/t/ZbbLzUsoep5b4S2ZOUucog/e/1756041311/1209/index.m3u8?ip=213.230.86.143
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg",Qaraqalpaqstan
-https://iptv.itv.uz/hls/live/t/zD2HQ9i5FsNCpQ_1voMVLA/e/1756041451/1467/index.m3u8?ip=213.230.86.143
+#EXTM3U
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/27//8734a4e8e3118b26b04fcb1a2fbdeb72-q-500x500.jpeg",365 Дней
+https://iptv.itv.uz/hls/live/t/ca6z6_eVPQhSeWAbOPlyXw/e/1756126923/1242/index.m3u8?ip=213.230.86.143
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg",8TV
-https://iptv.itv.uz/hls/live/t/Z_Csn9CxTJFWzDPJ908hLw/e/1756041550/1496/index.m3u8?ip=213.230.86.143
+https://iptv.itv.uz/hls/live/t/goOzYQ2iZsi_XXi65t3anA/e/1756126164/1496/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg",Amudaryo TV
+https://iptv.itv.uz/hls/live/t/OjZwQj7jm_1pr1eKt2ACaA/e/1756126174/1491/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/26//e30e9eb6c12ce4d052c040145fe7718c-q-500x500.jpeg",Animal Planet HD
+https://iptv.itv.uz/hls/live/t/Na9pwOXzyDslyRcmxkUVUQ/e/1756127044/1043/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg",Aqlvoy
+https://iptv.itv.uz/hls/live/t/1ZQizqpIJKvHVKFk9_1qGw/e/1756125864/1205/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/03/12//8f14d48722ace61f793e4b1c2ca82563-q-500x500.jpeg",Az TV
+https://iptv.itv.uz/hls/live/t/pYTAChkEZ70Bcz9Zb2NP0w/e/1756127411/1455/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/03/08//0f5da4861771b949e1762343a6c7177f-q-500x500.jpeg",BBC-World
+https://iptv.itv.uz/hls/live/t/OMkYACZnbkLX-Nq00gGMvw/e/1756127268/1251/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/24//b2e7b7a4e645fbef99b302d06b35670d-q-500x500.jpeg",Biz Cinema
+https://iptv.itv.uz/hls/live/t/GDRsvNxLxTENUPwydimVmg/e/1756125994/1213/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/24//261595d890bd48621a89240d3d182aa2-q-500x500.jpeg",Biz Music FHD
+https://iptv.itv.uz/hls/live/t/U4gOXV50B7grMTV8qaLKpQ/e/1756126004/1212/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/06//d650b7a25deeb8a4f48a899eca793598-q-500x500.jpeg",BizTV HD
+https://iptv.itv.uz/hls/live/t/zeEiyL7d6MadZo9G_NP13Q/e/1756125874/1211/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/03//56a1a9da5f51a9018e39141933aaeb72-q-500x500.jpeg",Bloomberg
+https://iptv.itv.uz/hls/live/t/WxySO2x-sTc0dfo2z_dA6g/e/1756127308/1255/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg",Bolajon
+https://iptv.itv.uz/hls/live/t/9_H0UUeN2AdefVjpNx97qA/e/1756125854/1007/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/24//333e8170dd68c6817da6dfd427dbfd14-q-500x500.jpeg",Bollywood
+https://iptv.itv.uz/hls/live/t/ww8yEFzF0H9hhq51kTrXuw/e/1756126481/1444/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/26//392ec466cb2e311cb1533d43b10491d8-q-500x500.jpeg",BRIDGE Classic
+https://iptv.itv.uz/hls/live/t/aQBfKScgspcB3ZFjvmHisQ/e/1756127493/1269/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/03/08//35361b5b784ac69c64b210bca27b952c-q-500x500.jpeg",CGTN
+https://iptv.itv.uz/hls/live/t/imKuEiRUbZB9YksL4Yb6bw/e/1756127318/1253/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/03/14//afdc635ae720262eca65b008f811b71e-q-500x500.jpeg",CGTN Rus
+https://iptv.itv.uz/hls/live/t/IBi6wxvTQ2srRxmonZFruQ/e/1756127328/1456/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/06/28//e88246ab2540e99ee1faaad512b8f6ed-q-500x500.jpeg",Cinema TV
+https://iptv.itv.uz/hls/live/t/LdI-YS8W3UUXNuTk-3U_Qg/e/1756126423/1227/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/03//0af07e380104b6ec07028053825007f1-q-500x500.jpeg",CNBC
+https://iptv.itv.uz/hls/live/t/jZ8qAMJoiOWbpmC8YcawmA/e/1756127298/1256/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/10/28//3ae8caed468ac5aec0c156f4fb0a327b-q-500x500.jpeg",CNN
+https://iptv.itv.uz/hls/live/t/YZQAAt0rhfPyitDv2HWh1w/e/1756127278/1259/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/27//481adb7a8715288d24fb2ca837401d80-q-500x500.jpeg",DaVinci
+https://iptv.itv.uz/hls/live/t/eheOt8dkChoFHthwz_4G-A/e/1756126724/1231/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/23//d5f5d80e7a813a0e2dabcdad18fd42fd-q-500x500.jpeg",Discovery HD
+https://iptv.itv.uz/hls/live/t/wTzhTNeJFVbZgTJmPuu0Vg/e/1756126963/1039/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2019/07/09//e76890bb1bc002705cff24c9bb2e111d-q-500x500.jpeg",Discovery Science
+https://iptv.itv.uz/hls/live/t/UwMBEaknLjC6_J4u2jldyg/e/1756126953/1040/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//171e4f6b988ae2b12a39678422de8516-q-500x500.jpeg",Drive
+https://iptv.itv.uz/hls/live/t/OzzCOkWHPLoUJnEbTMHcDw/e/1756126883/1421/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/26//d6fd727284d75e047a1cb5eba0a31832-q-500x500.jpeg",Ducktv HD
+https://iptv.itv.uz/hls/live/t/m2F_L9vCg7BD1VNAaqI2yQ/e/1756126803/1271/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg",Dunyo bo`ylab
+https://iptv.itv.uz/hls/live/t/qVecI664QCUmBKP5jjjhPA/e/1756125933/1006/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/03/08//5523ba89a0285aac6f6befdd659918c3-q-500x500.jpeg",DW English
+https://iptv.itv.uz/hls/live/t/ItpX2d-bcBJjuchYZdaE_w/e/1756127338/1418/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg",Ellikqala TV
+https://iptv.itv.uz/hls/live/t/fHWV8wGATX9qASk6zlLUCA/e/1756126153/1495/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/24//31fe0860a6bdd26ab0a38fa4f312c5c9-q-500x500.jpeg",English Club
+https://iptv.itv.uz/hls/live/t/LuLeMAgWbOi5mnsGBYYZhg/e/1756126849/1442/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/23//f5905d01d70965ca38335affe0955537-q-500x500.jpeg",Eurosport 1 HD
+https://iptv.itv.uz/hls/live/t/GzSBIcGm9rr5ibU9rSvD4g/e/1756126659/1439/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/8e24713f9b1e4e3416ee664b005b3784-q-500x500.jpeg",Fashion TV
+https://iptv.itv.uz/hls/live/t/V82rqdzDnT6B51U4zUr8eg/e/1756127196/1053/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg",Fergana MTRK
+https://iptv.itv.uz/hls/live/t/0gtWQwhLa0QQi59PB70ZNw/e/1756126035/1458/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg",Fergana MTRK
+https://stream10.itv.uz/t/0gtWQwhLa0QQi59PB70ZNw/e/1756126035/1458/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/03//b8d0f9eeb7216a5d4639a1bafe6e07be-q-500x500.jpeg",FOX-NEWS
+https://iptv.itv.uz/hls/live/t/xC4FxzkTiJLcNAHjJxi5LQ/e/1756127288/1252/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/09/15//ea12bc7c3a231a13cee1289bf46c46fc-q-500x500.jpeg",France24
+https://iptv.itv.uz/hls/live/t/VHg7KzVlII5oTNDjYUJ0RQ/e/1756127348/1241/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/31//e6997a17041a3269131b53580685f497-q-500x500.jpeg",Fuel HD
+https://iptv.itv.uz/hls/live/t/bcQRn_28_L2t3SrqiiLwJQ/e/1756126619/1280/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg",Futbol TV
+https://iptv.itv.uz/hls/live/t/RnZfVAS8fvHExzSmwFImPw/e/1756125773/1010/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg",Gold Television
+https://iptv.itv.uz/hls/live/t/-N8zQZcYJhTWp2U-P-tCCQ/e/1756125963/4007/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/24//66e7cffea67407e5d03d80bb2df26c1b-q-500x500.jpeg",Gulli Girl
+https://iptv.itv.uz/hls/live/t/6PD9UnzFmfDAvpg57Lbqpg/e/1756126837/1445/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//6b6376318c6feffcb9b2ebc08d2e0880-q-500x500.jpeg",HDL
+https://iptv.itv.uz/hls/live/t/cORKwKGk2sRxwgSpahr3YA/e/1756127238/1222/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/24//4816ee6103361ac7220f83a0122e95c6-q-500x500.jpeg",Hollywood
+https://iptv.itv.uz/hls/live/t/5-nDWTsgrnE2gkqQxb4fjw/e/1756126461/1443/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/28//d818d165ab3ca5c95f88ef91bd4a7d5a-q-500x500.jpeg",Insight TV
+https://iptv.itv.uz/hls/live/t/DzZWQQkFjetWvFiJX-Gpng/e/1756126893/1416/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg",ishonch TV
+https://iptv.itv.uz/hls/live/t/Qul701p2xHfz8Rc2RS5pAQ/e/1756126143/1489/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/26//0cc702bdf78b38aff615d7c502dd4fe2-q-500x500.jpeg",Istiqlol TV
+https://iptv.itv.uz/hls/live/t/XyixhK4RL8QQa3cGdkQeuA/e/1756126025/1283/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//91c58d573e4a8e351e68a0ebcbe724ab-q-500x500.jpeg",iTV Cinema
+https://iptv.itv.uz/hls/live/t/zY42BsGtHNpwc8pqWze9JQ/e/1756125793/4000/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27d9324713264f6d8c4cc6986cf4ae86-q-500x500.jpeg",iTV Music
+https://iptv.itv.uz/hls/live/t/7VZ-m6mT0tYYGHm97jjZ8w/e/1756125823/4001/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg",Jaslar TV
+https://iptv.itv.uz/hls/live/t/z-iW24z8BcqaEu9J0pKS5A/e/1756126194/1490/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg",Jizzax TV
+https://iptv.itv.uz/hls/live/t/6LC5ayAXWuCG2zyot5--MA/e/1756126133/1488/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/26//9b0bb1546adb240a4ad71928b699dc60-q-500x500.jpeg",KBS World HD
+https://iptv.itv.uz/hls/live/t/-YYJbe3IOygXzxps7NZW9A/e/1756127369/1448/index.m3u8?ip=213.230.86.143
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg",Kinoteatr HD
-https://stream10.itv.uz/t/7IpdSl0MtUHB3PjkKVPR3w/e/1756041301/1009/index.m3u8?ip=213.230.86.143
-
+https://iptv.itv.uz/hls/live/t/5pDmd3D4P18VI3xASrhy_Q/e/1756125914/1009/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/22//42581c5407b1ecfcc533a153c0d3dc19-q-500x500.jpeg",LiveTV
+https://iptv.itv.uz/hls/live/t/uDC5RI4lDoQqDEHFu-UvUQ/e/1756126214/1475/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/10/28//a29a63851d77f2b79dd890b5e888b72d-q-500x500.jpeg",LUX.TV
+https://iptv.itv.uz/hls/live/t/q3t4va7v55PqsAqq0mCqwA/e/1756125983/1210/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg",Madaniyat va Marifat
+https://iptv.itv.uz/hls/live/t/sl5tndgXlHladyputNYNuw/e/1756125894/1005/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg",Mahalla
+https://iptv.itv.uz/hls/live/t/XAwrLp4u1lQ35njYbQkKzw/e/1756125904/1013/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg",MakonTV HD
+https://iptv.itv.uz/hls/live/t/OOxyT4UtcuHe4CHuV0WH_g/e/1756126224/1497/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg",Milliy SD
+https://iptv.itv.uz/hls/live/t/UwZ107V2QNYwbyw0Ysy0FA/e/1756125813/1216/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",Mimi TV
+https://iptv.itv.uz/hls/live/t/6XPLXtlxrKDM4Iy8GXEXvg/e/1756126093/1470/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/06/28//b4fcec6c6e1287d9b87a3511e6a76925-q-500x500.jpeg",MMA-TV
+https://iptv.itv.uz/hls/live/t/kol4lrXj-dNRrECND6d6BQ/e/1756126609/1226/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/27//d31aeef8b3ebea70439b543adb6b19bf-q-500x500.jpeg",MTV HD
+https://iptv.itv.uz/hls/live/t/__a-eLhrkzs4GbdOUN08VA/e/1756127473/1503/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/27//7cc3f8160e313ce4ece0dd85d8936b84-q-500x500.jpeg",MTV Live HD
+https://iptv.itv.uz/hls/live/t/u1gQSmEJ3y0jgaVf9-FGWw/e/1756127483/1504/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg",Muloqot TV
+https://iptv.itv.uz/hls/live/t/ySC8fyq8B2ZrV_CJvHrOSg/e/1756126205/1285/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg",MY5 SD
+https://iptv.itv.uz/hls/live/t/_PG36m693MyWIw_K8aLdHQ/e/1756125833/1217/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/01//0e264d0a734bc52d4887a98dddd13bfa-q-500x500.jpeg",MYDAYTV
+https://iptv.itv.uz/hls/live/t/GQuuKPw9nW82H2AJiwS1Xw/e/1756125843/1265/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg",Nasaf TV
+https://iptv.itv.uz/hls/live/t/8jiATSFyFs1pXfB8_UMVkQ/e/1756126184/1492/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539685804_10_16_2018-q-500x500.jpeg",Nat Geo Wild
+https://iptv.itv.uz/hls/live/t/qfsng7qmFOfbmFckkanr-Q/e/1756127024/1042/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539670320_10_16_2018-q-500x500.jpeg",National Geographic
+https://iptv.itv.uz/hls/live/t/dJfAZdCoVvXkzc6H3KdjDQ/e/1756127014/1041/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg",Navo
+https://iptv.itv.uz/hls/live/t/vQPCQ8H8JwuhKXFN3cEUjg/e/1756125884/1008/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/26//dd50a88ebb1637adf22b7dfe06d64087-q-500x500.jpeg",NHK World Japan
+https://iptv.itv.uz/hls/live/t/-mimvg0OLL5qXf_WtRd1Ug/e/1756127360/1449/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/27//cbfdab95d862c20ce56a09f4f151ce65-q-500x500.jpeg",Nickelodeon FHD
+https://iptv.itv.uz/hls/live/t/E1Si_jrOEQiY_7edVC6Pmw/e/1756126703/1500/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/27//603f522991233b98e8e731a9a8a7ed2b-q-500x500.jpeg",NickToons
+https://iptv.itv.uz/hls/live/t/iJjQOBBUip0QwTC7Drw_TQ/e/1756126714/1502/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/26//3b502b779ef41d61b37bc535bf869f87-q-500x500.jpeg",NTV
+https://iptv.itv.uz/hls/live/t/yT8zDe313v3xlxb1jmOF2g/e/1756126014/1284/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg",O'zbekiston 24 HD
+https://iptv.itv.uz/hls/live/t/Xn6YyTcb2neqGHqJ-qeUcg/e/1756125783/1011/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg",O'zbekiston tarixi FHD
+https://iptv.itv.uz/hls/live/t/sLt_VnblQm3rD88pfZoQSg/e/1756125924/1209/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/07/05//69906268002f9ef68d2ffe9878bb8952-q-500x500.jpeg",Paramount Channel
+https://iptv.itv.uz/hls/live/t/_6HBsrs-s2slTRqxuajsFg/e/1756126471/1505/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg",Qaraqalpaqstan
+https://iptv.itv.uz/hls/live/t/UCg99TsyRgEd6peezRo1Xw/e/1756126064/1467/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539677465_10_16_2018-q-500x500.jpeg",RuTV
+https://iptv.itv.uz/hls/live/t/iZWxofO9814v_Nr63WYr9w/e/1756127503/1202/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg",Ruxsor TV
+https://iptv.itv.uz/hls/live/t/hvDGpBVhXvOnIDdw6i0b7w/e/1756125974/4008/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/19//2b9d5460c300fafc6cac117e0650b4fd-q-500x500.jpeg",S-Ikbol
+https://iptv.itv.uz/hls/live/t/Uhbva5ejw0pf2YoC-Vaqng/e/1756125953/1282/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/30//e0b6c076a550ab5149d1a5812d14c587-q-500x500.jpeg",Sevimli TV SD
+https://iptv.itv.uz/hls/live/t/6qtSSSc5KbzkexMH6d8uVQ/e/1756125803/1056/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg",Shifo TV
+https://iptv.itv.uz/hls/live/t/Xr70l3RJFOLSFjgDaE8msg/e/1756126083/1469/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg",Sport UZ HD
+https://iptv.itv.uz/hls/live/t/AjqSTBAOOXOlgh5qdUksmA/e/1756125763/1004/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg",Surxondaryo MTRK
+https://iptv.itv.uz/hls/live/t/L3tNVNVexRWwy-eO4nawtA/e/1756126045/1463/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg",Taraqqiyot TV
+https://iptv.itv.uz/hls/live/t/BBJhZcDDHSLvuBOF1d69Dw/e/1756125943/1204/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/24//0d47a02f0eaa4fb71dd535e8aeabf468-q-500x500.jpeg",TIjI
+https://iptv.itv.uz/hls/live/t/5lH30I8B4K6jr-2j9NQM_w/e/1756126824/1441/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/26//44d4f080aaad6dad5993b644e8b8b526-q-500x500.jpeg",Trace Sport Stars HD
+https://iptv.itv.uz/hls/live/t/DFBOL2Q_oMGh1KmYcKKQEg/e/1756126649/1274/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/03//c421c33f9cf199a766370c152221ee33-q-500x500.jpeg",TRT AVAZ
+https://iptv.itv.uz/hls/live/t/CJ59P63tLgH8EReeXJrNpw/e/1756127452/1258/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/03//3f91faf9e56d172e51c3426c8bf69b0a-q-500x500.jpeg",TRT HABER
+https://iptv.itv.uz/hls/live/t/61rbyu6FVkBcY-8c2yiIlg/e/1756127379/1257/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/01//429841362f835018bd80861f5c487449-q-500x500.jpeg",TRT Music
+https://iptv.itv.uz/hls/live/t/ij8XlOwOT64YrgIGQPh73A/e/1756127462/1208/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg",TTV
+https://iptv.itv.uz/hls/live/t/l_UvgaeV7jLaIg98_S5SXg/e/1756126103/1494/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg",TTV Kino
+https://iptv.itv.uz/hls/live/t/adaDNX3qn7pXbG6Gunzy2A/e/1756126113/1486/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg",TTV Musiqa
+https://iptv.itv.uz/hls/live/t/ZxVi057JiLEfSDb3eTaaVg/e/1756126123/1485/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/23//efa102b22ab6603f803081b78f9f810d-q-500x500.jpeg",TV 1000
+https://iptv.itv.uz/hls/live/t/qwQIQAuNa8n6DuPmhM4bUQ/e/1756126433/1058/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/23//96e0859ce3ac2d56c949cbe1a8488837-q-500x500.jpeg",TV1000 Action FHD
+https://iptv.itv.uz/hls/live/t/jN4tBBhq-VHKuIEAwNpPcQ/e/1756126452/1225/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/23//59907578752fdb6fd70d4f5c936554b4-q-500x500.jpeg",TV1000 Русское кино
+https://iptv.itv.uz/hls/live/t/jFjTYg9XUr35zmxNBjJwpQ/e/1756126442/1059/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//db5a4e946e22c91a26e679f1e8dd7427-q-500x500.jpeg",Viasat Explore
+https://iptv.itv.uz/hls/live/t/5m0uz1z6GPFTKScBY4rDSg/e/1756126943/1045/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//28bed62d65cd84c92e602bb2289fef71-q-500x500.jpeg",Viasat History
+https://iptv.itv.uz/hls/live/t/DF3xbkkHMResopqWmPVQFA/e/1756126914/1046/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/23//4b9e623d37a918937f6f99ad0f5abff5-q-500x500.jpeg",Viasat Nature FHD
+https://iptv.itv.uz/hls/live/t/kTt4hRoeC3-38lxEARJEUA/e/1756127123/1228/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//768357ea291f44fd23680ee68132805d-q-500x500.jpeg",Viasat Sport
+https://iptv.itv.uz/hls/live/t/Kz62PY0SLJpCvKcB720Idg/e/1756126580/1229/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg",Vodiy TV
+https://iptv.itv.uz/hls/live/t/9qC6Evd0FE1VevgDiiywrA/e/1756126073/4012/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg",Xorazm MTRK
+https://iptv.itv.uz/hls/live/t/sUUVF2WHerpOkncFhHroEg/e/1756126054/1464/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/03/08//4e7987e51062fc28dfebbd36a405b4fb-q-500x500.jpeg",ZooПарк
+https://iptv.itv.uz/hls/live/t/vDtygtyOc5PqRHFBSMKZng/e/1756127065/1417/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg",Ёшлар
+https://iptv.itv.uz/hls/live/t/lxOFXveq1xbOLN2cvfp4Mw/e/1756125743/1002/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//f8889a3ab3ad7272a3a60bfa0640d097-q-500x500.jpeg",Авто 24
+https://iptv.itv.uz/hls/live/t/-_7RveUFmvQ5rMi_g1ZGEw/e/1756126873/1430/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539687248_10_16_2018-q-500x500.jpeg",Авто Плюс
+https://iptv.itv.uz/hls/live/t/XUD3bC5Y82r-MOr6pA8cRQ/e/1756126861/1036/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//817cb83d560f06fdc24d699f5ec47632-q-500x500.jpeg",Арсенал ТВ
+https://iptv.itv.uz/hls/live/t/yPpjgbzSeYkiCsKOD4FdgQ/e/1756126903/1414/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/26//d9e19de9d8e51019391dbc65bad58e48-q-500x500.jpeg",В гостях у Сказки
+https://iptv.itv.uz/hls/live/t/fX6FZaVPFpd-jEfgXrS7LQ/e/1756126735/1270/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//5e4715dbc4c19b8ccc109de31d4a4435-q-500x500.jpeg",В мире животных
+https://iptv.itv.uz/hls/live/t/ZpwcdYeN2TobAvdhzVOemQ/e/1756127102/1404/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//62c6a7e1e9d0f2f365c780b35be7f419-q-500x500.jpeg",Вопросы и Ответы
+https://iptv.itv.uz/hls/live/t/gcOvYxmM0zig-UVM2boMug/e/1756126983/1429/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//af8ae3a345d0345e5f51ddedb00f5fe9-q-500x500.jpeg",Глазами Туриста
+https://iptv.itv.uz/hls/live/t/HBsxFDykpD_aNyIKVSrvZA/e/1756127258/1423/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/19//f6eba35aee7afdb4efe797baed4176b3-q-500x500.jpeg",Доктор
+https://iptv.itv.uz/hls/live/t/iEFqP_mfe0FtOfwEggezFw/e/1756126629/1474/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/10/28//b133087cbc976edcd975caa248118413-q-500x500.jpeg",Дом Кино
+https://iptv.itv.uz/hls/live/t/uBRAjst08_aTomEL3lOXpQ/e/1756126520/1054/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//7d6e813cd55fd948848f41c338a8da09-q-500x500.jpeg",Домашние Животные
+https://iptv.itv.uz/hls/live/t/mswPrW2HotRAGoTpMIzQlA/e/1756127112/1426/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/26//b1bef9dcde190b953b3f232b714435e6-q-500x500.jpeg",Дорама
+https://iptv.itv.uz/hls/live/t/L-uyEldTk5D6XEXAncLNRA/e/1756126510/1273/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/06/30//5cf56449cd08b0e9dd2a70df48f3108c-q-500x500.jpeg",Живая Планета ТВ
+https://iptv.itv.uz/hls/live/t/eNNnM13EiJ8u5ha1I2ZNRQ/e/1756127134/1250/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//3d55ec1e40fc56bc30ca6dc23c04fa9b-q-500x500.jpeg",Живая природа
+https://iptv.itv.uz/hls/live/t/-LlRrqJ7oM78Xzjfdye2aw/e/1756127144/1411/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/03/08//e517ca95e509ff22a711343571995677-q-500x500.jpeg",Живи
+https://iptv.itv.uz/hls/live/t/eT1YvM8mJmxHoW6JzKoFXQ/e/1756127217/1419/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//81d3c4eee35f3a9107f7058547aebd67-q-500x500.jpeg",Живи активно
+https://iptv.itv.uz/hls/live/t/SPz3lEigFJyx0aoCn2nNIw/e/1756127227/1405/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/01//36b86213c7f45bc8e13fc4e17b9159ab-q-500x500.jpeg",Загородный
+https://iptv.itv.uz/hls/live/t/xODi6w8d8lGnuJQohqxnFg/e/1756127177/1044/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539682154_10_16_2018-q-500x500.jpeg",Звезда
+https://iptv.itv.uz/hls/live/t/pNkWuOGaPkLn2unj63M5TA/e/1756126275/1050/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//a9d3c785328317b91fa2c1f846d4115d-q-500x500.jpeg",Здоровое ТВ
+https://iptv.itv.uz/hls/live/t/3FyqI-sH1RPPiPR3Zno_xQ/e/1756127206/1428/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539678644_10_16_2018-q-500x500.jpeg",Индийское кино
+https://iptv.itv.uz/hls/live/t/7icZBalNsRHDSTnmbCm0Yg/e/1756126395/1060/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/12/31//a81461a14b7c6f118ff9017be9c26a41-q-500x500.jpeg",История
+https://iptv.itv.uz/hls/live/t/Gd1GXlkWYVNK_Jhrz1aS0w/e/1756126933/1266/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//15df684884f1626180a5621858713890-q-500x500.jpeg",КХЛ
+https://iptv.itv.uz/hls/live/t/ib9_CQzxCNEElvkMmufrsQ/e/1756126600/1422/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//4ed022ebadd52a92b9bbc74b08184d15-q-500x500.jpeg",Капитан Фантастика
+https://iptv.itv.uz/hls/live/t/aqV2siHrgJrYwg-ecsfbkg/e/1756126758/1406/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539682249_10_16_2018-q-500x500.jpeg",Карусель
+https://iptv.itv.uz/hls/live/t/cXT2_mlPk9t2L2-izRgTIA/e/1756126669/1034/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/07/20//1a8628a152bbee35f86d784341b25f14-q-500x500.jpeg",Кинокомедия
+https://iptv.itv.uz/hls/live/t/vLwzPFPWdDJEF5VjVe2AZg/e/1756126385/1232/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/07/20//6ca0afa439bff13f635a3d10820e0dd2-q-500x500.jpeg",Киномикс
+https://iptv.itv.uz/hls/live/t/KWX2A8p-h8J08FUNPiqKmA/e/1756126376/1233/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//ac21fb4cccf9698688ebb185fd6affc2-q-500x500.jpeg",Кинопоказ
+https://iptv.itv.uz/hls/live/t/R7CVwqWPxeW00qdGY-_n8w/e/1756126413/1057/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539671291_10_16_2018-q-500x500.jpeg",Кинопремьера FHD
+https://iptv.itv.uz/hls/live/t/Tn14QvYHoSgUF-1gHKTbZQ/e/1756126315/1207/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539678189_10_16_2018-q-500x500.jpeg",Киносвидание
+https://iptv.itv.uz/hls/live/t/p_EhpHcVkzO2frCfrgkYmg/e/1756126366/1203/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/07/20//40ed58c9ef1929111e06f15b29652e87-q-500x500.jpeg",Киносемья
+https://iptv.itv.uz/hls/live/t/TXG6gSgAmZk33YfWAuh8VQ/e/1756126356/1234/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/07/20//def52b54f333507e6969f453e2852bb1-q-500x500.jpeg",Киносерия HD
+https://iptv.itv.uz/hls/live/t/69xf9Twry-xJrVQNtPtuSA/e/1756126346/1235/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539678567_10_16_2018-q-500x500.jpeg",Кинохит
+https://iptv.itv.uz/hls/live/t/SzfHEYzXUiUcoBHJPTCKMg/e/1756126305/1055/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/28//e27b67c92801d4a3e86df46068e2b70b-q-500x500.jpeg",Космический ТВ
+https://iptv.itv.uz/hls/live/t/RyPrfxt5cJiTAM4gtUsWMQ/e/1756126994/1415/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/05/27//3f5ef83e7d0341e4d723956433906cb2-q-500x500.jpeg",Кухня ТВ
+https://iptv.itv.uz/hls/live/t/rET4l-2BvtU4FOpEIqk7Aw/e/1756126559/1236/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//bc9fffd46ba6a67aed673caa0a1ef84c-q-500x500.jpeg",Ля Минор
+https://iptv.itv.uz/hls/live/t/ULix3x5evOlSXhdc1l19Sg/e/1756127533/1238/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/01/22//5a1f43f9bb56d6bb8e53f4d944af2830-q-500x500.jpeg",Мама
+https://iptv.itv.uz/hls/live/t/LMwJlil70mkl_Zhmx8edgw/e/1756126768/1244/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/06/12//63eac2c32226988efefa615c4431c8d3-q-500x500.jpeg",Матч Планета
+https://iptv.itv.uz/hls/live/t/DMRCisQXDpT-2RBLxapXog/e/1756126590/1243/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/01/29//13d43d954ad361b7e27049f3a00acda4-q-500x500.jpeg",Мир
+https://iptv.itv.uz/hls/live/t/5dBpvGbov-EYmi1igF0D_w/e/1756127389/1218/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/01/29//e688f2186a13f3f3ac9a2edd471d7bf9-q-500x500.jpeg",Мир24
+https://iptv.itv.uz/hls/live/t/4i2OfLpmUgris0v6bSeZ7A/e/1756127399/1219/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/06/30//653c08a04df575556112d14387461106-q-500x500.jpeg",Моя Планета
+https://iptv.itv.uz/hls/live/t/NSJpYR4uf-ZroKeKjGkWAA/e/1756127187/1247/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/07/20//f150911ca6863e154db38355ea8c5c01-q-500x500.jpeg",Мужское кино
+https://iptv.itv.uz/hls/live/t/fq_JpZDAIZF1SynpJuf0CA/e/1756126404/1237/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539676973_10_16_2018-q-500x500.jpeg",Муз ТВ
+https://iptv.itv.uz/hls/live/t/qskAbQiayTrAxX6U7daCPA/e/1756127513/1200/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539677657_10_16_2018-q-500x500.jpeg",Музыка Первого
+https://iptv.itv.uz/hls/live/t/5cRzUvMQlTB6e6bSx7UJ6Q/e/1756127523/1201/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/06/30//31bf5fcca9a01d7aad3e93b08b68e1ab-q-500x500.jpeg",Мульт ТВ
+https://iptv.itv.uz/hls/live/t/M9LVRnHQ698KuhmGlY67GQ/e/1756126679/1246/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/18//8282e4fb9993ec4e3c391cb1103cde78-q-500x500.jpeg",Мультиландия
+https://iptv.itv.uz/hls/live/t/oxEyEnYhgnN9Mu2KhAaoEw/e/1756126689/1440/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539673835_10_16_2018-q-500x500.jpeg",НТВ
+https://iptv.itv.uz/hls/live/t/z-zIafpKrNomoAnpc4r3Lg/e/1756126264/1023/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/06/30//a45deeadee9760c6d7106f9d63f2ba86-q-500x500.jpeg",Наука ТВ
+https://iptv.itv.uz/hls/live/t/9wszgikpVQPVPddMVRQ6rg/e/1756126973/1248/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//a8070ecb70f2c211cb56141cbb257237-q-500x500.jpeg",Наша Сибирь
+https://iptv.itv.uz/hls/live/t/PvVYz8s-4kg5vwG4cpqUXQ/e/1756127086/1424/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539678706_10_16_2018-q-500x500.jpeg",Наше новое кино
+https://iptv.itv.uz/hls/live/t/xq27nEkJBOuv7SgqLE7nxQ/e/1756126336/1051/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/16//f305b2e53a4c61ec7e6028dc89c3a50d-q-500x500.jpeg",Океан HD
+https://iptv.itv.uz/hls/live/t/dCMJO9CnJC9mt6X9Wb9QtA/e/1756127034/1473/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2019/07/09//0cdc39cd98bc75175ca5ef28e63471a7-q-500x500.jpeg",Охота и рыбалка
+https://iptv.itv.uz/hls/live/t/iZReBpHlzyLYigy0maxCGw/e/1756127054/1038/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//bccf23d746dc54cf00113e5c941df39a-q-500x500.jpeg",Охотник и рыболов
+https://iptv.itv.uz/hls/live/t/v-4m_hsaZtAzWyhpYuBExw/e/1756127075/1413/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539667812_10_16_2018-q-500x500.jpeg",Первый
+https://iptv.itv.uz/hls/live/t/mOHFczT1Czxt69IewVFDYA/e/1756126235/1019/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/10/28//2a8ebe8401dd495ceb7b877c9cb43d8a-q-500x500.jpeg",Первый HD
+https://iptv.itv.uz/hls/live/t/AQt0geckZkX2i15GDIQIAg/e/1756126245/1214/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/10/28//2a8ebe8401dd495ceb7b877c9cb43d8a-q-500x500.jpeg",Первый HD
+https://iptv.itv.uz/hls/live/t/kgQEjlZlWhxCs417-29kWA/e/1756126285/1214/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/05//a4dcf6984ede6984b218c68788aaae1a-q-500x500.jpeg",Приключения
+https://iptv.itv.uz/hls/live/t/sppuR5FEPG_Ag4Tk2j1DoA/e/1756127248/1420/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//bef79f9a9885011ed23a506e8625153d-q-500x500.jpeg",Ретро ТВ
+https://iptv.itv.uz/hls/live/t/YlciGyij-PnW2CZ8YhjQVg/e/1756126540/1047/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539678907_10_16_2018-q-500x500.jpeg",Родное кино
+https://iptv.itv.uz/hls/live/t/SV5U1WvNfzIwRGNDi7vgqg/e/1756126326/1052/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/10/28//3949af971384aacf7c3e45bf758dd5b0-q-500x500.jpeg",Россия 1
+https://iptv.itv.uz/hls/live/t/q8gs7XixaowQYNmZIe2jFQ/e/1756126255/1020/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/10/28//3dac3983d4adc9be46d5e797bbff1b0a-q-500x500.jpeg",Россия 24
+https://iptv.itv.uz/hls/live/t/1HecsOt5FAfunFzc7zsq8Q/e/1756126295/1021/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/10/28//51ea042d93588003e47efc4cb724f278-q-500x500.jpeg",Россия Культура
+https://iptv.itv.uz/hls/live/t/v7h3M95R5HZNcba_84Mylw/e/1756126549/1048/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//f016fd40a8af09a6891ad315d709c68e-q-500x500.jpeg",Рыжий
+https://iptv.itv.uz/hls/live/t/4LgulUgd5RgshotLwTIfJA/e/1756126779/1407/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/06/30//8c7bd1e4d61de82e1fe7100aa959243c-q-500x500.jpeg",Сарафан ТВ
+https://iptv.itv.uz/hls/live/t/lhsnRBmoj4MAGHjrbZsOFw/e/1756126570/1249/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/04//07d1397c2e5f47a5933b75ced8eb4785-q-500x500.jpeg",Смайлик ТВ
+https://iptv.itv.uz/hls/live/t/8H7lmVo08ZgJyO0lJZi5Bw/e/1756126789/1425/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/1539687134_10_16_2018-q-500x500.jpeg",Т24
+https://iptv.itv.uz/hls/live/t/qAAybxSAYcdnyLO4HSOZYg/e/1756126491/1037/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/26//0b8831589c48257ae66a279ebaea22f1-q-500x500.jpeg",ТВЦ
+https://iptv.itv.uz/hls/live/t/JjyKNbTDTmF088AqdIkbLQ/e/1756126500/1025/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/19//f54e5b325ff4363adac90ef9a01675fc-q-500x500.jpeg",ТНВ
+https://iptv.itv.uz/hls/live/t/CZMl6rT-wZpO0j4jYJf-Qw/e/1756127433/1062/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/16//40414599b94269697bfa8698362e75e7-q-500x500.jpeg",Тайны Галактики HD
+https://iptv.itv.uz/hls/live/t/_tXFpddKUL6bOKXyhG_ajw/e/1756127004/1472/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg",Ташкент
+https://iptv.itv.uz/hls/live/t/xPnjK3_23F8k_ZTXe1ArEA/e/1756125753/1003/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2019/07/09//f0d4ec7c30f7791ce0fa0a37488b793c-q-500x500.jpeg",Телекафе
+https://iptv.itv.uz/hls/live/t/nWsaPSqXdJLHO9Ivkyqyyw/e/1756126529/1035/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/26//02b4213364cc9b80d6de09655b040143-q-500x500.jpeg",Точка Отрыва
+https://iptv.itv.uz/hls/live/t/Htg6MZf7aje2wMoMsfj59w/e/1756126638/1031/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/11/08//e9a36091c0d357e3d002512a47567846-q-500x500.jpeg",Туган Тел
+https://iptv.itv.uz/hls/live/t/fNU_zIbSBRsRFwDsIrU_Aw/e/1756127442/1261/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg",Узбекистан
+https://iptv.itv.uz/hls/live/t/1d12cj5nX1H8Dp8rFCbLtA/e/1756125732/1001/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/03/08//501bde173a2aa9320a306c9c7ad4df78-q-500x500.jpeg",Уникум
+https://iptv.itv.uz/hls/live/t/lTC_f7MvujjCbcrO_a_zcw/e/1756126746/1033/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//f17e4a35a1e0c26ef49448284adf81b7-q-500x500.jpeg",Усадьба
+https://iptv.itv.uz/hls/live/t/VMDUKA1pjEjJUnSG6y4ioQ/e/1756127165/1427/index.m3u8?ip=213.230.86.143
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg",Хабар 24 KZ
+https://iptv.itv.uz/hls/live/t/5PvHBmCQQ02OjdCHA--dWw/e/1756127421/1408/index.m3u8?ip=213.230.86.143
 
 
 
