@@ -2045,340 +2045,973 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 
 
 
+
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ygvsuS47XnMLLr6ZzjO6Ng,1756290063/streaming/1kanalott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Cl3ee6iV_Bzv0W-3qsIzYw,1756297892/streaming/1kanalott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Россия-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/QQb1h233FMVCZBmvdvxLxw,1756290076/streaming/rossia1ott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/dAiTh7oct8zmi_NaNj0eHQ,1756297904/streaming/rossia1ott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Матч ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/zfU5ccF1fmR9YWeFgDgq-Q,1756290087/streaming/matchott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/w4K7L5OjvmPPSlrKGEaoLA,1756297914/streaming/matchott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Телекомпания НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/zoSYUKHOXmOjyoOEeqww5g,1756290098/streaming/ntvnn-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Uk-T-7JZ1wx7S8OmxCRnHA,1756297925/streaming/ntvnn-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Петербург - 5 канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/L0zefKDA-GZPWqdg1H-d7Q,1756290108/streaming/5kanalott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/t6eQbMgk7e59-6sUswVB8g,1756297935/streaming/5kanalott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Россия - К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ci3lIy11Wrqav5O5CcJWWQ,1756290118/streaming/rossiak-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/l5CzmZKvTsGfCEVhBPvE0A,1756297945/streaming/rossiak-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Россия - 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/50QmIub6tg5SMhXNq8SPuw,1756290128/streaming/rossia24nn-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/diPydMPgpj7DulrUi2TBDQ,1756297955/streaming/rossia24nn-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Детско-юношеский телеканал «Карусель»
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/JMUCu-etZfhwIVsy4BXFGg,1756290139/streaming/karusel-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/zpjSwjaUuRWeMu1TFFYBhQ,1756297965/streaming/karusel-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Общественное телевидение России
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/7YgMoQ5c679HgrHObt0hKw,1756290148/streaming/otr-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/fnM5WOiC5Rc4ttczTPTJWA,1756297974/streaming/otr-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТВ ЦЕНТР - Москва
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/_FuswHUrM01uUZUUhp--AA,1756290158/streaming/tvc-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/e_SOF2okb6Sf_uVUddF_gQ,1756297984/streaming/tvc-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/JpvVFDSHb10CY-W9Ft_yyg,1756290167/streaming/rentvott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/9p9AMQAS1bO5EWcTmfjBZQ,1756297993/streaming/rentvott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Спас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/MYTiuEsSuYDKZirYkzVt-A,1756290178/streaming/spas-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/KpxkCtW9b_BR-ltBw85nwg,1756298003/streaming/spas-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/dOTZozcKlEw_p1GtwLq2CQ,1756290187/streaming/stsott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/1aJ7u0X_UbNOhxY2AbVQRA,1756298012/streaming/stsott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/qAhgQC5R6pipVAsCrZ3SRw,1756290197/streaming/domashiyott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/__47CjIf-_1Lf4N8KIrxnA,1756298022/streaming/domashiyott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТВ-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/CXfeFGSFrYMEP7gSyC7JOQ,1756290206/streaming/tv3ott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/nz9IXs1cY5bRlrZI3f0EpA,1756298032/streaming/tv3ott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Пятница!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/E2-icbniATKAs6RScMU5EA,1756290216/streaming/pyatnicaott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Wcoyc-kGIwVzmuOdWJSI9g,1756298041/streaming/pyatnicaott-drm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/PDuRyjZmsJnfaVRSTzQISA,1756298051/streaming/zvezda-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", МИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/z8fomLv0kAWtcpOLOIgzcg,1756290235/streaming/mirott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/CfPFoBWYPfh9G_YoEkESUg,1756298061/streaming/mirott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/AsAtKDSfxW_52dO5D_h54A,1756290245/streaming/tntott-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/gRgXCM3VKPXMtOJoMYThaA,1756298071/streaming/tntott-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/3vB38OzIiwFXXrwnrV7lRw,1756290256/streaming/muztv-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/t-tZlJGzL_ClZhSDkYjW0g,1756298081/streaming/muztv-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Чăваш Ен (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/31H2PQSv_bf5rg7EinhTaQ,1756290266/streaming/chavashen/324/5/index.m3u8
+https://mhd.iptv2022.com/p/-HDgDl7xreSBYU2qB0iDbw,1756298092/streaming/chavashen/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ЮТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Rihd8hFlcE7RVX9jLiBhBw,1756290276/streaming/utv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/bJ-vTdb_s4m9HuAERbeHUg,1756298102/streaming/utv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/bG8a3435RXuuuV1qnax77w,1756290286/streaming/tnt4ott/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Dreg--Xgn-fWb2Hr6HxlCQ,1756298112/streaming/tnt4ott/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", СОЛОВЬЁВLIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/_tyC8bzLWMIwj1iBekBn2g,1756290296/streaming/solovyevlive/324/5/index.m3u8
+https://mhd.iptv2022.com/p/4zi5bVq6WZ2Ox4pOaF0R6w,1756298122/streaming/solovyevlive/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Че
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/LqnhQ1RLhPVTyVzjDLvQzg,1756290306/streaming/cheott/324/5/index.m3u8
+https://mhd.iptv2022.com/p/pa_hJyvof9KGbBdkgw07sw,1756298133/streaming/cheott/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/g3DnbkIbM6UYW696Pb0cFA,1756290316/streaming/solnce/324/5/index.m3u8
+https://mhd.iptv2022.com/p/9dSy0MY2gED-UTigwOfAQg,1756298143/streaming/solnce/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/yL4Y8nf0a6x2ccH6LbP72A,1756290326/streaming/channelu/324/5/index.m3u8
+https://mhd.iptv2022.com/p/aLucaK9ydnEALXtHacd_Ew,1756298153/streaming/channelu/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", СТС-Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/JcpfsX-B0FkLQvhQHngKtQ,1756290336/streaming/stsloveott/324/5/index.m3u8
+https://mhd.iptv2022.com/p/CV0WTX99u6jFcXOaEEZPKQ,1756298162/streaming/stsloveott/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Известия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/C7SXGj_5V1LMExxXUl6DRA,1756290345/streaming/izvestia-drm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Pr84DVpZDWeSRF3VOE4dxA,1756298172/streaming/izvestia-drm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/9MGn7BjlDZIhk9bW0SqLRA,1756290355/streaming/superott/324/5/index.m3u8
+https://mhd.iptv2022.com/p/VMZiqCWajCCnzzZWl0hzTg,1756298182/streaming/superott/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/VSQNBNnvF-a6ixr1YSZ1Mw,1756290366/streaming/2x2/324/5/index.m3u8
+https://mhd.iptv2022.com/p/xE7JiRjLEAf6KjkWA5AGlg,1756298191/streaming/2x2/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Красная линия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/mNawRgmOjC6baM6Z66f3kA,1756290375/streaming/redline/324/5/index.m3u8
+https://mhd.iptv2022.com/p/fx47BNyaEUtUBWVeNMSh0Q,1756298201/streaming/redline/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/QosPXldOU5AAI8eBJrE4bg,1756290385/streaming/rutvnn/324/5/index.m3u8
+https://mhd.iptv2022.com/p/17Y9aB2U-dmhiy9-ZOFdqg,1756298211/streaming/rutvnn/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Советские мультфильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/MZwODLXvsYkK49xmuDkqjw,1756290395/streaming/rusmult/324/5/index.m3u8
+https://mhd.iptv2022.com/p/owyYMnLBElDXrgoktAe3fw,1756298221/streaming/rusmult/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Феникс+ Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/R6KiWyWgd1vC7-5fDYCCPw,1756290404/streaming/fenixkino/324/5/index.m3u8
+https://mhd.iptv2022.com/p/iWZZ3l7CNweGN4TgU2Rbkg,1756298231/streaming/fenixkino/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Тайны Галактики
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ogt__FaJnJYdoVZW_3ziRg,1756290414/streaming/taina-galaxy/324/5/index.m3u8
+https://mhd.iptv2022.com/p/-ljpzkhtqtVQo0LwmC9zVw,1756298241/streaming/taina-galaxy/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Открытый мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Grm-MMK4FOQJB60mNsf4Ww,1756290424/streaming/openmir/324/5/index.m3u8
+https://mhd.iptv2022.com/p/-fK2EtNq78u1igwpzPUH-g,1756298251/streaming/openmir/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ЕГЭ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/IDjqu2U2DTrI8sO4R2nSqg,1756290433/streaming/ege/324/5/index.m3u8
+https://mhd.iptv2022.com/p/gUzUpnjU9fsS8XnO6RD2rw,1756298261/streaming/ege/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Вместе-РФ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/75PLLgphl-jTWuY5h3nYOw,1756290443/streaming/vmeste-rf/324/5/index.m3u8
+https://mhd.iptv2022.com/p/t4RUbKkcYny6IJD7qoj89w,1756298270/streaming/vmeste-rf/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Детский Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/OfYQ3o_vP3tX7dvIP51mhA,1756290453/streaming/detmir/324/5/index.m3u8
+https://mhd.iptv2022.com/p/N0IrWMb4zqpqszSvyyJEUQ,1756298280/streaming/detmir/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/EwxvUup2PRrCsGVCywO_8w,1756290462/streaming/rt/324/5/index.m3u8
+https://mhd.iptv2022.com/p/6udeeb2tPel1lVkDV1DlSw,1756298290/streaming/rt/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RT DOC Eng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/_eXCqsRw00D-Ll6xkUVkyg,1756290472/streaming/rtdoc_eng/324/5/index.m3u8
+https://mhd.iptv2022.com/p/C0XH80gYrc0pY0ux-Q2Nhg,1756298299/streaming/rtdoc_eng/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RT Eng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/hQ9q8Aft89URrw36wBw2uw,1756290482/streaming/rt_eng/324/5/index.m3u8
+https://mhd.iptv2022.com/p/-kJRqgTOuHyuQP2AntfOtw,1756298309/streaming/rt_eng/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RT France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/jsLr3zGLaMrDFKoRjwVBug,1756290491/streaming/rt_fra/324/5/index.m3u8
+https://mhd.iptv2022.com/p/v-BcCtKdZ8RZ6_SAtK8f3w,1756298319/streaming/rt_fra/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RT Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/UFBkc_EMmHMIL_rMVF4RrA,1756290502/streaming/rt_arab/324/5/index.m3u8
+https://mhd.iptv2022.com/p/jqnjh7raBgAicp5FZsBlSQ,1756298329/streaming/rt_arab/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RT Español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/lrOfO7KKAUH-_C8S7C067A,1756290512/streaming/rt_esp/324/5/index.m3u8
+https://mhd.iptv2022.com/p/QGWAalbioBdQ2YkxvaeOUg,1756298338/streaming/rt_esp/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RT Deutsch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/llCTuag_AN7tDTnQLPDz1w,1756290522/streaming/rt_deu/324/5/index.m3u8
+https://mhd.iptv2022.com/p/2WgLP2qqhab5HeZYW0sljA,1756298348/streaming/rt_deu/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Первый Вегетарианский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/nT5fxCGprHwI2DPSYzZONw,1756290532/streaming/firstvegan/324/5/index.m3u8
+https://mhd.iptv2022.com/p/FuHmfe_j00w2xMhKoLLTMQ,1756298358/streaming/firstvegan/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ЛДПР ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ltHCUz9ra7MPfusQKttrUQ,1756290541/streaming/ldprlive/324/5/index.m3u8
+https://mhd.iptv2022.com/p/n6j31aQGryrRXgoQKxjrSA,1756298368/streaming/ldprlive/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Неизвестная планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Vq9iWHgX-zZdq9vDc3kl_Q,1756290551/streaming/np/324/5/index.m3u8
+https://mhd.iptv2022.com/p/jdqKfcdIEXN302TtY3LbNg,1756298379/streaming/np/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", МИР-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/oUCeiLesqY-YO1oH_oJuJw,1756290561/streaming/mir24/324/5/index.m3u8
+https://mhd.iptv2022.com/p/XuZi4U2MBs7kJjITCm5flw,1756298389/streaming/mir24/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Калейдоскоп ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/wr46nHXJR6afJqHWIjyY0w,1756290570/streaming/kaleidoskop/324/5/index.m3u8
+https://mhd.iptv2022.com/p/sJckDCTtdxR89BGieoc2yw,1756298398/streaming/kaleidoskop/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Диалоги о рыбалке
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/l2t-Ukc2GhXkDMdNZZnaaA,1756290580/streaming/oribalke/324/5/index.m3u8
+https://mhd.iptv2022.com/p/CrBqAePuj3c3z4aDeJwQPw,1756298408/streaming/oribalke/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 8 Канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/c2G9uXVZMUrLhOyD8uTDIQ,1756290590/streaming/8kanal/324/5/index.m3u8
+https://mhd.iptv2022.com/p/XZlsvep6DevpSgEPjCUUfQ,1756298418/streaming/8kanal/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТНТ Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/vC_WaWtezNhHKlgHJvWTcg,1756290600/streaming/tntmusic/324/5/index.m3u8
+https://mhd.iptv2022.com/p/wLbSrIsC6tgEpdyQ88GySQ,1756298428/streaming/tntmusic/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Дума ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/pkpyoz9ojA47CYTH1jXvug,1756290609/streaming/dumatv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/I0cfzY-FkXcGVfVxqU4IDw,1756298437/streaming/dumatv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Ратник
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/cNr7bCs0NH_bOiiKTHwvpg,1756290620/streaming/ratnik/324/5/index.m3u8
+https://mhd.iptv2022.com/p/sASu1ZP5fMdF6LeS9kM9gg,1756298447/streaming/ratnik/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Мультиландия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Ewq5CA3Js47qVj4ML0Zvng,1756290630/streaming/multimania/324/5/index.m3u8
+https://mhd.iptv2022.com/p/qwTU53oelJwp6-UCOm3I7w,1756298457/streaming/multimania/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Советское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/dzZpKNK7p8MD4pd69Kqi5w,1756290640/streaming/sovietmovs/324/5/index.m3u8
+https://mhd.iptv2022.com/p/R1m6FAC6wpsqf-mWKk48Ow,1756298467/streaming/sovietmovs/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/yOimMdDyWpbaux-ZSl4kKw,1756290650/streaming/pmobile/324/5/index.m3u8
+https://mhd.iptv2022.com/p/0e9KBPDeglzDWzlv3mn3QQ,1756298478/streaming/pmobile/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Терра Инкогнита
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/9fRPRafYcHu1aOfbFuporw,1756290660/streaming/terra/324/5/index.m3u8
+https://mhd.iptv2022.com/p/ebNrLG2jiiYkSvCR-lGIyg,1756298488/streaming/terra/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Joy cook
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Toe_3VDHzEPwc8Op9G-T2w,1756290670/streaming/joycook/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Jku40U4__IVse5gagSS3hQ,1756298498/streaming/joycook/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", КиноСезон
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/6_jNq-i-HFTJqQvKvAB2vw,1756290680/streaming/kinosezon/324/5/index.m3u8
+https://mhd.iptv2022.com/p/vhpZzuwVh8Qa25F5QpssOA,1756298507/streaming/kinosezon/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТВ-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/w7F_BJUFq-kEffIwYmBNew,1756290691/streaming/tv_xxi/324/5/index.m3u8
+https://mhd.iptv2022.com/p/phg9cTxH2y4Z-oWZHl8xog,1756298517/streaming/tv_xxi/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Horror TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/qoFz-2qjSRjoJOzOWifURA,1756290701/streaming/horror_tv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/MB_FE3vFGJvK-S7lIeTwZw,1756298527/streaming/horror_tv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Крик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/IR2aj1dyWyPSKdAhbsKY6Q,1756290712/streaming/rictv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/DSNYIuq-1IIxaVkXzzZ88w,1756298536/streaming/rictv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RUSSIAN MUSIC BOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/tlzgpFKM89vWKeAJRCljPg,1756290722/streaming/musicbox/324/5/index.m3u8
+https://mhd.iptv2022.com/p/s2DxGJSitJJH1XgFbHC_Eg,1756298546/streaming/musicbox/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Точка ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/C0uEIawH4lPkwbyryYipUw,1756290732/streaming/tochka/324/5/index.m3u8
+https://mhd.iptv2022.com/p/tDRwl6oOT0Qb3C0yah3QwA,1756298557/streaming/tochka/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/PA-5UQgF6Wsm4TSIexfKMg,1756290742/streaming/cgtn/324/5/index.m3u8
+https://mhd.iptv2022.com/p/F42cLI-tC2RDa6Km65meTg,1756298567/streaming/cgtn/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", CGTN Русский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/t1CQT4bHFdhQgLhquilCjw,1756290752/streaming/cgtn-rus/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Fn85U_Q-d7_S_NlgkpFYHQ,1756298577/streaming/cgtn-rus/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Конгресс ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ccwgqogSIGg8rPbbZhHHpw,1756290763/streaming/kongres_tv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/7p9EGGH2vyoY5wY98yuLkg,1756298588/streaming/kongres_tv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Детское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/pZT7vN2noH8WrOU4DV0R3Q,1756290773/streaming/det_kino/324/5/index.m3u8
+https://mhd.iptv2022.com/p/9VFh_1PTvfmHSU83-FzyXw,1756298598/streaming/det_kino/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Vostok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/1IFrA95hL5HHbdFDorZ6uw,1756290784/streaming/tmb/324/5/index.m3u8
+https://mhd.iptv2022.com/p/xa3XdVpi3lOlh-7hZodmxw,1756298608/streaming/tmb/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", МузСоюз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/XOFh7qrHODjrwhx2I1sp9w,1756290793/streaming/muzsouz/324/5/index.m3u8
+https://mhd.iptv2022.com/p/h5XZcPRoIyZhWFlH7EDePA,1756298618/streaming/muzsouz/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", МультСезон
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/WFupjinZbfvlJUtQKQhLpg,1756290814/streaming/multsezon/324/5/index.m3u8
+https://mhd.iptv2022.com/p/zKYKqRkxPBohyCZYTJsMIQ,1756298638/streaming/multsezon/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ОК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/F9rC6UmD08jYAQiKFmAkVg,1756290824/streaming/okino/324/5/index.m3u8
+https://mhd.iptv2022.com/p/kiR0MeVanlpW7GNoYOeIuA,1756298648/streaming/okino/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Пес и Ко
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/uV_9n8BpCmkvigIZRiwJVA,1756290834/streaming/pesiko/324/5/index.m3u8
+https://mhd.iptv2022.com/p/blmICz7-Oez0mk7OulXiQw,1756298657/streaming/pesiko/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Радость моя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/_57h71n96_C-2Np-YT0X4w,1756290844/streaming/radost/324/5/index.m3u8
+https://mhd.iptv2022.com/p/5jVeJHZ_Ef-C_w4Avzqt9g,1756298667/streaming/radost/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Нано
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/qOcxFOja9U1m7w9cKdiCCQ,1756290855/streaming/nano/324/5/index.m3u8
+https://mhd.iptv2022.com/p/x-4_Gbd2aCgugMj5q7GeYQ,1756298680/streaming/nano/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", РБК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ubWOBQgAmbDWnbeiCXo7YQ,1756290866/streaming/rbk/324/5/index.m3u8
+https://mhd.iptv2022.com/p/RF_8t6z7R5FhSHI97uHJ1w,1756298690/streaming/rbk/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Союз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/sA6ksQ0Pbe_CP1wEPp158A,1756290876/streaming/souz/324/5/index.m3u8
+https://mhd.iptv2022.com/p/xs4Z9DG5tMZaoGueUhm3ag,1756298700/streaming/souz/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Успех
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ka8wMafBctNNBxV4K70YUA,1756290886/streaming/uspeh/324/5/index.m3u8
+https://mhd.iptv2022.com/p/27wsp_tPlmpM9DNA3xQTYA,1756298710/streaming/uspeh/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", БелРос
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/_W8_KKDYQNEQ8Vj-CNNHgQ,1756290896/streaming/belros/324/5/index.m3u8
+https://mhd.iptv2022.com/p/JwI-dKpsAYLZ_IwnqJ2TKQ,1756298720/streaming/belros/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/zErlQTZsIUrU5L2q76erlQ,1756290907/streaming/bridgetv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/0KerGv1mnIm9BtjD8iEqtg,1756298730/streaming/bridgetv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Qj4YuWAwmX1fhi46yA3sfg,1756290918/streaming/br_dance/324/5/index.m3u8
+https://mhd.iptv2022.com/p/8yGkMrhhkz97qv2JRn5ycQ,1756298741/streaming/br_dance/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE РУССКИЙ ХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/_JF91xOZy4XRgzv9siCt4g,1756290929/streaming/br_rushit/324/5/index.m3u8
+https://mhd.iptv2022.com/p/0624Z82QXrEW-04dc5jrGA,1756298751/streaming/br_rushit/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Europa Plus TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ObQvNde4ZwvSu3QV5pP3oA,1756290939/streaming/evropaplus/324/5/index.m3u8
+https://mhd.iptv2022.com/p/H6N63Mh0KIAlKnGVq-lwtw,1756298761/streaming/evropaplus/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", UNIVER TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/MsO915yOuUIBKwDGH_QxBQ,1756290950/streaming/univertv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/_uL2AYjYA5RCNzqpp4XLdQ,1756298771/streaming/univertv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/r0ngcR6Qqc2se6S3tqyo-Q,1756290960/streaming/fashion/324/5/index.m3u8
+https://mhd.iptv2022.com/p/THUtwbGnaeV8b_ppw_LZCw,1756298782/streaming/fashion/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Надежда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/mFyexlizwLbpUgZyu4s7wA,1756290971/streaming/nadejda/324/5/index.m3u8
+https://mhd.iptv2022.com/p/ewigaBcEMiwvnTn1-ZwWPw,1756298792/streaming/nadejda/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Жара
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/hbr9ZrRNYW5RPKUZrHzXRw,1756290981/streaming/myhouse/324/5/index.m3u8
+https://mhd.iptv2022.com/p/0ZLl_7kvDr31sarTQUqzwA,1756298802/streaming/myhouse/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", КиноМеню HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/GmiBIHfjN3-m3blHvAOgyw,1756290992/streaming/kinomenu/324/5/index.m3u8
+https://mhd.iptv2022.com/p/vXRQK7O4cJGtxxr0TruN6g,1756298812/streaming/kinomenu/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Классика кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/dk2fIRYS_u1oFAoEjFz3NA,1756291002/streaming/k_kino/324/5/index.m3u8
+https://mhd.iptv2022.com/p/tczjMYk9ddYAwm1h-77sLA,1756298824/streaming/k_kino/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Сказки Зайки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/2YM0S2bO77lGOI4xnsJn8w,1756291012/streaming/zaj/324/5/index.m3u8
+https://mhd.iptv2022.com/p/FllVNV8eGmW9bpSCGeQsyw,1756298834/streaming/zaj/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Океан HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/p2WzA3bHr0DSZybUa7N5uw,1756291023/streaming/oceantv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/fpD8XhuggpLG2KXt4jgKlQ,1756298844/streaming/oceantv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Страна FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/sefrCQci9eCaeDpgZjeUmQ,1756291033/streaming/stranafm/324/5/index.m3u8
+https://mhd.iptv2022.com/p/8eqTzOPA0bxRyTAtPWIZVw,1756298854/streaming/stranafm/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Большая Азия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ByfKLB_d7GBfHbWnon6dUw,1756291044/streaming/bigasia/324/5/index.m3u8
+https://mhd.iptv2022.com/p/_Ekkjpwk_pvE6BvCKtZqDA,1756298864/streaming/bigasia/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 7tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/81lO8uDCBA82QdgylyCtpg,1756291054/streaming/7tv/324/5/index.m3u8
+https://mhd.iptv2022.com/p/31POtsBcDSE9txUZi15H9w,1756298874/streaming/7tv/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 360 Новости
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/7l9xcfQrDTpWnEArRKlvZg,1756291066/streaming/360news/324/5/index.m3u8
+https://mhd.iptv2022.com/p/YKqSlLkcCYXdAJaNhDjykg,1756298885/streaming/360news/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/StNzDVJQspecaTEBfWPwfw,1756291076/streaming/arirang/324/5/index.m3u8
+https://mhd.iptv2022.com/p/sOrgoY27NoqOSKdDhY58Ng,1756298895/streaming/arirang/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", SONGTV Russia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/ObWFgX62HTEtJkQjA-qQng,1756291086/streaming/songtvru/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Nja9LILuy33U1cUHmDBmtQ,1756298905/streaming/songtvru/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", TV BRICS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/tdpsx5LCDLiad55SuM9a2Q,1756291097/streaming/briks/324/5/index.m3u8
+https://mhd.iptv2022.com/p/8GNKcatySaoGLUo0ub_AnA,1756298915/streaming/briks/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Телеканал народной музыки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/34g79tKmZmF0NePdZHdQAA,1756291108/streaming/folk_music/324/5/index.m3u8
+https://mhd.iptv2022.com/p/fH5trmecxPMTQAIWiNuAsg,1756298927/streaming/folk_music/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Здоровье
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/9pb61Hl8KFEPLvjk11h9dA,1756291119/streaming/zdrav/324/5/index.m3u8
+https://mhd.iptv2022.com/p/gFvh86pAQeoPQqs37C-Fxg,1756298937/streaming/zdrav/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Живи Активно
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/sN4_V6UB136FXclNTV8xpA,1756291130/streaming/zhivi_aktivno/324/5/index.m3u8
+https://mhd.iptv2022.com/p/FoFjBQR1c4XG-loR9lgBKg,1756298947/streaming/zhivi_aktivno/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Живая природа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/CApOSwZ9XOc8xnS8lu2z5Q,1756291141/streaming/livenature/324/5/index.m3u8
+https://mhd.iptv2022.com/p/T2omcz6zk-lBJAQa20XxEg,1756298957/streaming/livenature/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Глазами туриста
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/WnCa0cwkSMn7VBGGIyVY7w,1756291152/streaming/tourist_eyes/324/5/index.m3u8
+https://mhd.iptv2022.com/p/ohD6dj0AudbWQrp2SukwsQ,1756298968/streaming/tourist_eyes/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Мир сериала
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Om4AOQPtK4-Ne0MGgIZvzg,1756291163/streaming/mir_seriala/324/5/index.m3u8
+https://mhd.iptv2022.com/p/fiV8VTFkM40iMJrRieLRfg,1756298978/streaming/mir_seriala/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE ROCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/nrroz2V90ccM4tTi7dRN4Q,1756291173/streaming/br_rock/324/5/index.m3u8
+https://mhd.iptv2022.com/p/Q2deKbfI3dbTsEMVrgY5Qg,1756298989/streaming/br_rock/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE Фрэш
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/759Z9UlchlVOOwjRK40JWQ,1756291183/streaming/br_fresh/324/5/index.m3u8
+https://mhd.iptv2022.com/p/XendKLOqoAnbv5XUV0vRsg,1756298999/streaming/br_fresh/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", LIVETVAZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/Qt9eZIm3tPFZzFeHrz3LaQ,1756291194/streaming/livetvaz/324/5/index.m3u8
+https://mhd.iptv2022.com/p/_P1SvstWzzbwjfLWXWI0cQ,1756299010/streaming/livetvaz/324/5/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 1HD Music Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://mhd.iptv2022.com/p/gFbEd2BlmYSmKVCxsiD8Nw,1756291205/streaming/1hd_music/324/5/index.m3u8
-
+https://mhd.iptv2022.com/p/8_TLw7JXZvchnnndWb8FLA,1756299020/streaming/1hd_music/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", РЖД ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/SwB9casn-eMDN6c-7ReF5g,1756299031/streaming/rjd/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", RTД HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/AsPLc8edMW61i6R8ZsFR_w,1756299042/streaming/rtdhd/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/HmYwhSu5dAxNjFtRosteHw,1756299052/streaming/360sd/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТВ ПРНК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/MuzArVuHDksQ6tazk_8BEg,1756299063/streaming/1pnk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Загородная Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/OQ67FGiMu6bwptsUBZR5gg,1756299073/streaming/zagorod/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE DELUXE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/zVdmd2uMSte5cMhCNeDPtQ,1756299083/streaming/br_delux/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE ШЛЯГЕР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/2VQCjJnhKvpW9DHO_nJMWw,1756299094/streaming/br_shlyager/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Travelxp HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/fodkrUCY3B2HYCCZJ0vJbQ,1756299104/streaming/travelxp/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Clubbing TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/keZzHYCCMYvhQbNBmD_-3w,1756299114/streaming/clubbingtv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Quadro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/h3shH4ut5fx37I2glbXTqw,1756299125/streaming/quadrohd/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Funny KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/4WxOBO429tjAdfnMrbdj7w,1756299135/streaming/anime_kids/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", АРТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/obJWzUoBI_YwUIPO4-Dccw,1756299145/streaming/art_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/zvG2ib_YJkTj4F8ctVL3oQ,1756299156/streaming/unknown_russia/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", SILK WAY CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/TJH2asO8P2BFJZeix7v_YA,1756299166/streaming/silk_way_cinema/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Too Much Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/E7f616swRtJqEgDQFeBBDA,1756299177/streaming/toomuch/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Благая весть
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/UiQZ7RRgj42c25dFNRNSVQ,1756299187/streaming/blagvestraz/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Мы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/V9lfawnlIqNjfm-dmlCWQA,1756299197/streaming/we_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Аппетитный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/1kXifs9B2N6OF-VG5-YF2Q,1756299208/streaming/appetitniy/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Волейбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/xWD3sf2UsAgFPR03kmBHvg,1756299218/streaming/volleyball/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", САНГАТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/LsXcu11YbeiUUA3Mai70qw,1756299228/streaming/sangat/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Полёт ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/a3gecgQRr6-HlUbYeUR9aw,1756299240/streaming/polet/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", АКВА ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/P-Z81N9cp70ym1_5go-0fg,1756299251/streaming/aqua/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Светлое ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/6a-O_Pn2lGVsPPDzA_oupg,1756299261/streaming/svetloetv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", LUXURY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/cTf6bRfyEzjD5I4mEdUFVw,1756299272/streaming/luxury/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", AIVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/QZn_Xs6OgaEM6lZk97QRcQ,1756299283/streaming/aiva_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Смайл ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/wxSOMPNKiH7eNvNFwF-PFQ,1756299293/streaming/smile/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ПРО БИЗНЕС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/fkT_iX0AQXHgztklwwL7Yg,1756299304/streaming/probusiness/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Продвижение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/hEf1xVFC3Gr-Gh_kUxf0oA,1756299315/streaming/prodvijenie/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Старт Триумф
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Gjy9bBeevkbLGHtaactZiA,1756299326/streaming/start-triumf/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/L2ttlEISRIfei0YO9oai6g,1756299337/streaming/br_classic/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Три Ангела
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/IjeP48tJ-yu5knpI_TYD3Q,1756299348/streaming/3angel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", The Explorers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Sys6rAI4iHRtOKdeD0gVXQ,1756299358/streaming/the_explorers/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", HD Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/3xLBvJUKaiUHEGfnv6ReSw,1756299369/streaming/hdmedia/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Шансон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/JCEcoOUBkX3w2snjnFfWiw,1756299382/streaming/shanson/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Министерство Идей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/psInx-T1XG1KGlMURlVOZg,1756299393/streaming/minidei/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Live Music Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/6jaB0TU5dzTu7J4Qq1j_WA,1756299403/streaming/livemusicchannal/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Кино и Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/fF4q2K-wOh9whKx0Hloe6Q,1756299414/streaming/kino_live/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Центральное ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/G_4n9H8O35c5UABrXXY3HA,1756299424/streaming/centrtv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Старт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/z0HbGt7enU_74h5Rg_1kIA,1756299434/streaming/start/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ОСН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/X5vPTnn883y2pt6OSFSKFQ,1756299445/streaming/osnmedia/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Музыка Мода ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ni16kH7r-DP82kEqx9rZpA,1756299455/streaming/mmtv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", LEOMAX24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/fRb5_SF6XBK7N2Vzwwh_Qw,1756299466/streaming/leomax24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ВКУС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/5sAaWmDxFXcPMZr7IJ46MQ,1756299477/streaming/vkus_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ЭХ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/tqigjkjrIPe4jmEhSTuIag,1756299488/streaming/eh_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ПЛЮС/МИНУС 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ee8CvXl-78surYqUoibR6g,1756299499/streaming/russian_ship/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Национальный жилищный канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ODQScNo6K8d-ssqlUwyaHg,1756299510/streaming/nzhklive/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BRIDGE ЭТНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Ve2I5KqfZxhZh29Xxbngig,1756299520/streaming/bridge_etno/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Kinoliving
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/86IbNm-XZY-LqWyYDU5T8Q,1756299531/streaming/kinoliving/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", World Fashion Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/SiTeUYAEVwrdTLS2vDGXoQ,1756299543/streaming/world_fashion/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", #Ё (Самара)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ytP2B1USDEPTMg2ncWx6zg,1756299554/streaming/echannel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Наше старое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/W8GEIYIgadwn6ouYW9HOYw,1756299565/streaming/public_dom/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Anime TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/7r-eksyIK1UU0P_lCDpR-Q,1756299577/streaming/anime_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Осетия-Ирыстон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/b9N2uKxEGtv6VaPSKIexjw,1756299588/streaming/osetia-iryston/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Novella TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ULymhHpbiHpDciPqScoSWA,1756299599/streaming/telenovella/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", BABY TIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/VatBHwVDz0hNwJXFltBwfA,1756299611/streaming/baby_time/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/vg6fios6leU9FBbuLM90Aw,1756299622/streaming/moscow24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТНВ Татарстан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/8CdH-GyyXrzlA6PkQR0Y6w,1756299633/streaming/tnv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТНВ Планета (Татарстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/WmqDfnxWJSK0IhEAnqPuyw,1756299644/streaming/tnv-planet/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 7 канал Красноярск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/1xHEmwDjFFJHd_6Qs8GaIA,1756299654/streaming/7channel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Волга (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/5Imkh5nMJVA8VMk3H1XWNQ,1756299665/streaming/volga-nn/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ОТВ (Екатеринбург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/0cMazF48PzHERfzLGjoWNA,1756299678/streaming/otvekb/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Первый Крымский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/AMpJnNoeXqoujLWxLc85aQ,1756299688/streaming/1crimea/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", БСТ (Уфа)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/LQvZ_PA6vWhJaA48j_m37g,1756299699/streaming/bst/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Лен ТВ24 (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/PWyNQcJjOrODpCt3uCws3w,1756299711/streaming/lentv24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Каскад24 (Калининград)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/5p0VRCtAuEoxuAmUEu3Tiw,1756299724/streaming/kaskad/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Грозный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Y82HP_Ubdxx0nqwZQPXR5Q,1756299735/streaming/grozniy/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Афонтово (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/fDTwzODZ0quwQ6tUfKfuXA,1756299745/streaming/afontovo/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ННТВ (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/JBFIsRGX-8GogB9ESgDgKA,1756299757/streaming/nntv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Губерния 33 (Владимир)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/587IqP0C_5Qac_iEevheXQ,1756299768/streaming/guberniya-v/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ШАЯН ТВ (Татарстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/hV3aEvw2vK8bXNQcwAf8zQ,1756299780/streaming/shayan/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Майдан (Татарстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/cUPc8kz_wZvI37pIUN-FOA,1756299791/streaming/maidan/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Хузур ТВ (Татарстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/lzRbZTdhP2H4QF8eD62F_g,1756299804/streaming/huzur/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Башкортостан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/HW92Qkz-pat185uHYOa_yw,1756299815/streaming/vgtrkbash/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", АРИС 24 (Башкортостан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/i5-6u4BpX9gN80B7IzPRmQ,1756299826/streaming/aris24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Вся Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/VUaD3KkW4BpHvS21TiEA_w,1756299839/streaming/allufaru/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ОТС-ТВ (Новосибирск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/2HcjxiW6Mx-Wcsh7qVczbw,1756299851/streaming/otsnovnosib/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 8 канал (Новосибирск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Qg7JhtHjg3LGsKHAzKLGrQ,1756299862/streaming/8channelnsk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 12 канал (Омск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/JIKChValVGEWDNO0ufYQwQ,1756299873/streaming/12channel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Сочи 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/6OfD16-8b7p03YR4UlAJpA,1756299885/streaming/maksmedia/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", СТРК (Сочи)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/1Qkv5I7Wel5UVnuyRspExA,1756299897/streaming/strk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", SochiLive (Сочи)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Tvr2zZxeH_S2n50GMpklZQ,1756299909/streaming/sochilive/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 43 канал (Туапсе)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/jkNNP6B2v5J3W_0t8UUxsg,1756299922/streaming/43kanal/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Краснодар он-лайн
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ZIKnGo1qXG630uchrpsLxg,1756299933/streaming/kransodar/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Мир Белогорья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/2r76Z2F486EFyBwAJNW-kA,1756299945/streaming/belogorie/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Крым 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/UhmKAlvHQ-EGReD2lSvXSg,1756299955/streaming/crimea24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", МТВ Столица (Дагестан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/6wUCbhD00yUFnJucfZj_BA,1756299966/streaming/stolica/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Матур ТВ (Башкортостан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/kKJxMTzJCp2XS4bPCBckWw,1756299978/streaming/matur1/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Дагестан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/hCx4Gu446MD2SbGJwOW9Bw,1756299990/streaming/dagestan/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Инфо 24 (Курганская область г.Шадринск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/2GKMnY20wTKqpO9Jr_mVwQ,1756300001/streaming/shard_info/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", НТРК Магас (Ингушетия)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Pyv30XWsoj7gnt5J3cyGGg,1756300012/streaming/ingushetia/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ГТРК «Кабардино-Балкария»
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/bY9zZYbhF6OPl_-fNv4yeQ,1756300023/streaming/kab_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Губерния ТВ (Хабаровск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/X2Ceip6djdh_MyfVnIuJ1g,1756300035/streaming/guberniya-h/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Silk Way
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ErmMQEixzw-RNyfiAHZW0g,1756300045/streaming/kazahtv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Тюменское Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/2IyeFRnqTDERgvS__hnjtw,1756300056/streaming/tumentime/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Север (Нарьян-Мар)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/6mGpVFDN5vva1WaQEbmZxQ,1756300069/streaming/sever/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 8 Канал (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/tvVN6biBYpogJ6Mbe9oqQw,1756300080/streaming/8krasnoyarsk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Юрган ТВ (Сыктывкар)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Vs1G7jGli1yDsJDglKLoYQ,1756300093/streaming/urgan/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Канал 86 (Сургут)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/x6CvF_D8rIgOxdXCXX0Rtg,1756300105/streaming/channel86/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Канал С1 (Сургут)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/89alCdvgjNJM0VA52_Xb9A,1756300117/streaming/channelc1/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", НВК Саха (Якутия)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/jwm_R_WV9m28fhypIwfX6w,1756300129/streaming/nsk-saha/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Санкт-Петербург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/8VCj9y2xpRYNb2zgyfxkWA,1756300141/streaming/topspb/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Саратов 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/TcpoSjPVwDQT6AGa_qSBVw,1756300152/streaming/saratov24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Наш дом (Пенза)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/YRDeNa0btwhfSNbTqPLOhw,1756300164/streaming/11channel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Общественное телевидение Приморья (Владивосток)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/64XGN5qEhVIAcu03T7pQZw,1756300177/streaming/otvprim/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", СВОЁТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Fp2JCDgTSf3rhBNkOW9Q5A,1756300188/streaming/svoetv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Наш дом (Пенза)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/f4jivu0kPwHr4ZvogsEhXg,1756300200/streaming/11channel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", НТС (Севастополь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/nhS-vqU5CR4IrrC5mLllkQ,1756300211/streaming/nts-tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Волгоград 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/lVYnNmx2RdHecSuWofI-ZQ,1756300223/streaming/volgogradtrv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Липецкое время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/8vJDSZ_Fi9uu1nukhudBKA,1756300235/streaming/lipeck/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Дон 24 (Ростов-на-Дону)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/uB3MtMw8ZaG8ysCJ-6tf5A,1756300246/streaming/don24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Ника ТВ (Калуга)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/rwBAY1LPfdXZsGxUhaU7XA,1756300258/streaming/nika/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", TV Губерния (Воронеж)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/lkQ0gkCQ9zahv1Pk0Fb0bg,1756300270/streaming/guberniya/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Губерния Самарская
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/qBkHXQ2myIK0Zhgagt3njA,1756300282/streaming/guberniatv-s/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", МТВ (Волгоград)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/5gOMMA2Omjb7q8Ln3_bDeA,1756300293/streaming/volgograd1/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Тверской проспект - регион ( Тверь )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/fkZ-wBGKET1JRInMMNYIpw,1756300305/streaming/tver-region/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Сейм (Курск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/8m9MRtxACTDTfWjxdIdUYA,1756300317/streaming/seim/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ОРТ-Планета (Оренбург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/KaIe3S9OIRXw4UgbqUsDKg,1756300329/streaming/media56/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Десятка (Кемеровская область г.Новокузнецк)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/huKU2J4jjhXZT7zkj00G0Q,1756300340/streaming/10channel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Ветта 24 (Пермь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/PPNE_12s_rvvqmTU6eg69Q,1756300351/streaming/vetta/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Томское время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/uyKveHuySsjemcMfU_kUZQ,1756300362/streaming/tomsk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Архыз 24 (Черкесск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/LWFsKK7gDU4A7brS01x9sw,1756300374/streaming/arhis24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТРК Экспресс (Пенза)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/JAk5ZeSDfQwMjJia04jKUg,1756300385/streaming/expres_penza/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/FiNMkoImAL59thDd7eqDJw,1756300399/streaming/cuban24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Енисей (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/7z4KFRdXsuFF7szKD1i6Ag,1756300410/streaming/enisey/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Ямал 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/TjMj8eoeJ5rO4qQG0v3loA,1756300423/streaming/arctica24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Катунь-24 (Барнаул)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/8LDfNFPMF_KqpUbsu1c2nw,1756300436/streaming/katun24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", НТМ (Мордовия)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/qyanCfysIZJXatEhPmR9TA,1756300448/streaming/ntm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТОЛЬЯТТИ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/MtG8hjFbsRb_kpaaAh4-Ug,1756300461/streaming/tolyati24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Аист ТВ (Иркутск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/thJNhKIWM0mW-eLXiWZHEg,1756300475/streaming/aisttv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Тамыр (Уфа)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/pdlN5mDcBjY-mTZVOvkrEg,1756300487/streaming/tamir/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Эхо 24 (Новоуральск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/HpI3ET7xiNtzpbUUQB07UA,1756300500/streaming/eho24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Жар Птица
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/wjzKC-f-bDu5OsdsZOC9rA,1756300511/streaming/jarptica/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Русский север (Вологда)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/4Kn7aT2qWQtpOaF9-Q9F6w,1756300523/streaming/russever/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Брянская губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/XewAFrtZbv8nIFasHBir6g,1756300538/streaming/guberniya-b/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Миллет (Крым)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/_GrfM3Sv82lusiM5xtfwEg,1756300549/streaming/millet/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Эфир (Казань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/2Ub62GzikZzaq5fKSo53RA,1756300561/streaming/efir/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Луч (ЯНАО)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/vBAdZYz3ZhJj6c0fF9N0iw,1756300574/streaming/luch/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Татарстан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/feFAi5mgHB7JT9D5pAx5WQ,1756300585/streaming/tatar24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Восток 24 (Владивосток)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Tb4oukQsndPdgvs7MDx86Q,1756300597/streaming/vostok24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Татарстан 24 Набережные Челны
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/yqS6d778a53Xd1MT9U-jNw,1756300610/streaming/tatar24_chelny/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Мордовия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/0i_fB0lzlqCaYTwgqc9uYw,1756300622/streaming/mordovia24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Рыбинск-40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/OWxOGKZgY61ME-0J3FrvWw,1756300634/streaming/rybinsk40/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Сургут 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/khvn5NlIZyxITvNFPuqMJQ,1756300648/streaming/surgut24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТКР (Рязань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/w7vozZj_IB6cam43yYu1Cw,1756300660/streaming/trk_razan/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Белгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/181lT58r4QtyOtjU8hK-vw,1756300671/streaming/belgorod24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Первый Тульский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/raptA1T1Mq_ijJ9gm9jniQ,1756300683/streaming/1tula/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТВК (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/F2iLzRClBN_axZT-Q9TjgA,1756300695/streaming/tvk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Салям (Уфа)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/QBRjmKIUuzldoFGWVirB8Q,1756300706/streaming/salyam/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТИВИСИ (Иркутск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/kR6QttR0JzplK_bfjfpIiw,1756300719/streaming/tivici/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Вестник Надыма (ЯНАО)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/WuCMzweqAJc9r0otao1pIA,1756300731/streaming/trknadym/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Импульс (Новый Уренгой)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/o7Ls4Efm5gJQMlHjVRxLCw,1756300742/streaming/impuls/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Самара 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/D5yAS5B2wSaWb_3n49xKKA,1756300754/streaming/samara24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", УРАЛ1 (Челябинск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/xTbE-UqOpEddM9NDgziUdA,1756300765/streaming/ural1/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Канал 12 (Череповец)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/0hQ9hydww-PN6BV5x9l6cQ,1756300776/streaming/12cherepovec/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Канал 16 (Саров)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/XkUPFSMzHOviWafR7r8p2A,1756300793/streaming/channel16/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТВ-ИН (Магнитогорск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/lTMGQgJLqioOANuU3sLIvg,1756300806/streaming/tvin/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Алмазный край (Якутия)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/rg6S7vhtlfTfSznFViBEOQ,1756300819/streaming/almaz_kray/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Якутия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/u_LW-jzYra-VFkb4zhMUSA,1756300832/streaming/yak24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Туапсе 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/39VyOd31FRpY0qfAs8j6vg,1756300845/streaming/tuapse24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ПРИМА (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/1Giyts063mm9B2_4P24ZKw,1756300857/streaming/primatv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Евразия (Оренбургская область г. Орск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/_s096GPSFrtSuf8QVmBzrw,1756300870/streaming/eurasia/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Тивиком (Улан-Удэ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/WL_OrYI4lCYRN6YnX9mX9w,1756300884/streaming/tvcom/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТОЛК (Барнаул)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/lB961SFsb_acc-dVxJHocw,1756300896/streaming/tolktv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Нижний Новгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/AQqOmJpJVXr6Utez1my25A,1756300909/streaming/vestinn24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 41 канал ВТК АРГУС (Воронеж)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/VKVPJItLOB1PVku9pXPibA,1756300922/streaming/41tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Вариант (Владимир)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/JgspR5_AmPs0gUNkQaMZRQ,1756300936/streaming/variant/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", TMTV (Казань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/pDLGUMHkCdtnR3fGPZgKmQ,1756300950/streaming/tmtv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 41 регион (Петропавловск-Камчатский)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/djTmZk25QCfZbICapB1zJw,1756300962/streaming/41region/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Первый Псковский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/h9nDthfZi7UicLHmpxk8gg,1756300974/streaming/1pskov/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Кузбасс 1 (Кемерово)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/2gcrov44nEoyOETNfXTl5A,1756300989/streaming/kuzbas1/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТМ-КВАНТ (Кемеровская обл.)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/oTKvNuiVqv5v5zoZh7brRw,1756301003/streaming/tm-kvant/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Абакан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Un3ne2yAeGUsG_Va0vRPzA,1756301016/streaming/abakan24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Девятка ТВ (Киров)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/dAxcuJ7Z7sA5kmzKvxcpIw,1756301029/streaming/devyatka/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 4 канал (Екатеринбург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/NzHZFtsIdVHguLR8T24X6g,1756301044/streaming/4channel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", САМОТЛОР (Нижневартовск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/JM3Jmsgh7OusihpN-tOWWg,1756301057/streaming/samotlor/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Беларусь 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/xbEPGjQ6YR0SYDqUw7tLog,1756301072/streaming/belarus24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", SONGTV Armenia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/xegGt__TV055osvfJRUlEA,1756301084/streaming/songtvam/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", MIXM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/wPAVDOn6LdZKJCzK_99slQ,1756301096/streaming/muz_play/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Новый век (Тамбов)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/UApQnHqXg-VJfLyYGwQ2Uw,1756301111/streaming/tambov/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Истоки (Орел)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/GkKigWbcFL1g2IGTDK8OeA,1756301124/streaming/istoki/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ПРИМ24 (Владивосток)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/MSRc8RHKqs0bs-0AHNIFFQ,1756301138/streaming/prim24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 78 канал (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/YPnBiGmIKPvFyvJofbKmHw,1756301152/streaming/78ch/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Кунел ТВ (Татарстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/TUEfXUPTgqcfK6qTMmf6lA,1756301165/streaming/kuneltv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Русь (Кострома)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/HytF979ytQw2IfyBsNF_Jg,1756301180/streaming/kostroma/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТВ21+ (Мурманск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/6Ll9RfvOBFRm03refj6IkA,1756301193/streaming/murmansk-tv21/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Рифей-ТВ (Пермь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/NDYefMSbQNOlS1RPbof8Ow,1756301206/streaming/rifey/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ТЕО ТВ (Москва)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/_S9lk3T7OkNhjJ1AO3Hv8g,1756301218/streaming/teo-tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Такт 24 (Курск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/NrU8rCAP11sn09L5JrvPFw,1756301232/streaming/takt-tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Смотри Радио (Оренбург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/h4CvUmkM_AZ7XHDK-gAmXg,1756301243/streaming/radio-orsk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Своё ТВ (Пермский край г. Березники)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/S-rCRngvpA7klYskMg053g,1756301256/streaming/svoetv-perm/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", ПАНОРАМА ТВ (Тверь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ewx-asVw-a9rrJlVVhCblw,1756301268/streaming/panorama_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Известия Саратов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/e2ndzx80qHw3H2PPBoGFFg,1756301281/streaming/izvestia-saratov/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Брянск 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/0fcuHvXkrEuBndWhp0BlBQ,1756301293/streaming/bryansk_24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", БСТ24 (Иркутская область г. Братск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/AVoUW51YJZ8tPnzpqeg91g,1756301307/streaming/bst24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Саров 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/tCqfTGRpqkhnZFeO81_ofg,1756301318/streaming/sarov24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", НСК 49 (Новосибирск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Xu2eE0S5D0afCRIwDX_mJA,1756301331/streaming/49channel/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Волга24 (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/eokTRfbaU5HujnuK7NMJEg,1756301346/streaming/vremyan/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", 27 канал Прокопьевск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/Xf_b0CrhmIaYvNpP9wXajw,1756301361/streaming/27trk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", АСТВ (Сахалин)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/lJ_RWaXUPCjvcqu7g6BcLg,1756301376/streaming/astv24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Бийское ТВ (Алтайский край г. Бийск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/EY8r6y6kns5r0ELk0F5GdQ,1756301390/streaming/btv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Первый Севастопольский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/i1FMVZ1uEY48rzJxtOVWDg,1756301402/streaming/1sevastopol/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Барс (Иваново)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/FQDIn5_1B1AuDJhu_RFRPQ,1756301415/streaming/bars/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Колыма Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ui69Tol-uMjnSHJeo5Uajg,1756301428/streaming/kolyma_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Буряад ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/ma8lxIKggR0dcZxRFiZAkw,1756301441/streaming/buryad_tv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Кунгур ТВ (Пермский край)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/7Nd740l84NFeAyE0hNo83A,1756301454/streaming/kungurtv/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", НТС (Иркутск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/LYeL9dNaWu0cu-0Dv_KkRQ,1756301468/streaming/nts-irk/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Северный Крым 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/CCyrFuOpPyzLlQLK3gvt0g,1756301483/streaming/sever_crimea24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Евпатория 24 (Республика Крым)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/e9qevxJS806YaRJ0iyNYzQ,1756301499/streaming/evpotoriya24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Керчь 24 (Республика Крым)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/F1jXCM7XjTEHrTWJeiB4lg,1756301514/streaming/kerch24/324/5/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="", Ялта 24 (Республика Крым)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://mhd.iptv2022.com/p/jHtktTXGz0tVuRn3Qgt7nQ,1756301527/streaming/yalta24/324/5/index.m3u8
 
 
 
