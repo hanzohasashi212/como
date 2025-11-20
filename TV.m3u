@@ -3924,6 +3924,107 @@ http://autopilot.catcast.tv/content/41596/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,Moviee Toper
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg" ,Kino Jam
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" ,КиноФраншизы 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" ,VHS кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/217855.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" ,Фильмы 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" ,GRAND IPTV TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/215088.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://img.catcast.tv/uploads/04102024/logos/9620-66ffb65641f1e.png",Малдер Всё тв
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",alpha Cinema 
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",alpha Onenite 
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/205116.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",alpha Funny 
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206963.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg",2FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png",Hot Beats TV HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/191858.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",TMF RUS
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/201891.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1348257_U3En.jpg",Видеокасета VHS
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Кошмар HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Akudji
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",FAN HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",VIVA Russia
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/180805.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",MIXM TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/181490.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg",Mega Radio
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/175789.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Selecao TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Selecao TV2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Звуки дождя 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/198378.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_toss.png",Futurama
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/199417.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Millenniym UHD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",bober12
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/196745_master.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Fantoms
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",P Boy Podpischik
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/40391_master.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Восход ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/202997_master.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Первый автомобильный
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206355.m3u8
+
+
 
 
 
