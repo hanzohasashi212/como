@@ -1459,6 +1459,10 @@ https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="НТВ плюс" tvg-id="ntv-xit",НТВ-Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ плюс" tvg-id="ntv-serial",НТВ-Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 
 
 
@@ -4023,6 +4027,26 @@ https://autopilot.catcast.tv/content/44051/index.m3u8
 http://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2d13fa19483745.562db34d7f9ff.jpg" tvg-id="no_epg_cinema",Фильмы - VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноАзия
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноДок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноАРТ
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноФантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — БирмаПлей
+https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — СиртакиТВ
+https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — Classic Music
+https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — Meditation Music
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
+
+
 
 
 
@@ -4137,7 +4161,8 @@ http://195.9.195.3:8080/hls/206355.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Музыка",Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",30A Music
 http://30a-tv.com/music.m3u8
 #EXTINF:-1 group-title="Музыка",30A Music
@@ -4506,6 +4531,8 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/nM7LbmV.png",SONGTV Russia
@@ -4830,6 +4857,9 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 http://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Deluxe Dance
+https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
+
 
 
 
@@ -4971,6 +5001,20 @@ http://iptv.prosto.tv:7000/ch316/video.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="С сайтов",Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Kino24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-id="kineko",Кинеко
+http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Viasat Kino Comedy HD 🛡
+http://ukr.ukrainske.tv/493/tvainua/video.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-id="kino-tv",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.okcdn.ru/videoPreview?id=3976082754233&type=37&idx=13&tkn=1FjeHKFXomixlD3m7CW3V6gjhCs&fn=external_8" tvg-id="iz-prioskolya",Известия Приосколья
+https://tvbelgorod.ru:90/izvestiya/index.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png" tvg-id="alphacinema",alpha Cinema HD
 https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png" tvg-id="alphafunny",alpha Funny HD
@@ -5853,7 +5897,8 @@ http://95.46.208.8:24432/skif
 
 
 
-
+#EXTINF:-1 group-title="Спорт",Конный мир
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч HD
@@ -6032,6 +6077,8 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1171
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://bezbe.my1.ru/poster/bl.png",Беларусь 5
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w604434564_b1010000_sleng.m3u8
+#EXTINF:-1 group-title="Спорт",Беларусь 5 Интернет HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://epgx.site/p/belarus5hd.png",Беларусь 5 HD
@@ -6056,7 +6103,8 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт",Старт Баскет HD
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 
 
@@ -6092,7 +6140,7 @@ https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/
 https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Узбекистан" tvg-id="lubimoe-kino",Любимое Кинo
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Узбекистан",Многосерийное ТВ
+#EXTINF:-1 group-title="Узбекистан",Киносерия HD
 https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Узбекистан" tvg-id="retro-tv",Ретро ТВ
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
@@ -6124,6 +6172,14 @@ https://flussonic.salomtv.uz/Detskiy/video.m3u8
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 group-title="Узбекистан" tvg-logo=" https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music                                        
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
+#EXTINF:-1 group-title="Узбекистан",Наше новое кино HD
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекистан",Ретро
+https://vod.splay.uz/live_splay/original/Retro/index.m3u8
+#EXTINF:-1 group-title="Узбекистан",viju TV1000 HD
+http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбекистан",Milliy tv
+http://serv1.milliy.tv/hls/index_480.m3u8
 
 
 
@@ -6189,6 +6245,11 @@ https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b_output_0
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 group-title="Казахстан" tvg-logo="https://i.ibb.co/prG4t3J/image-95.png",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="24KZ.kz@SD",24KZ
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-id="AbaiTV.kz@SD",Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+
 
 
 
@@ -6716,6 +6777,26 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)",RT Док HD
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.goodstream.cyou/live/554-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="RTDocumentary.ru@Russian",RT Documentary Russian
+https://streaming.thestream.cyou/live/554.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="Domkino.ru@SD",Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="ZaTV.ru@SD",За!ТВ
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="Crimea24.ru@SD",Крым 24
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="Lugansk24.ua@SD",Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="NTVMir.ru@SD",НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="ChannelOne.ru@Europe",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="PervyyRespublikanskiy.ru@SD",Первый Республиканский
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="Pobeda.ru@SD",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN 🇷🇺)" tvg-id="Tavriya.ru@SD",Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
 
 
 
@@ -7258,6 +7339,620 @@ http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 
 
 
+#EXTINF:-1 group-title="Советские мультики",Как львенок и черепаха пели песню
+https://mults.info/mp4/kak_lvenok_i_cherepaha_peli_pesnyu.mp4
+#EXTINF:-1 group-title="Советские мультики",Жил-был пес
+https://mults.info/mp4/gil_byl_pes.mp4
+#EXTINF:-1 group-title="Советские мультики",Мойдодыр
+https://mults.info/mp4/mojdodyr.mp4
+#EXTINF:-1 group-title="Советские мультики",Чуня
+https://mults.info/mp4/chunya.mp4
+#EXTINF:-1 group-title="Советские мультики",Малыш и Карлсон
+https://mults.info/mp4/malysh_i_karlson.mp4
+#EXTINF:-1 group-title="Советские мультики",Карлсон вернулся!
+https://mults.info/mp4/karlson_vernulsya.mp4
+#EXTINF:-1 group-title="Советские мультики",Ночь перед рождеством
+https://mults.info/mp4/noch_pered_rozhdestvom.mp4
+#EXTINF:-1 group-title="Советские мультики",В стране невыученных уроков
+https://mults.info/mp4/v_strane_nevyuchennyx_urokov.mp4
+#EXTINF:-1 group-title="Советские мультики",Грибок-теремок
+https://mults.info/mp4/gribok_teremok.mp4
+#EXTINF:-1 group-title="Советские мультики",Вовка в тридевятом царстве
+https://mults.info/mp4/vovka_v_tridev_tsarstve.mp4
+#EXTINF:-1 group-title="Советские мультики",будь человеком!
+https://mults.info/mp4/barankin_bud_chelovekom.mp4
+#EXTINF:-1 group-title="Советские мультики",Щелкунчик
+https://mults.info/mp4/schelkunchik.mp4
+#EXTINF:-1 group-title="Советские мультики",Маугли
+https://mults.info/mp4/maugli.mp4
+#EXTINF:-1 group-title="Советские мультики",Тараканище
+https://mults.info/mp4/tarakanishe.mp4
+#EXTINF:-1 group-title="Советские мультики",Винни-Пух
+https://mults.info/mp4/winni_pooh.mp4
+#EXTINF:-1 group-title="Советские мультики",Винни-Пух и день забот
+https://mults.info/mp4/winni_pooh_i_den_zabot.mp4
+#EXTINF:-1 group-title="Советские мультики",Винни-Пух идет в гости
+https://mults.info/mp4/winni_pooh_idet_v_gosti.mp4
+#EXTINF:-1 group-title="Советские мультики",Умка ищет друга
+https://mults.info/mp4/umka_ishet_druga.mp4
+#EXTINF:-1 group-title="Советские мультики",Умка
+https://mults.info/mp4/umka.mp4
+#EXTINF:-1 group-title="Советские мультики",Крокодил Гена
+https://mults.info/mp4/krokodil_gena.mp4
+#EXTINF:-1 group-title="Советские мультики",Чебурашка
+https://mults.info/mp4/cheburashka.mp4
+#EXTINF:-1 group-title="Советские мультики",Шапокляк
+https://mults.info/mp4/shapoklyak.mp4
+#EXTINF:-1 group-title="Советские мультики",Чебурашка идет в школу
+https://mults.info/mp4/cheburashka_idet_v_shkolu.mp4
+#EXTINF:-1 group-title="Советские мультики",Трое из Простоквашино
+https://mults.info/mp4/troe_iz_prostokvashino.mp4
+#EXTINF:-1 group-title="Советские мультики",Каникулы в Простоквашино
+https://mults.info/mp4/kanikuly_v_prostokvashino.mp4
+#EXTINF:-1 group-title="Советские мультики",Зима в Простоквашино
+https://mults.info/mp4/zima_v_prostokvashino.mp4
+#EXTINF:-1 group-title="Советские мультики",Бременские музыканты
+https://mults.info/mp4/bremenskie_muzykanty.mp4
+#EXTINF:-1 group-title="Советские мультики",Новые бременские
+https://mults.info/mp4/novye_bremenskie.mp4
+#EXTINF:-1 group-title="Советские мультики",По следам бременских музыкантов
+https://mults.info/mp4/po_sledam_bremenskih_muzykantov.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди! ч.1
+https://mults.info/mp4/nu_pogodi_01.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.2
+https://mults.info/mp4/nu_pogodi_02.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.3
+https://mults.info/mp4/nu_pogodi_03.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.4
+https://mults.info/mp4/nu_pogodi_04.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.5
+https://mults.info/mp4/nu_pogodi_05.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.6
+https://mults.info/mp4/nu_pogodi_06.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.7
+https://mults.info/mp4/nu_pogodi_07.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.8
+https://mults.info/mp4/nu_pogodi_08.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.9
+https://mults.info/mp4/nu_pogodi_09.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.10
+https://mults.info/mp4/nu_pogodi_10.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.11
+https://mults.info/mp4/nu_pogodi_11.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.12
+https://mults.info/mp4/nu_pogodi_12.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.13
+https://mults.info/mp4/nu_pogodi_13.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.14
+https://mults.info/mp4/nu_pogodi_14.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.15
+https://mults.info/mp4/nu_pogodi_15.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.16
+https://mults.info/mp4/nu_pogodi_16.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.17
+https://mults.info/mp4/nu_pogodi_17.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.18
+https://mults.info/mp4/nu_pogodi_18.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.19
+https://mults.info/mp4/nu_pogodi_19.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди ч.20
+https://mults.info/mp4/nu_pogodi_20.mp4
+#EXTINF:-1 group-title="Советские мультики",Ну Погоди (телевыпуск 1)
+https://mults.info/mp4/nu_pogodi_tv_1.mp4
+#EXTINF:-1 group-title="Советские мультики",Сказки для больших и маленьких
+https://mults.info/mp4/skazki_dlya_bolshih_i_malenkih.mp4
+#EXTINF:-1 group-title="Советские мультики",Как грибы с горохом воевали
+https://mults.info/mp4/kak_griby_s_goroxom_voevali.mp4
+#EXTINF:-1 group-title="Советские мультики",Лабиринт
+https://mults.info/mp4/labirint_podvig_teseja.mp4
+#EXTINF:-1 group-title="Советские мультики",Дядя Степа - милиционер
+https://mults.info/mp4/diadia_stepa_militsioner.mp4
+#EXTINF:-1 group-title="Советские мультики",Федя Зайцев
+https://mults.info/mp4/fedya_zaycev.mp4
+#EXTINF:-1 group-title="Советские мультики",Сказка о солдате
+https://mults.info/mp4/skazka_o_soldate.mp4
+#EXTINF:-1 group-title="Советские мультики",Опять двойка
+https://mults.info/mp4/opjat_dvoyka.mp4
+#EXTINF:-1 group-title="Советские мультики",Храбрый заяц
+https://mults.info/mp4/hrabry_zayac.mp4
+#EXTINF:-1 group-title="Советские мультики",Муми-Дол. В Муми-Дол приходит осень
+https://mults.info/mp4/mumi_v_mumi_dol_prihodit_osen.mp4
+#EXTINF:-1 group-title="Советские мультики",Муми-Дол. Все дело в шляпе
+https://mults.info/mp4/mumi_vse_delo_v_shlyape.mp4
+#EXTINF:-1 group-title="Советские мультики",Муми-Дол. Лето в Муми-Доле
+https://mults.info/mp4/mumi_leto_v_mumi_dole.mp4
+#EXTINF:-1 group-title="Советские мультики",Василиса Микулишна
+https://mults.info/mp4/vasilisa_mikulishna.mp4
+#EXTINF:-1 group-title="Советские мультики",Кораблик
+https://mults.info/mp4/korablik.mp4
+#EXTINF:-1 group-title="Советские мультики",который гулял сам по себе
+https://mults.info/mp4/kot_kotoryi_guljal_sam_po_sebe.mp4
+#EXTINF:-1 group-title="Советские мультики",Молодильные яблоки
+https://mults.info/mp4/molodilnye_yabloki.mp4
+#EXTINF:-1 group-title="Советские мультики",Фильм! Фильм! Фильм!
+https://mults.info/mp4/filmfilmfilm.mp4
+#EXTINF:-1 group-title="Советские мультики",Царевна-Лягушка
+https://mults.info/mp4/tsarevna_lyagushka.mp4
+#EXTINF:-1 group-title="Советские мультики",Сказка про лень
+https://mults.info/mp4/skazka_pro_len.mp4
+#EXTINF:-1 group-title="Советские мультики",Дом для леопарда
+https://mults.info/mp4/dom_dlja_leoparda.mp4
+#EXTINF:-1 group-title="Советские мультики",Последняя невеста Змея Горыныча
+https://mults.info/mp4/poslednaja_nevesta_zmeja_gorynycha.mp4
+#EXTINF:-1 group-title="Советские мультики",Медведь и мотоцикл с коляской
+https://mults.info/mp4/lisa_medved_i_mototsikl_s_kolyaskoy.mp4
+#EXTINF:-1 group-title="Советские мультики",Жихарка
+https://mults.info/mp4/zhiharka_1977.mp4
+#EXTINF:-1 group-title="Советские мультики",Приключения Хомы
+https://mults.info/mp4/prikluchenia_homy.mp4
+#EXTINF:-1 group-title="Советские мультики",Шакаленок и верблюд
+https://mults.info/mp4/shakalenok_i_verblud.mp4
+#EXTINF:-1 group-title="Советские мультики",Петух и краски
+https://mults.info/mp4/petuh_i_kraski.mp4
+#EXTINF:-1 group-title="Советские мультики",Алим и его ослик
+https://mults.info/mp4/alim_i_ego_oslik.mp4
+#EXTINF:-1 group-title="Советские мультики","Фальшивая нота"
+https://mults.info/mp4/falshivaya_nota.mp4
+#EXTINF:-1 group-title="Советские мультики",Это что за птица
+https://mults.info/mp4/eto_chto_za_ptitsa.mp4
+#EXTINF:-1 group-title="Советские мультики",Шутки
+https://mults.info/mp4/shutki.mp4
+#EXTINF:-1 group-title="Советские мультики",Верните Рекса
+https://mults.info/mp4/vernite_reksa.mp4
+#EXTINF:-1 group-title="Советские мультики",Ровно в три пятнадцать
+https://mults.info/mp4/rovno_v_3_15.mp4
+#EXTINF:-1 group-title="Советские мультики",Три дровосека
+https://mults.info/mp4/tri_drovoseka.mp4
+#EXTINF:-1 group-title="Советские мультики",Жирафа и очки
+https://mults.info/mp4/zhirafa_i_ochki.mp4
+#EXTINF:-1 group-title="Советские мультики",Огневушка-поскакушка
+https://mults.info/mp4/ognevushka_poskakushka.mp4
+#EXTINF:-1 group-title="Советские мультики",Веселый огород
+https://mults.info/mp4/veselyi_ogorod.mp4
+#EXTINF:-1 group-title="Советские мультики",Что такое хорошо и что такое плохо
+https://mults.info/mp4/chto_takoe_horosho.mp4
+#EXTINF:-1 group-title="Советские мультики",Заяц Коська и родничок
+https://mults.info/mp4/zajats_koska_i_rodnichok.mp4
+#EXTINF:-1 group-title="Советские мультики",Двенадцать месяцев
+https://mults.info/mp4/12_mesyacev.mp4
+#EXTINF:-1 group-title="Советские мультики",Снеговик-почтовик
+https://mults.info/mp4/snegovik_pochtovik.mp4
+#EXTINF:-1 group-title="Советские мультики",Когда зажигаются елки
+https://mults.info/mp4/kogda_zazhigajutsja_elki.mp4
+#EXTINF:-1 group-title="Советские мультики",Две сказки
+https://mults.info/mp4/dve_skazki.mp4
+#EXTINF:-1 group-title="Советские мультики",Дядя Миша
+https://mults.info/mp4/dyadya_misha.mp4
+#EXTINF:-1 group-title="Советские мультики",Кот-рыболов
+https://mults.info/mp4/kot_rybolov.mp4
+#EXTINF:-1 group-title="Советские мультики",Кто получит приз
+https://mults.info/mp4/kto_poluchit_priz.mp4
+#EXTINF:-1 group-title="Советские мультики",Мешок яблок
+https://mults.info/mp4/meshok_yablok.mp4
+#EXTINF:-1 group-title="Советские мультики",Хвосты
+https://mults.info/mp4/khvosti.mp4
+#EXTINF:-1 group-title="Советские мультики",Разные колеса
+https://mults.info/mp4/raznye_kolesa.mp4
+#EXTINF:-1 group-title="Советские мультики",два - дружно!
+https://mults.info/mp4/raz_dva_druzhno.mp4
+#EXTINF:-1 group-title="Советские мультики",который боялся прививок
+https://mults.info/mp4/pro_begemota_kotoryj_boyalsya_privivok.mp4
+#EXTINF:-1 group-title="Советские мультики",Алеша Попович и Тугарин Змей
+https://mults.info/mp4/alesha_popovich_i_tugarin_zmey.mp4
+#EXTINF:-1 group-title="Советские мультики",Зимняя сказка
+https://mults.info/mp4/zimnia_skazka.mp4
+#EXTINF:-1 group-title="Советские мультики",Кошкин дом
+https://mults.info/mp4/koshkin_dom_ris.mp4
+#EXTINF:-1 group-title="Советские мультики",Дед Мороз и лето
+https://mults.info/mp4/ded_moroz_i_leto.mp4
+#EXTINF:-1 group-title="Советские мультики",Дед Мороз и серый волк
+https://mults.info/mp4/ded_moroz_i_sery_volk.mp4
+#EXTINF:-1 group-title="Советские мультики",По дороге с облаками
+https://mults.info/mp4/tigrenok1.mp4
+#EXTINF:-1 group-title="Советские мультики",Падал прошлогодний снег
+https://mults.info/mp4/padal_proshlogodnij_sneg.mp4
+#EXTINF:-1 group-title="Советские мультики",Жихарка
+https://mults.info/mp4/zhiharka.mp4
+#EXTINF:-1 group-title="Советские мультики",Подарок для слона
+https://mults.info/mp4/tigrenok2.mp4
+#EXTINF:-1 group-title="Советские мультики",Трям! Здравствуйте!
+https://mults.info/mp4/tryam.mp4
+#EXTINF:-1 group-title="Советские мультики",Лягушка-путешественница
+https://mults.info/mp4/ljagushka_puteshestvennitsa.mp4
+#EXTINF:-1 group-title="Советские мультики",Летучий корабль
+https://mults.info/mp4/letuchiy_korabl.mp4
+#EXTINF:-1 group-title="Советские мультики",Аленький цветочек
+https://mults.info/mp4/alenkij_tsvetochek.mp4
+#EXTINF:-1 group-title="Советские мультики",Конек-Горбунок
+https://mults.info/mp4/konek_gorbunok.mp4
+#EXTINF:-1 group-title="Советские мультики",Чиполлино
+https://mults.info/mp4/chipollino.mp4
+#EXTINF:-1 group-title="Советские мультики",Крошка Енот
+https://mults.info/mp4/kroshka_enot.mp4
+#EXTINF:-1 group-title="Советские мультики",Цветик-семицветик
+https://mults.info/mp4/cvetik_semicvetik.mp4
+#EXTINF:-1 group-title="Советские мультики",Клад
+https://mults.info/mp4/tigrenok3.mp4
+#EXTINF:-1 group-title="Советские мультики",Мама для мамонтенка
+https://mults.info/mp4/mama_dla_mamontenka.mp4
+#EXTINF:-1 group-title="Советские мультики",Песенка мышонка
+https://mults.info/mp4/pesenka_myshonka.mp4
+#EXTINF:-1 group-title="Советские мультики",Гуси-лебеди
+https://mults.info/mp4/gusi_lebedi.mp4
+#EXTINF:-1 group-title="Советские мультики",Кот и Лиса
+https://mults.info/mp4/kot_i_lisa.mp4
+#EXTINF:-1 group-title="Советские мультики",Волшебное кольцо
+https://mults.info/mp4/volshebnoe_kolzo.mp4
+#EXTINF:-1 group-title="Советские мультики",Заколдованный мальчик
+https://mults.info/mp4/zakoldovanny_malchik.mp4
+#EXTINF:-1 group-title="Советские мультики",Стрекоза и муравей
+https://mults.info/mp4/strekoza_i_muravey.mp4
+#EXTINF:-1 group-title="Советские мультики",Кто пасется на лугу
+https://mults.info/mp4/chernih.mp4
+#EXTINF:-1 group-title="Советские мультики",Волк и семеро козлят
+https://mults.info/mp4/volk_i_semero_kozljat.mp4
+#EXTINF:-1 group-title="Советские мультики",Буревестник
+https://mults.info/mp4/burevestnik.mp4
+#EXTINF:-1 group-title="Советские мультики",Удивительная бочка
+https://mults.info/mp4/udivitelnaia_bochka.mp4
+#EXTINF:-1 group-title="Советские мультики",Моя жизнь
+https://mults.info/mp4/my_life.mp4
+#EXTINF:-1 group-title="Советские мультики",Большой Ух
+https://mults.info/mp4/bolshoi_uh.mp4
+#EXTINF:-1 group-title="Советские мультики",Пластилиновая ворона
+https://mults.info/mp4/plaistilinovaja_vorona.mp4
+#EXTINF:-1 group-title="Советские мультики",Птичка Тари
+https://mults.info/mp4/taribird.mp4
+#EXTINF:-1 group-title="Советские мультики",Нехочуха
+https://mults.info/mp4/nehochuha.mp4
+#EXTINF:-1 group-title="Советские мультики",Ежик в тумане
+https://mults.info/mp4/ezhik_v_tumane.mp4
+#EXTINF:-1 group-title="Советские мультики",Пес в сапогах
+https://mults.info/mp4/pes_v_sapogah.mp4
+#EXTINF:-1 group-title="Советские мультики",38 попугаев
+https://mults.info/mp4/38_popugaev.mp4
+#EXTINF:-1 group-title="Советские мультики",А вдруг получится
+https://mults.info/mp4/38_a_vdrug_poluchitsya.mp4
+#EXTINF:-1 group-title="Советские мультики",Бабушка удава
+https://mults.info/mp4/38_babushka_udava.mp4
+#EXTINF:-1 group-title="Советские мультики",Великое закрытие
+https://mults.info/mp4/38_velikoe_zakrytie.mp4
+#EXTINF:-1 group-title="Советские мультики",Завтра будет завтра
+https://mults.info/mp4/38_zavtra_budet_zavtra.mp4
+#EXTINF:-1 group-title="Советские мультики",Зарядка для хвоста
+https://mults.info/mp4/38_zaraydka_dlya_hvosta.mp4
+#EXTINF:-1 group-title="Советские мультики",Как лечить удава
+https://mults.info/mp4/38_kak_lechit_udava.mp4
+#EXTINF:-1 group-title="Советские мультики",Куда идет слоненок
+https://mults.info/mp4/38_kuda_idet_slonenok.mp4
+#EXTINF:-1 group-title="Советские мультики",Ненаглядное пособие
+https://mults.info/mp4/38_nenaglyadnoe_posobie.mp4
+#EXTINF:-1 group-title="Советские мультики",Привет мартышке
+https://mults.info/mp4/38_privet_martyshke.mp4
+#EXTINF:-1 group-title="Советские мультики",Просто так!
+https://mults.info/mp4/prosto_tak.mp4
+#EXTINF:-1 group-title="Советские мультики",Терем-теремок
+https://mults.info/mp4/terem_teremok.mp4
+#EXTINF:-1 group-title="Советские мультики",Шайбу! Шайбу
+https://mults.info/mp4/shaibu.mp4
+#EXTINF:-1 group-title="Советские мультики",Метеор" на ринге
+https://mults.info/mp4/meteor_na_ringe.mp4
+#EXTINF:-1 group-title="Советские мультики",В гостях у лета
+https://mults.info/mp4/v_gostyah_u_leta.mp4
+#EXTINF:-1 group-title="Советские мультики",Матч-реванш
+https://mults.info/mp4/match_revansh.mp4
+#EXTINF:-1 group-title="Советские мультики",Необыкновенный матч
+https://mults.info/mp4/neobyknovennyi_match.mp4
+#EXTINF:-1 group-title="Советские мультики",Приходи на каток
+https://mults.info/mp4/prihodi_na_katok.mp4
+#EXTINF:-1 group-title="Советские мультики",Снежные дорожки
+https://mults.info/mp4/shezhnye_dorozhki.mp4
+#EXTINF:-1 group-title="Советские мультики",Старые знакомые
+https://mults.info/mp4/starye_znakomye.mp4
+#EXTINF:-1 group-title="Советские мультики",Талант и поклонники
+https://mults.info/mp4/talant_i_poklonniki.mp4
+#EXTINF:-1 group-title="Советские мультики",Футбольные звезды
+https://mults.info/mp4/futbolnye_zvezdy.mp4
+#EXTINF:-1 group-title="Советские мультики",Умная собачка Соня 1
+https://mults.info/mp4/umnaja_sobachka_sonja_1.mp4
+#EXTINF:-1 group-title="Советские мультики",Умная собачка Соня 2
+https://mults.info/mp4/umnaja_sobachka_sonja_2.mp4
+#EXTINF:-1 group-title="Советские мультики",Бобик в гостях у Барбоса
+https://mults.info/mp4/bobik_v_gostjah_u_barbosa.mp4
+#EXTINF:-1 group-title="Советские мультики",Кто ж такие птички
+https://mults.info/mp4/kto_zh_takie_ptichki.mp4
+#EXTINF:-1 group-title="Советские мультики",Катерок
+https://mults.info/mp4/katerok.mp4
+#EXTINF:-1 group-title="Советские мультики",Осьминожки
+https://mults.info/mp4/osminozhki.mp4
+#EXTINF:-1 group-title="Советские мультики",Вот какой рассеянный
+https://mults.info/mp4/vot_kakoy_rassejanny.mp4
+#EXTINF:-1 group-title="Советские мультики",Обезьянки!
+https://mults.info/mp4/ostorozhno_obezyanki.mp4
+#EXTINF:-1 group-title="Советские мультики",Гирлянда из малышей
+https://mults.info/mp4/girlyanda_iz_malyshei.mp4
+#EXTINF:-1 group-title="Советские мультики",Как обезьянки обедали
+https://mults.info/mp4/kak_obezyanki_obedali.mp4
+#EXTINF:-1 group-title="Советские мультики",Обезьянки в опере
+https://mults.info/mp4/obezyanki_v_opere.mp4
+#EXTINF:-1 group-title="Советские мультики",Обезьянки и грабители
+https://mults.info/mp4/obezyanki_i_grabiteli.mp4
+#EXTINF:-1 group-title="Советские мультики",Обезьянки! Вперед!
+https://mults.info/mp4/obezyanki_vpered.mp4
+#EXTINF:-1 group-title="Советские мультики",Скорая помощь
+https://mults.info/mp4/obezyanki_skoraya_pomosh.mp4
+#EXTINF:-1 group-title="Советские мультики",Волк и семеро козлят на новый лад
+https://mults.info/mp4/7_kozlyat.mp4
+#EXTINF:-1 group-title="Советские мультики",Котенок с улицы Лизюкова
+https://mults.info/mp4/kotenok_s_ulitsy_lizjukova.mp4
+#EXTINF:-1 group-title="Советские мультики",Непослушный медвежонок
+https://mults.info/mp4/neposlushny_medvezhonok.mp4
+#EXTINF:-1 group-title="Советские мультики",Муха-Цокотуха
+https://mults.info/mp4/muha_cokotuha_1960.mp4
+#EXTINF:-1 group-title="Советские мультики",Волк и теленок
+https://mults.info/mp4/volk_i_telenok.mp4
+#EXTINF:-1 group-title="Советские мультики",Петя и Красная Шапочка
+https://mults.info/mp4/petja_i_krasnaja_shapochka.mp4
+#EXTINF:-1 group-title="Советские мультики",Ой-ой-ой!
+https://mults.info/mp4/pif_paf_oi_oi_oi.mp4
+#EXTINF:-1 group-title="Советские мультики",Мук-скороход
+https://mults.info/mp4/muk_skorohod.mp4
+#EXTINF:-1 group-title="Советские мультики",Чучело-мяучело
+https://mults.info/mp4/chuchelo_mjauchelo.mp4
+#EXTINF:-1 group-title="Советские мультики",Тайна третьей планеты
+https://mults.info/mp4/taina_tretey_planety.mp4
+#EXTINF:-1 group-title="Советские мультики",Большой секрет для маленькой компании
+https://mults.info/mp4/bolshoj_secret_dlia_malenkoj_kompanii.mp4
+#EXTINF:-1 group-title="Советские мультики",В порту
+https://mults.info/mp4/v_portu.mp4
+#EXTINF:-1 group-title="Советские мультики",Рикки-Тикки-Тави
+https://mults.info/mp4/rikki_tikki_tavi.mp4
+#EXTINF:-1 group-title="Советские мультики",Золотая антилопа
+https://mults.info/mp4/zolotaya_antilopa.mp4
+#EXTINF:-1 group-title="Советские мультики",Про Сидорова Вову
+https://mults.info/mp4/pro_sidorova_vovu.mp4
+#EXTINF:-1 group-title="Советские мультики",Федорино горе
+https://mults.info/mp4/fedorino_gore.mp4
+#EXTINF:-1 group-title="Советские мультики",Ивашка из Дворца Пионеров
+https://mults.info/mp4/ivashka_iz_dvortsa_pionerov.mp4
+#EXTINF:-1 group-title="Советские мультики",Кот в сапогах
+https://mults.info/mp4/kot_v_sapogah.mp4
+#EXTINF:-1 group-title="Советские мультики",Серая шейка
+https://mults.info/mp4/seraya_sheika.mp4
+#EXTINF:-1 group-title="Советские мультики",Пони бегает по кругу
+https://mults.info/mp4/pony_begaet_po_krugu.mp4
+#EXTINF:-1 group-title="Советские мультики",Мартынко
+https://mults.info/mp4/martinko.mp4
+#EXTINF:-1 group-title="Советские мультики",Каникулы Бонифация
+https://mults.info/mp4/kanikuli_bonifatsia.mp4
+#EXTINF:-1 group-title="Советские мультики",Мальчик с пальчик
+https://mults.info/mp4/malchik_s_palchik.mp4
+#EXTINF:-1 group-title="Советские мультики",Обратная сторона луны
+https://mults.info/mp4/obratnaya_storona_luny.mp4
+#EXTINF:-1 group-title="Советские мультики",Большой петух
+https://mults.info/mp4/bolshoy_petuh.mp4
+#EXTINF:-1 group-title="Советские мультики",Царь и ткач
+https://mults.info/mp4/tsar_i_tkach.mp4
+#EXTINF:-1 group-title="Советские мультики",Чертенок с пушистым хвостом
+https://mults.info/mp4/chertenok_s_pushistym_hvostom.mp4
+#EXTINF:-1 group-title="Советские мультики",Остров сокровищ ч.1
+https://mults.info/mp4/ostrov_sokrovish_part1.mp4
+#EXTINF:-1 group-title="Советские мультики",Остров сокровищ ч.2
+https://mults.info/mp4/ostrov_sokrovish_part2.mp4
+#EXTINF:-1 group-title="Советские мультики",Два веселых гуся
+https://mults.info/mp4/dva_veselyh_gusja.mp4
+#EXTINF:-1 group-title="Советские мультики",Айболит и его звери (ч1)
+https://mults.info/mp4/aibolit_i_ego_zveri.mp4
+#EXTINF:-1 group-title="Советские мультики",Бармалей и морские пираты (ч2)
+https://mults.info/mp4/aibolit_barmalej_i_morskie_piraty.mp4
+#EXTINF:-1 group-title="Советские мультики",Варвара - злая сестра Айболита (ч3)
+https://mults.info/mp4/aibolit_varvara_zlaya_sestra_aibolita.mp4
+#EXTINF:-1 group-title="Советские мультики",Коварный план Бармалея (ч4)
+https://mults.info/mp4/aibolit_kovarnyj_plan_barmaleya.mp4
+#EXTINF:-1 group-title="Советские мультики",Айболит спешит на помощь (ч5)
+https://mults.info/mp4/aibolit_speshit_na_pomosh.mp4
+#EXTINF:-1 group-title="Советские мультики",Крокодил и солнце (ч6)
+https://mults.info/mp4/aibolit_krokodil_i_solnce.mp4
+#EXTINF:-1 group-title="Советские мультики",Доктор! (ч7)
+https://mults.info/mp4/aibolit_spasibo_doktor.mp4
+#EXTINF:-1 group-title="Советские мультики",Приключения капитана Врунгеля
+https://mults.info/mp4/prikluchenia_kapitana_vrungelya.mp4
+#EXTINF:-1 group-title="Советские мультики",3
+https://mults.info/mp4/nu_pogodi_tv.mp4
+#EXTINF:-1 group-title="Советские мультики",Витамин роста 1988.
+https://mults.info/mp4/vitamin_rosta.mp4
+#EXTINF:-1 group-title="Советские мультики",Влюбчивая ворона 1988г.
+https://mults.info/mp4/vlyubchivala_vorona.mp4
+#EXTINF:-1 group-title="Советские мультики",Возвращение блудного попугая.1988г
+https://mults.info/mp4/vozvr_bl_popugaya_3.mp4
+#EXTINF:-1 group-title="Советские мультики",Веселая карусель.1988г
+https://mults.info/mp4/karusel_19.mp4
+#EXTINF:-1 group-title="Советские мультики",Доверчивый дракон 1988г
+https://mults.info/mp4/doverchivy_drakon.mp4
+#EXTINF:-1 group-title="Советские мультики",Дождливая история 1988г
+https://mults.info/mp4/dozhdlivaja_istorija.mp4
+#EXTINF:-1 group-title="Советские мультики",Жили-были дед и баба 1988г
+https://mults.info/mp4/zhili_byli_ded_i_baba.mp4
+#EXTINF:-1 group-title="Советские мультики",Который любил давать советы 1988г
+https://mults.info/mp4/zajats_sovetchik.mp4
+#EXTINF:-1 group-title="Советские мультики",Как прекрасно светит сегодня Луна 1988г
+https://mults.info/mp4/kak_prekrasno_svetit_segodnja_luna.mp4
+#EXTINF:-1 group-title="Советские мультики",Карпуша 1988г
+https://mults.info/mp4/karpusha.mp4
+#EXTINF:-1 group-title="Советские мультики",Келе 1988г.
+https://mults.info/mp4/kele.mp4
+#EXTINF:-1 group-title="Советские мультики",Кот и клоун 1988г.
+https://mults.info/mp4/kot_i_kloun.mp4
+#EXTINF:-1 group-title="Советские мультики",Который умел петь 1988г
+https://mults.info/mp4/kot_kotory_umel_pet.mp4
+#EXTINF:-1 group-title="Советские мультики",Которая гуляла сама по себе 1988г
+https://mults.info/mp4/koshka_kotoraya_gulyala_sama_po_sebe.mp4
+#EXTINF:-1 group-title="Советские мультики",Летели два верблюда 1988г
+https://mults.info/mp4/leteli_dva_verbluda.mp4
+#EXTINF:-1 group-title="Советские мультики",Марафон 1988г
+https://mults.info/mp4/marafon.mp4
+#EXTINF:-1 group-title="Советские мультики",Мирабела в Транзистории 1988г
+https://mults.info/mp4/marija_mirabela_v_tranzistorii.mp4
+#EXTINF:-1 group-title="Советские мультики",Медвежуть 1988г
+https://mults.info/mp4/medvezhut.mp4
+#EXTINF:-1 group-title="Советские мультики",Мы идем искать 1988г
+https://mults.info/mp4/my_idem_iskat.mp4
+#EXTINF:-1 group-title="Советские мультики",Ограбление по… 1988г
+https://mults.info/mp4/ograblenie_po.mp4
+#EXTINF:-1 group-title="Советские мультики",Перевал 1988г
+https://mults.info/mp4/pereval.mp4
+#EXTINF:-1 group-title="Советские мультики",Пока я не вернусь 1988г
+https://mults.info/mp4/poka_ya_ne_vernus.mp4
+#EXTINF:-1 group-title="Советские мультики",Потерялась птица в небе 1988г
+https://mults.info/mp4/poteryalas_ptitsa_v_nebe.mp4
+#EXTINF:-1 group-title="Советские мультики",Свирепый Бамбр 1988г
+https://mults.info/mp4/svirepyi_bambr.mp4
+#EXTINF:-1 group-title="Советские мультики",Седой медведь 1988г
+https://mults.info/mp4/sedoy_medved.mp4
+#EXTINF:-1 group-title="Советские мультики",Случай с бегемотом 1988г
+https://mults.info/mp4/sluchaj_s_begemotom.mp4
+#EXTINF:-1 group-title="Советские мультики",Смех и горе у Бела моря 1988г
+https://mults.info/mp4/smeh_i_gore_u_bela_morya.mp4
+#EXTINF:-1 group-title="Советские мультики",Сон 1988г
+https://mults.info/mp4/son_1988.mp4
+#EXTINF:-1 group-title="Советские мультики",Таракан 1988г
+https://mults.info/mp4/tarakan.mp4
+#EXTINF:-1 group-title="Советские мультики",Три лягушонка 1988г
+https://mults.info/mp4/tri_lyagushonka_2.mp4
+#EXTINF:-1 group-title="Советские мультики",Уважаемый леший 1988г
+https://mults.info/mp4/uvagaemy_leshiy.mp4
+#EXTINF:-1 group-title="Советские мультики",Эксперимент 1988г
+https://mults.info/mp4/eksperiment.mp4
+#EXTINF:-1 group-title="Советские мультики",Ай-ай-ай 1989
+https://mults.info/mp4/ay_ay_ay.mp4
+#EXTINF:-1 group-title="Советские мультики",Античная лирика 1989г
+https://mults.info/mp4/antichnaya_lirika.mp4
+#EXTINF:-1 group-title="Советские мультики",Всех поймал 1989г
+https://mults.info/mp4/vseh_poymal.mp4
+#EXTINF:-1 group-title="Советские мультики",Второе я 1989г
+https://mults.info/mp4/vtoroe_ya.mp4
+#EXTINF:-1 group-title="Советские мультики",Два богатыря 1989г
+https://mults.info/mp4/dva_bogatyrja.mp4
+#EXTINF:-1 group-title="Советские мультики",Квартет для двух солистов 1989г
+https://mults.info/mp4/kvartet_dlya_dvuh_solistov.mp4
+#EXTINF:-1 group-title="Советские мультики",Квартира из сыра 1989г
+https://mults.info/mp4/kvartira_iz_syra.mp4
+#EXTINF:-1 group-title="Советские мультики",Клетка 1989г
+https://mults.info/mp4/kletka_1990.mp4
+#EXTINF:-1 group-title="Советские мультики",Кострома 1989г
+https://mults.info/mp4/kostroma.mp4
+#EXTINF:-1 group-title="Советские мультики",Мальчик и лягушонок 1989г
+https://mults.info/mp4/malchik_i_lyagushonok.mp4
+#EXTINF:-1 group-title="Советские мультики",Миссия пришельцев 1989г
+https://mults.info/mp4/missiya_prishelcev.mp4
+#EXTINF:-1 group-title="Советские мультики",Музыкальный магазинчик 1989г
+https://mults.info/mp4/muzykaljny_magazinchik_1989.mp4
+#EXTINF:-1 group-title="Советские мультики",Подружка 1989г
+https://mults.info/mp4/podruzhka.mp4
+#EXTINF:-1 group-title="Советские мультики",Притча об артисте. 1989г
+https://mults.info/mp4/pritcha_ob_artiste.mp4
+#EXTINF:-1 group-title="Советские мультики",Путешествие 1989г
+https://mults.info/mp4/puteshestvie.mp4
+#EXTINF:-1 group-title="Советские мультики",Рождение Эрота 1989г
+https://mults.info/mp4/rozhdenie_erota.mp4
+#EXTINF:-1 group-title="Советские мультики",Сапожник и Русалка 1989г
+https://mults.info/mp4/sapozhnik_i_rusalka.mp4
+#EXTINF:-1 group-title="Советские мультики",Сегодня в нашем городе 1989г
+https://mults.info/mp4/segodnya_v_nashem_gorode.mp4
+#EXTINF:-1 group-title="Советские мультики",Стереотипы 1989г
+https://mults.info/mp4/stereotipi.mp4
+#EXTINF:-1 group-title="Советские мультики",Фру-89. Жертва 1989г
+https://mults.info/mp4/zhertva.mp4
+#EXTINF:-1 group-title="Советские мультики",Фру-89. Слева направо 1989г
+https://mults.info/mp4/sleva_napravo.mp4
+#EXTINF:-1 group-title="Советские мультики",Цель 1989г
+https://mults.info/mp4/cel.mp4
+#EXTINF:-1 group-title="Советские мультики",В поисках Олуэн 1990
+https://mults.info/mp4/v_poiskah_oluen.mp4
+#EXTINF:-1 group-title="Советские мультики",Весёлая карусель № 20 1990г
+https://mults.info/mp4/karusel_20.mp4
+#EXTINF:-1 group-title="Советские мультики",Весёлая карусель № 21 1990г
+https://mults.info/mp4/karusel_21.mp4
+#EXTINF:-1 group-title="Советские мультики",Дафна 1990г
+https://mults.info/mp4/dafna.mp4
+#EXTINF:-1 group-title="Советские мультики",Ёжик должен быть колючим? 1990г
+https://mults.info/mp4/ezhik_dolzhen_bit_koluchim.mp4
+#EXTINF:-1 group-title="Советские мультики",Как Ниночка царицей стала 1990г
+https://mults.info/mp4/kak_ninochka_tsaricey_stala.mp4
+#EXTINF:-1 group-title="Советские мультики",Кважды ква 1990г
+https://mults.info/mp4/kvazhdy_kva.mp4
+#EXTINF:-1 group-title="Советские мультики",Когда-то давно 1990г
+https://mults.info/mp4/kogda_to_davno.mp4
+#EXTINF:-1 group-title="Советские мультики",Комино 1990г
+https://mults.info/mp4/komino.mp4
+#EXTINF:-1 group-title="Советские мультики",Масляный 1990г
+https://mults.info/mp4/kryloma.mp4
+#EXTINF:-1 group-title="Советские мультики",Неслыханная 1990г
+https://mults.info/mp4/nevidannaya_neslyhannaya.mp4
+#EXTINF:-1 group-title="Советские мультики",Нокаут 1990г
+https://mults.info/mp4/fitil_nokaut.mp4
+#EXTINF:-1 group-title="Советские мультики",От дождя до дождя 1990г
+https://mults.info/mp4/ot_dozhdya_do_dozhdya.mp4
+#EXTINF:-1 group-title="Советские мультики",Что в кузнице не было гвоздя 1990г
+https://mults.info/mp4/ottogo_chto_v_kuznice_ne_bylo_gvozdja.mp4
+#EXTINF:-1 group-title="Советские мультики",По следам Бамбра 1990г
+https://mults.info/mp4/po_sledam_bambra.mp4
+#EXTINF:-1 group-title="Советские мультики",Приключения медвежонка Садко 1990г
+https://mults.info/mp4/priklyucheniya_medvezhonka_sadko.mp4
+#EXTINF:-1 group-title="Советские мультики",Пришелец Ванюша ч.1 1990г
+https://mults.info/mp4/prishelets_vanyusha_1.mp4
+#EXTINF:-1 group-title="Советские мультики",Пришелец Ванюша ч.2 1990г
+https://mults.info/mp4/prishelets_vanyusha_2.mp4
+#EXTINF:-1 group-title="Советские мультики",Пришелец Ванюша ч.3 1990г
+https://mults.info/mp4/prishelets_vanyusha_3.mp4
+#EXTINF:-1 group-title="Советские мультики",Серый волк и Красная Шапочка 1990г
+https://mults.info/mp4/seryj_volk_and_krasnaja_shapochka.mp4
+#EXTINF:-1 group-title="Советские мультики",Солдат и чёрт 1990г
+https://mults.info/mp4/soldat_i_chert.mp4
+#EXTINF:-1 group-title="Советские мультики",Весёлая карусель № 22 1990г
+https://mults.info/mp4/karusel_22.mp4
+#EXTINF:-1 group-title="Советские мультики",Три лягушонка ч.3
+https://mults.info/mp4/tri_lyagushonka_3.mp4
+#EXTINF:-1 group-title="Советские мультики",Мистер Пронька 1991г
+https://mults.info/mp4/pronka.mp4
+#EXTINF:-1 group-title="Советские мультики",Весёлая карусель № 23 1991г
+https://mults.info/mp4/karusel_23.mp4
+#EXTINF:-1 group-title="Советские мультики",Иванушко 1991г
+https://mults.info/mp4/ivanushko.mp4
+#EXTINF:-1 group-title="Советские мультики",История одного города.1991г
+https://mults.info/mp4/istoriya_odnogo_goroda.mp4
+#EXTINF:-1 group-title="Советские мультики",Комната смеха 1991г
+https://mults.info/mp4/komnata_smeha.mp4
+#EXTINF:-1 group-title="Советские мультики",Ловушка для Бамбра 1991г
+https://mults.info/mp4/lovushka_dlya_bambra.mp4
+#EXTINF:-1 group-title="Советские мультики",Маленькая колдунья 1991г
+https://mults.info/mp4/malenkaya_koldunya.mp4
+#EXTINF:-1 group-title="Советские мультики",Мисс Новый Год 1991г
+https://mults.info/mp4/miss_novy_god.mp4
+#EXTINF:-1 group-title="Советские мультики",На черный день 1991г
+https://mults.info/mp4/na_cherny_den.mp4
+#EXTINF:-1 group-title="Советские мультики",По лунной дороге 1991г
+https://mults.info/mp4/po_lunnoy_doroge.mp4
+#EXTINF:-1 group-title="Советские мультики",Подводные береты 1991г
+https://mults.info/mp4/underwater_berets.mp4
+#EXTINF:-1 group-title="Советские мультики",Праздник новогодней ёлки 1991г
+https://mults.info/mp4/prazdnik_novogodnej_elki.mp4
+#EXTINF:-1 group-title="Советские мультики",Проделки ведьмы 1991г
+https://mults.info/mp4/priklyucheniya_volshebnogo_globusa_ili_prodelki_vedmy.mp4
+#EXTINF:-1 group-title="Советские мультики",Приключения кузнечика Кузи (ч.1) 1991г
+https://mults.info/mp4/priklucheniya_kuznechika_kuzi_1.mp4
+#EXTINF:-1 group-title="Советские мультики",Приключения кузнечика Кузи (ч.2) 1991г
+https://mults.info/mp4/priklucheniya_kuznechika_kuzi_2.mp4
+#EXTINF:-1 group-title="Советские мультики",Притча о мыши 1991г.
+https://mults.info/mp4/pritcha_o_myshi.mp4
+#EXTINF:-1 group-title="Советские мультики",Сказка 1991г
+https://mults.info/mp4/skazka.mp4
+#EXTINF:-1 group-title="Советские мультики",Чемодан 1991г
+https://mults.info/mp4/chemodan.mp4
+#EXTINF:-1 group-title="Советские мультики",Что там под маской 1991г
+https://mults.info/mp4/chto_tam_pod_maskoy.mp4
+#EXTINF:-1 group-title="Советские мультики",Яблочный пирог 1991г
+https://mults.info/mp4/yablochny_pirog.mp4
 
 
 
