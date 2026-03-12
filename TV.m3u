@@ -1355,358 +1355,931 @@ https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=R8
 
 
 
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/O'zbekiston 1 UZ.png",O'zbekiston 1 UZ
+
+
+#EXTINF:-1 group-title="Xsph.ru 🎡",12 Канал
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",12 Канал HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_12CHANNELHD_OMSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",360.RU HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_360TVHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",360.RU НОВОСТИ FD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_360TV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",360.RU НОВОСТИ FD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/CH_360TV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",360° НОВОСТИ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",7TV
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_7TV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",8 Канал Европа
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",8 канал
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",CGTN ARABIC HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_CGTN_ARABICHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",CGTN ENGLISH
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_CGTN_ENGLISHHD720.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",CGTN ESPANOL HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_CGTN_ESPANOLHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",CGTN FRANCAIS HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_CGTN_FRANCAISHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",CGTN РУССКИЙ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_CGTN_RUSSKIYHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",CINEMA
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Fashion TV (SK)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_FASHIONTV_SK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Kino 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Kronehit
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_KRONEHIT.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Kronehit HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",LEOMAX 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_LEOMAX24HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",LIFE TV
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_LIFETV_RUS.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",LIFE TV
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_LIFETV_RUSEST.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",MCM (Иркутск)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_MCMHD720_IRK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",RU.TV
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RUTV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",RU.TV HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RUTVHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Sochi Live SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",TVАист
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_TVAIST_LD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",UNIVER
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_UNIVER_KZN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",UNIVER HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_UNIVERHD_KZN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",V2BEAT SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",АИСТ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_AISTHD_IRK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Архыз 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_ARKHIZ24_CHERKS.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Архыз 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_ARKHIZ24HD_CHERKS.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",БАЙКАЛ Универ ТВ HD (Иркутск)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",БСТ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_BST_UFA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Башкортостан 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Башкортостан 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",БелРос FD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 1 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 2 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 3
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 3 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 5
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 5 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Большая Азия
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_BAZIYA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Большая Азия HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Ветта-24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_VETTA24_PERM.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Витрина ТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_VITRINATV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Волга
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_VOLGA_NN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Волга HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_VOLGAHD_NN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Волгоград 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Волгоград 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_VOLGOGRAD24HD_VGRAD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Волжский Плюс HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Губерния
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ДОН 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_DON24_RD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ДОН 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_DON24HD_RD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Домашний +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Запад 24 (Калининград)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Запад 24 HD (Калининград)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Звезда
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Звезда +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Звезда HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",КРИК ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",КРЫМ 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_KRYM24_SMRPL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",КРЫМ 24 SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Кавказ 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_KAVKAZ24_STAVR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Карусель +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_KARUSEL_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Кино и сериалы
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Кино и сериалы HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Красная Линия
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_REDLINE.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Краснодар
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_KRASNODAR_KRDAR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Краснодар HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_KRASNODARHD_KRDAR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Легендарный 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Липецкое время SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",МТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мамонтёнок
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_MAMONTENOK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Матур ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_MATURTVHD_UFA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мир +2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_MIR_2.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мир +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_MIR_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мир +7
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мир 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мир HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мир Белогорья HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_MIR_BLGRYAHD_BELG.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мособр SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Муз Союз
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Мультимания
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_MULTIMANIYA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",НВК Саха HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_NVCHD_DV_YKT.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",НТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",НТМ (Саранск) SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_NTMHD720_SRNK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",НТС HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_NTSHD_SVTPL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Надежда SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_NADEZHDAHD720.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Народное телевидение Мордовии
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_NTM_SRNK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Наука 2.0
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Наш дом
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Нижний Новгород 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Нижний Новгород 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Новый век
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_NOVIY_VEK_TAMB.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Новый век (Тамбов) HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ОНТ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ОТВ (ЕКАТЕРИНБУРГ) FD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_OTV_EKT.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ОТВ (ЕКАТЕРИНБУРГ) SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_OTVHD720_EKT.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ОТР +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_OTR_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Осетия Ирыстон HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_IRISTONHD_VKAZ.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ПИНГВИН ЛОЛО
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_PINGVIN_LOLO.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ПРОДВИЖЕНИЕ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Первый Крымский
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_1KRYMSKIY_SMRPL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Первый информационный
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Первый информационный HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Первый канал +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Просвещение
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_PROSVESHENIE.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Пятница! +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Пятый канал +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РАДИО ХИТ (Орск)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РБК
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RBK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РБК
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_RBK_UFA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РБК HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РГВК Дагестан (Махачкала)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РГВК Дагестан HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_DAGESTANHD_MAHACHK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РЕН ТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РЖД ТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RZHDTV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",РЖД ТВ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Радость моя
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_NN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_STAVR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 +2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_PERM.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_BUL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_BELG.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_BUL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_CHEL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_EKT.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_IRK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_KALUGA.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_KEM.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_KLGR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_NN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_NSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_PERM.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_RD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_RYAZ.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_SARATOV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_STAVR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_TAMB.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_TVER.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_VLAD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_YARL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24 +2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Россия К +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",С1
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_C1_SUR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",С86
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_C86_SUR.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",СОЮЗ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",СПАС +2
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_SPAS_2.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",СТВ SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",СТВ/Продвижение
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_STV_SRVOY.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",СТС +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_STS_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Саратов 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_SARATOV24HD_SARATOV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Сибирь 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Сибирь 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Симферополь 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Старт Триумф
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_START_TRIUMF.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Старт Триумф SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_START_TRIUMFHD720.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ТВ3 +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ТВК 24 (Красноярск)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_TVK24_KRSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ТВК 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_TVK24HD_KRSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ТВЦ +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ТНТ +4
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/T2/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Твоё ТВᴴᴰ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Теледом
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Тува 24
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_TUVA24_TUVA.m3u8
+#EXTINF:-1 group-title="Turon Media😎",Урал 24 FD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24_CHEL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Урал 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ШАЯН
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_SHAYAN_KZN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ШАЯН HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Шансон ТВ
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Экспресс HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_EXPRESSHD_PENZA.m3u8
+#EXTINF:-1 group-title="1.✨ ЕКБ 🦎",Эхо ТВ 24 (Новоуральск)
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",ЮУрГУ ТВ (Челябинск) SD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_YURGUTVHD720_CHEL.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Югра HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
+#EXTINF:-1 group-title="Xsph.ru 🎡",Якутия 24 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://a0925677.xsph.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/O'zbekiston 1 UZ.png",O'zbekiston 1 UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1001/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Yoshlar.png",Yoshlar
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Yoshlar.png",Yoshlar
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1002/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png",Toshkent UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png",Toshkent UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png",Toshkent UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png",Toshkent UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1003/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png",Sport UZ HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png",Sport UZ HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Madaniyat va ma'rifat
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Madaniyat va ma'rifat
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Dunyo Bo'ylab UZ.png",Dunyo Bo'ylab UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Dunyo Bo'ylab UZ.png",Dunyo Bo'ylab UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Dunyo bo`ylab UZ.png",Dunyo bo`ylab UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Dunyo bo`ylab UZ.png",Dunyo bo`ylab UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1006/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Bolajon.png",Bolajon
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Bolajon.png",Bolajon
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Bolajon.png",Bolajon
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Bolajon.png",Bolajon
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1007/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Navo UZ.png",Navo UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Navo UZ.png",Navo UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Navo.png",Navo
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Navo.png",Navo
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1008/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Kinoteatr
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Kinoteatr
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Kinoteatr HD UZ.png",Kinoteatr HD UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Kinoteatr HD UZ.png",Kinoteatr HD UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1009/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Futbol
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Futbol
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",O'zbekiston4 UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",O'zbekiston4 UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Ozbekiston 24 HD UZ.png",Ozbekiston 24 HD UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Ozbekiston 24 HD UZ.png",Ozbekiston 24 HD UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1011/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1012/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png",Mahalla UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png",Mahalla UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png",Mahalla UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png",Mahalla UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1013/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Milliy TV UZ.png",Milliy TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Milliy TV UZ.png",Milliy TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png",Milliy TV HD UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png",Milliy TV HD UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Uzreport UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Uzreport UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",UzReport TV HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)",UzReport TV HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1015/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png",Zo'r TV HD UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png",Zo'r TV HD UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Sevimli UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Sevimli UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Sevimli
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Sevimli
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1017/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Futbol TV
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Futbol TV
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1018/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Россия 1.png",Россия 1
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Россия 1.png",Россия 1
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1020/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Россия-24.png",Россия-24
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Россия-24.png",Россия-24
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1021/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/НТВ.png",НТВ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/НТВ.png",НТВ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1023/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Карусель HD.png",Карусель HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Карусель HD.png",Карусель HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1034/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Телекафе.png",Телекафе
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Телекафе.png",Телекафе
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1035/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Авто плюс HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Авто плюс HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1036/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Т24.png",Т24
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Т24.png",Т24
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1037/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/National Geographic HD.png",National Geographic HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/National Geographic HD.png",National Geographic HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1041/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/NatGeo Wild HD.png",NatGeo Wild HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/NatGeo Wild HD.png",NatGeo Wild HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1042/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Viasat History
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Viasat History
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1045/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Viasat Explorer
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Viasat Explorer
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1046/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Ретро.png",Ретро
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Ретро.png",Ретро
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1047/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Россия-Культура.png",Россия-Культура
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Россия-Культура.png",Россия-Культура
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1048/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Звезда.png",Звезда
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Звезда.png",Звезда
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1050/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",TV 1000 Русское кино
+#EXTINF:-1 group-title="Rafail (🇺🇿)",TV 1000 Русское кино
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1051/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Дом Кино.png",Дом Кино
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Дом Кино.png",Дом Кино
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1054/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Кинохит HD.png",Кинохит HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Кинохит HD.png",Кинохит HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1055/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Sevimli TV HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Sevimli TV HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1056/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/МУЗ-ТВ HD.png",МУЗ-ТВ HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/МУЗ-ТВ HD.png",МУЗ-ТВ HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1063/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Музыка Первого.png",Музыка Первого
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Музыка Первого.png",Музыка Первого
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1201/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/RU TV HD.png",RU TV HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/RU TV HD.png",RU TV HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1202/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Киносвидание HD.png",Киносвидание HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Киносвидание HD.png",Киносвидание HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1203/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Taraqqiyot tv
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Taraqqiyot tv
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Aqlvoy
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Aqlvoy
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Aqlvoy TV UZ.png",Aqlvoy TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Aqlvoy TV UZ.png",Aqlvoy TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1205/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Dasturxon
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Dasturxon
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1206/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png",Кинопремьера HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png",Кинопремьера HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1207/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",O'zbekiston tarixi UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",O'zbekiston tarixi UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Ozbekiston Tarixi HD UZ.png",Ozbekiston Tarixi HD UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Ozbekiston Tarixi HD UZ.png",Ozbekiston Tarixi HD UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1209/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",LuxTV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",LuxTV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Lux TV
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Lux TV
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1210/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",BIZ TV
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",BIZ TV
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Biz TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Biz TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1211/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Biz Music HD UZ.png",Biz Music HD UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Biz Music HD UZ.png",Biz Music HD UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1212/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",BIZ Cinema
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",BIZ Cinema
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png",Biz Cinema UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png",Biz Cinema UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1213/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png",Milliy TV HD UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png",Milliy TV HD UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1216/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1217/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nurafshon UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nurafshon UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Nurafshon TV UZ.png",Nurafshon TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Nurafshon TV UZ.png",Nurafshon TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1220/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",RTV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",RTV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Renessans TV UZ.png",Renessans TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Renessans TV UZ.png",Renessans TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1221/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",TV 1000
+#EXTINF:-1 group-title="Rafail (🇺🇿)",TV 1000
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1227/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png",Viju+ Sport
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png",Viju+ Sport
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1229/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png",Viju+ Sport
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png",Viju+ Sport
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1229/tracks-v1a2a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Da Vinci HD.png",Da Vinci HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Da Vinci HD.png",Da Vinci HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1231/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/France 24.png",France 24
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/France 24.png",France 24
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1241/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/365 дней ТВ.png",365 дней ТВ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/365 дней ТВ.png",365 дней ТВ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1242/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png",Матч! Планета
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png",Матч! Планета
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1243/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",S Music
+#EXTINF:-1 group-title="Rafail (🇺🇿)",S Music
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1245/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Моя Планета HD.png",Моя Планета HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Моя Планета HD.png",Моя Планета HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1247/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Наука HD.png",Наука HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Наука HD.png",Наука HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1248/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Сарафан.png",Сарафан
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Сарафан.png",Сарафан
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1249/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Живая Планета.png",Живая Планета
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Живая Планета.png",Живая Планета
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1250/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/enter.png",8 канал
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/enter.png",8 канал
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1262/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1.png",Setanta Sports 1
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1.png",Setanta Sports 1
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png",Setanta Sports 1 HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png",Setanta Sports 1 HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2.png",Setanta Sports 2
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2.png",Setanta Sports 2
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png",Setanta Sports 2 HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png",Setanta Sports 2 HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",MYDAYTV
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",MYDAYTV
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Fashion TV
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Fashion TV
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1265/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/sport2.png",Trace Sport Stars
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/sport2.png",Trace Sport Stars
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1274/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/sport2.png",Trace Sport Stars
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/sport2.png",Trace Sport Stars
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1274/tracks-v1a2a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",I-kbol
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",I-kbol
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",IKBOL
+#EXTINF:-1 group-title="Rafail (🇺🇿)",IKBOL
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1282/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Isteklol TV
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Isteklol TV
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1283/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/ntv.png",ntv
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/ntv.png",ntv
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/ntv.png",ntv
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/ntv.png",ntv
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1284/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png",Живая природа HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png",Живая природа HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Арсенал HD.png",Арсенал HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Арсенал HD.png",Арсенал HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Zooпарк HD.png",Zooпарк HD
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Zooпарк HD.png",Zooпарк HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/KHL.png",KHL
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/KHL.png",KHL
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Вопросы и ответы.png",Вопросы и ответы
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Вопросы и ответы.png",Вопросы и ответы
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",Индийское кино
+#EXTINF:-1 group-title="Rafail (🇺🇿)",Индийское кино
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Farg'ona UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Farg'ona UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Surxondaryo UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Surxondaryo UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1463/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Xorazm UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Xorazm UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Qaraqalpaqstan UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Qaraqalpaqstan UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Shifo TV
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Shifo TV
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1469/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail",S MUSIC
+#EXTINF:-1 group-title="Rafail (🇺🇿)",S MUSIC
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",TTV Kino UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",TTV Kino UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",JTV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",JTV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Ishonch TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Ishonch TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",TTV Telekanal UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",TTV Telekanal UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Makon TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Makon TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/Cinema.png",Cinema UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Cinema.png",Cinema UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nasaf TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nasaf TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/2025/tracks-a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nasaf TV UZ
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nasaf TV UZ
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/2025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rafail" tvg-logo="http://rafail1982.uz/logo/uzb.png",Itv Cinema
+#EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Itv Cinema
 #EXTVLCOPT:http-user-agent=TiviMate
 http://s8.rafail1982.uz/4000/tracks-v1a1/mono.m3u8
 
@@ -2473,13 +3046,13 @@ http://dmitry-tv.ddns.net/hls/region/CH_12CHANNEL_OMSK.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",12 Канал HD (Омск)
 http://dmitry-tv.ddns.net/hls/region/CH_12CHANNELHD_OMSK.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",360°
-http://dmitry-tv.ddns.net/hls/CH_360TV.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",360°
 http://dmitry-tv.ddns.net/hls/smotrim/CH_360TV.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",360° HD
-http://dmitry-tv.ddns.net/hls/CH_360TVHD.m3u8
+#EXTINF:-1 group-title="dmi3y-tv.ru",360°
+http://dmitry-tv.ddns.net/hls/CH_360TV.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",360° HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_360TVHD.m3u8
+#EXTINF:-1 group-title="dmi3y-tv.ru",360° HD
+http://dmitry-tv.ddns.net/hls/CH_360TVHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",360° НОВОСТИ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_360TV_NEWS.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",360° НОВОСТИ HD
@@ -2490,8 +3063,6 @@ http://dmitry-tv.ddns.net/hls/CH_7TV.m3u8
 http://dmitry-tv.ddns.net/hls/CH_8CHANNEL_EUROPE.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",8 канал
 http://dmitry-tv.ddns.net/hls/CH_8CHANNEL.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",88 Stereo HD720
-http://dmitry-tv.ddns.net/hls/CH_88STEREOHD720.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",CGTN ARABIC HD
 http://dmitry-tv.ddns.net/hls/CH_CGTN_ARABICHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",CGTN DOCUMENTARY HD720
@@ -2506,24 +3077,6 @@ http://dmitry-tv.ddns.net/hls/CH_CGTN_FRANCAISHD.m3u8
 http://dmitry-tv.ddns.net/hls/CH_CGTN_RUSSKIYHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",CINEMA
 http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",D-TV6
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 group-title="dmi3y-tv.ru",Dmitry-tv HD
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="dmi3y-tv.ru",DW ARABIC
-http://dmitry-tv.ddns.net/hls/CH_DW_ARABIC.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",DW ARABIC HD
-http://dmitry-tv.ddns.net/hls/CH_DW_ARABICHD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",DW ENGLISH
-http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISH.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",DW ENGLISH HD
-http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISHHD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",DW ESPANOL
-http://dmitry-tv.ddns.net/hls/CH_DW_ESPANOL.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",DW ESPANOL HD
-http://dmitry-tv.ddns.net/hls/CH_DW_ESPANOLHD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",E TV HD
-http://dmitry-tv.ddns.net/hls/CH_ETVHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Fashion TV (SK)
 http://dmitry-tv.ddns.net/hls/CH_FASHIONTV_SK.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",KINO 24
@@ -2538,26 +3091,10 @@ http://dmitry-tv.ddns.net/hls/CH_LEOMAX24HD.m3u8
 http://dmitry-tv.ddns.net/hls/CH_LIFETV_RUSEST.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",LIFE TV [RUS]
 http://dmitry-tv.ddns.net/hls/CH_LIFETV_RUS.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",OneBY
-http://dmitry-tv.ddns.net/hls/CH_1MUZ.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Red Bull TV
-http://dmitry-tv.ddns.net/hls/CH_REDBULLTV.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Red Bull TV HD
-http://dmitry-tv.ddns.net/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",RTД HD
 http://dmitry-tv.ddns.net/hls/CH_RTDHD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",RUTV
-http://dmitry-tv.ddns.net/hls/CH_RUTV.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",RUTV HD
-http://dmitry-tv.ddns.net/hls/CH_RUTVHD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Shopping Live
-http://dmitry-tv.ddns.net/hls/CH_SHOPPINGLIVE.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",SOCHI LIVE HD720 (Сочи)
 http://dmitry-tv.ddns.net/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",TRACE Urban
-http://dmitry-tv.ddns.net/hls/CH_TRACE_URBAN.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",TRACE Urban HD
-http://dmitry-tv.ddns.net/hls/CH_TRACE_URBANHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",TVАист (Ликино-Дулево)
 http://dmitry-tv.ddns.net/hls/region/CH_TVAIST_LD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",UNIVER (Казань)
@@ -2580,8 +3117,6 @@ http://dmitry-tv.ddns.net/hls/region/CH_ARKHIZ24HD_CHERKS.m3u8
 http://dmitry-tv.ddns.net/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",БСТ (Уфа)
 http://dmitry-tv.ddns.net/hls/region/CH_BST_UFA.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Байкал Телеком info HD720
-http://dmitry-tv.ddns.net/hls/CH_BAYKALTEL_INFOHD720.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Башкортостан 24 (Уфа)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Башкортостан 24 HD (Уфа)
@@ -2608,10 +3143,6 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 HD (Беларусь)
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5HD.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 Интернет (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5_INT.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Беларусь 5 Интернет HD (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5_INTHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Большая Азия
 http://dmitry-tv.ddns.net/hls/CH_BAZIYA.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Большая Азия HD720
@@ -2662,20 +3193,12 @@ http://dmitry-tv.ddns.net/hls/region/CH_KRYM24HD720_SMRPL.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_KAVKAZ24_STAVR.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Карусель (+4)
 http://dmitry-tv.ddns.net/hls/T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Кино 1 International
-http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Кино и сериалы (СМОТРИМ)
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Кино и сериалы HD (СМОТРИМ)
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Красная линия
 http://dmitry-tv.ddns.net/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Краснодар (Краснодар)
 http://dmitry-tv.ddns.net/hls/region/CH_KRASNODAR_KRDAR.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Краснодар HD (Краснодар)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_KRASNODARHD_KRDAR.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Крик ТВ (Магадан)
-http://dmitry-tv.ddns.net/hls/region/CH_KRIKTV_DV_MGDN.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Легендарный 24 HD (Севастополь)
 http://dmitry-tv.ddns.net/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Липецкое время HD720 (Липецк)
@@ -2686,8 +3209,6 @@ http://dmitry-tv.ddns.net/hls/T2/CH_MIR_2.m3u8
 http://dmitry-tv.ddns.net/hls/T2/CH_MIR_4.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",МИР (+7)
 http://dmitry-tv.ddns.net/hls/T2/CH_MIR_7.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",МИР 24
-http://dmitry-tv.ddns.net/hls/CH_MIR24.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",МИР 24 HD
 http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",МИР HD
@@ -2700,8 +3221,6 @@ http://dmitry-tv.ddns.net/hls/region/CH_MTVHD720_VGRAD.m3u8
 http://dmitry-tv.ddns.net/hls/T2/CH_MUZTV_4.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Матур ТВ HD (Уфа)
 http://dmitry-tv.ddns.net/hls/region/CH_MATURTVHD_UFA.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Миллет ТВ HD720 (Симферополь)
-http://dmitry-tv.ddns.net/hls/region/CH_MILLETHD720_SMRPL.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Мир Белогорья HD (Белгород)
 http://dmitry-tv.ddns.net/hls/region/CH_MIR_BLGRYAHD_BELG.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Мособр ТВ HD720 (Москва)
@@ -2752,8 +3271,6 @@ http://dmitry-tv.ddns.net/hls/smotrim/region/CH_NN24HD_NN.m3u8
 http://dmitry-tv.ddns.net/hls/region/CH_NOVIY_VEK_TAMB.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Новый век HD720 (Тамбов)
 http://dmitry-tv.ddns.net/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",ОНТ HD (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",ОТВ (Екатеринбург)
 http://dmitry-tv.ddns.net/hls/region/CH_OTV_EKT.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",ОТВ HD720 (Екатеринбург)
@@ -3014,16 +3531,18 @@ http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA24_ELISTA.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA24_DV_YKT.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Россия 24 (Ярославль)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA24_YARL.m3u8
+#EXTINF:-1 group-title="dmi3y-tv.ru",Россия 24 HD
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Россия К (+4)
 http://dmitry-tv.ddns.net/hls/T2/CH_RUSSIAK_4.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",С1 (Сургут)
 http://dmitry-tv.ddns.net/hls/region/CH_C1_SUR.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",С86 (Сургут)
 http://dmitry-tv.ddns.net/hls/region/CH_C86_SUR.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",СВОЁ ТВ (Ставрополь)
-http://dmitry-tv.ddns.net/hls/region/CH_SVOETV_STAVR.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",СВОЁ ТВ HD (Ставрополь)
-http://dmitry-tv.ddns.net/hls/region/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:-1 group-title="dmi3y-tv.ru",СМОТРИМ Кино и сериалы
+http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="dmi3y-tv.ru",СМОТРИМ Кино и сериалы HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",СОЮЗ HD
 http://dmitry-tv.ddns.net/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",СПАС (+2)
@@ -3036,10 +3555,6 @@ http://dmitry-tv.ddns.net/hls/region/CH_STV_SRVOY.m3u8
 http://dmitry-tv.ddns.net/hls/T2/CH_STS_4.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Саратов 24 HD (Саратов)
 http://dmitry-tv.ddns.net/hls/region/CH_SARATOV24HD_SARATOV.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Север (Нарьян-Мар)
-http://dmitry-tv.ddns.net/hls/region/CH_SEVER_NAO.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",Север HD (Нарьян-Мар)
-http://dmitry-tv.ddns.net/hls/region/CH_SEVERHD_NAO.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Сибирь 24 (Новосибирск)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Сибирь 24 HD (Новосибирск)
@@ -3058,10 +3573,6 @@ http://dmitry-tv.ddns.net/hls/T2/CH_TVC_4.m3u8
 http://dmitry-tv.ddns.net/hls/region/CH_TNVPLANETA_KZN.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",ТНТ (+4)
 http://dmitry-tv.ddns.net/hls/T2/CH_TNT_4.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",ТНТ MUSIC
-http://dmitry-tv.ddns.net/hls/CH_TNT_MUSIC.m3u8
-#EXTINF:-1 group-title="dmi3y-tv.ru",ТНТ MUSIC HD
-http://dmitry-tv.ddns.net/hls/CH_TNT_MUSICHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Твое ТВ HD
 http://dmitry-tv.ddns.net/hls/CH_TVOETVHD.m3u8
 #EXTINF:-1 group-title="dmi3y-tv.ru",Теледом HD720 (Санкт-Петербург)
@@ -3178,6 +3689,8 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",PLANETA RTR HD720 (USA) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",PLANETA RTR США SD
+http://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="СМОТРИМ",Smotrim Chestnyy Detektiv
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="СМОТРИМ",[Радио] Вести FM HD (auto)
