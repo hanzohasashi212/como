@@ -1358,568 +1358,568 @@ https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=R8
 
 
 #EXTINF:-1 group-title="Xsph.ru 🎡",12 Канал
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",12 Канал HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_12CHANNELHD_OMSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",360.RU HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_360TVHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",360.RU НОВОСТИ FD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_360TV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",360.RU НОВОСТИ FD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/CH_360TV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",360° НОВОСТИ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",7TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_7TV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",8 Канал Европа
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_8CHANNEL_EUROPE.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",8 канал
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",CGTN ARABIC HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_CGTN_ARABICHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",CGTN DOCUMENTARY
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",CGTN ENGLISH
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_CGTN_ENGLISHHD720.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",CGTN ESPANOL HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_CGTN_ESPANOLHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",CGTN FRANCAIS HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_CGTN_FRANCAISHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",CGTN РУССКИЙ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_CGTN_RUSSKIYHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",CINEMA
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Fashion TV (SK)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_FASHIONTV_SK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Kino 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Kronehit
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_KRONEHIT.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Kronehit HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_KRONEHITHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",LEOMAX 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_LEOMAX24HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",LIFE TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_LIFETV_RUS.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",LIFE TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_LIFETV_RUSEST.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",MCM (Иркутск)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_MCMHD720_IRK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",RU.TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",RU.TV HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RUTVHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Sochi Live SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",TVАист
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_TVAIST_LD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",UNIVER
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_UNIVER_KZN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",UNIVER HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_UNIVERHD_KZN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",V2BEAT SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_V2BEATHD720.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",АИСТ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_AISTHD_IRK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Архыз 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_ARKHIZ24_CHERKS.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Архыз 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_ARKHIZ24HD_CHERKS.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",БАЙКАЛ Универ ТВ HD (Иркутск)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",БСТ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_BST_UFA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Башкортостан 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Башкортостан 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",БелРос FD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELROS.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 1 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 2
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 2 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 3
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 3 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 5
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Беларусь 5 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Большая Азия
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_BAZIYA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Большая Азия HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_BAZIYAHD720.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Ветта-24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_VETTA24_PERM.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Витрина ТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_VITRINATV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Волга
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_VOLGA_NN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Волга HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_VOLGAHD_NN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Волгоград 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Волгоград 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_VOLGOGRAD24HD_VGRAD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Волжский Плюс HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Губерния
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_GUBERNIA_SAMARA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ДОН 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_DON24_RD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ДОН 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_DON24HD_RD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Домашний +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_DOMASHNIY_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Запад 24 (Калининград)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Запад 24 HD (Калининград)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Звезда
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Звезда +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Звезда HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",КРИК ТВ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",КРЫМ 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_KRYM24_SMRPL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",КРЫМ 24 SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Кавказ 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_KAVKAZ24_STAVR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Карусель +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_KARUSEL_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Кино и сериалы
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Кино и сериалы HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Красная Линия
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Краснодар
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_KRASNODAR_KRDAR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Краснодар HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_KRASNODARHD_KRDAR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Легендарный 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Липецкое время SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",МТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",МУЗ ТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_MUZTV_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мамонтёнок
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_MAMONTENOK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Матур ТВ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_MATURTVHD_UFA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мир +2
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_MIR_2.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мир +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_MIR_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мир +7
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_MIR_7.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мир 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мир HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мир Белогорья HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_MIR_BLGRYAHD_BELG.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мособр SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Муз Союз
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Мультимания
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_MULTIMANIYA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",НВК Саха HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_NVCHD_DV_YKT.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",НТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_NTV_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",НТМ (Саранск) SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_NTMHD720_SRNK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",НТС HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_NTSHD_SVTPL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Надежда SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Народное телевидение Мордовии
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_NTM_SRNK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Наука 2.0
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Наш дом
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_NASHDOM_PENZA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Нижний Новгород 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_NN24_NN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Нижний Новгород 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Новый век
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_NOVIY_VEK_TAMB.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Новый век (Тамбов) HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ОНТ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ОТВ (ЕКАТЕРИНБУРГ) FD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_OTV_EKT.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ОТВ (ЕКАТЕРИНБУРГ) SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_OTVHD720_EKT.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ОТР +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_OTR_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Осетия Ирыстон HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_IRISTONHD_VKAZ.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ПИНГВИН ЛОЛО
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_PINGVIN_LOLO.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ПРОДВИЖЕНИЕ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Первый Крымский
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_1KRYMSKIY_SMRPL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Первый информационный
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Первый информационный HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Первый канал +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_1TV_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Просвещение
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_PROSVESHENIE.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Пятница! +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_FRIDAY_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Пятый канал +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_5TV_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РАДИО ХИТ (Орск)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РБК
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РБК
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_RBK_UFA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РБК HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РГВК Дагестан (Махачкала)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РГВК Дагестан HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_DAGESTANHD_MAHACHK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РЕН ТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_RENTV_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РЖД ТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",РЖД ТВ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RZHDTVHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Радость моя
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_RADOSTMOYA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_NN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_STAVR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 +2
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_PERM.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA1_BUL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 1 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_BELG.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_BUL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_CHEL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_EKT.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_IRK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_KALUGA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_KEM.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_KLGR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_NN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_NSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_PERM.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_RD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_RYAZ.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_SARATOV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_STAVR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_TAMB.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_TVER.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_VLAD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_RUSSIA24_YARL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия 24 +2
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Россия К +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_RUSSIAK_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",С1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_C1_SUR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",С86
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_C86_SUR.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",СОЮЗ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",СПАС +2
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_SPAS_2.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",СТВ SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/blrus/CH_CTBHD720.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",СТВ/Продвижение
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_STV_SRVOY.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",СТС +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_STS_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Саратов 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_SARATOV24HD_SARATOV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Сибирь 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Сибирь 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Симферополь 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Старт Триумф
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_START_TRIUMF.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Старт Триумф SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_START_TRIUMFHD720.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ТВ3 +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_TV3_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ТВК 24 (Красноярск)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_TVK24_KRSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ТВК 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_TVK24HD_KRSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ТВЦ +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_TVC_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ТНТ +4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/T2/CH_TNT_4.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Твоё ТВᴴᴰ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Теледом
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Тува 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_TUVA24_TUVA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Урал 24 FD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24_CHEL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Урал 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ШАЯН
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_SHAYAN_KZN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ШАЯН HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_SHAYANHD_KZN.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Шансон ТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Экспресс HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_EXPRESSHD_PENZA.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Эхо ТВ 24 (Новоуральск)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",ЮУрГУ ТВ (Челябинск) SD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_YURGUTVHD720_CHEL.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Югра HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
 #EXTINF:-1 group-title="Xsph.ru 🎡",Якутия 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://a0925677.xsph.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
 
 
@@ -1929,358 +1929,358 @@ http://a0925677.xsph.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
 
 
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/O'zbekiston 1 UZ.png",O'zbekiston 1 UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1001/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Yoshlar.png",Yoshlar
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1002/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png",Toshkent UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png",Toshkent UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1003/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png",Sport UZ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Madaniyat va ma'rifat
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Dunyo Bo'ylab UZ.png",Dunyo Bo'ylab UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Dunyo bo`ylab UZ.png",Dunyo bo`ylab UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1006/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Bolajon.png",Bolajon
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Bolajon.png",Bolajon
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1007/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Navo UZ.png",Navo UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Navo.png",Navo
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1008/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Kinoteatr
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Kinoteatr HD UZ.png",Kinoteatr HD UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1009/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Futbol
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",O'zbekiston4 UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Ozbekiston 24 HD UZ.png",Ozbekiston 24 HD UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1011/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1012/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png",Mahalla UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1013/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png",Mahalla UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1013/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Milliy TV UZ.png",Milliy TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1014/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png",Milliy TV HD UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Uzreport UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1015/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",UzReport TV HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1015/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png",Zo'r TV HD UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Sevimli UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1017/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Sevimli
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1017/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Futbol TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1018/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Россия 1.png",Россия 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1020/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Россия-24.png",Россия-24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1021/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/НТВ.png",НТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1023/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Карусель HD.png",Карусель HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1034/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Телекафе.png",Телекафе
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1035/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Авто плюс HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1036/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Т24.png",Т24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1037/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/National Geographic HD.png",National Geographic HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1041/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/NatGeo Wild HD.png",NatGeo Wild HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1042/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Viasat History
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1045/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Viasat Explorer
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1046/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Ретро.png",Ретро
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1047/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Россия-Культура.png",Россия-Культура
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1048/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Звезда.png",Звезда
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1050/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",TV 1000 Русское кино
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1051/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Дом Кино.png",Дом Кино
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1054/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Кинохит HD.png",Кинохит HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1055/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Sevimli TV HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1056/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/МУЗ-ТВ HD.png",МУЗ-ТВ HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1063/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Музыка Первого.png",Музыка Первого
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1201/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/RU TV HD.png",RU TV HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1202/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Киносвидание HD.png",Киносвидание HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1203/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Taraqqiyot tv
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Aqlvoy
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Aqlvoy TV UZ.png",Aqlvoy TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1205/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Dasturxon
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1206/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png",Кинопремьера HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1207/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",O'zbekiston tarixi UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1209/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Ozbekiston Tarixi HD UZ.png",Ozbekiston Tarixi HD UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1209/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",LuxTV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Lux TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1210/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",BIZ TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1211/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Biz TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1211/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Biz Music HD UZ.png",Biz Music HD UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1212/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",BIZ Cinema
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1213/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png",Biz Cinema UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1213/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png",Milliy TV HD UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1216/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/My5 UZ.png",My5 UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1217/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nurafshon UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1220/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Nurafshon TV UZ.png",Nurafshon TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1220/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",RTV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Renessans TV UZ.png",Renessans TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1221/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",TV 1000
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1227/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png",Viju+ Sport
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1229/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png",Viju+ Sport
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1229/tracks-v1a2a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Da Vinci HD.png",Da Vinci HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1231/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/France 24.png",France 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1241/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/365 дней ТВ.png",365 дней ТВ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1242/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png",Матч! Планета
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1243/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",S Music
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1245/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Моя Планета HD.png",Моя Планета HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1247/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Наука HD.png",Наука HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1248/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Сарафан.png",Сарафан
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1249/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Живая Планета.png",Живая Планета
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1250/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/enter.png",8 канал
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1262/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1.png",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png",Setanta Sports 1 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2.png",Setanta Sports 2
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png",Setanta Sports 2 HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",MYDAYTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1265/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Fashion TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1265/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/sport2.png",Trace Sport Stars
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1274/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/sport2.png",Trace Sport Stars
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1274/tracks-v1a2a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",I-kbol
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1282/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",IKBOL
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1282/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Isteklol TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1283/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/ntv.png",ntv
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1284/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/ntv.png",ntv
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1284/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Живая природа HD.png",Живая природа HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1411/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Арсенал HD.png",Арсенал HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Zooпарк HD.png",Zooпарк HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/KHL.png",KHL
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Вопросы и ответы.png",Вопросы и ответы
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",Индийское кино
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Farg'ona UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Surxondaryo UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1463/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Xorazm UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1464/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Qaraqalpaqstan UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1467/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Shifo TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1469/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)",S MUSIC
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",TTV Kino UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",JTV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Ishonch TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",TTV Telekanal UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Makon TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Cinema.png",Cinema UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nasaf TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/2025/tracks-a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Nasaf TV UZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/2025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rafail (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/uzb.png",Itv Cinema
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://s8.rafail1982.uz/4000/tracks-v1a1/mono.m3u8
 
 
@@ -2389,469 +2389,469 @@ https://iptv.itv.uz/hls/live/t/SVCqOU_AGK_j9NEGGYvZGg/e/1774000444/1001/index.m3
 
 
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="393" tvg-name="O'zbekiston 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Ozbekiston242.jpg",O'zbekiston 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=393
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="140" tvg-name="O'zbekiston " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12222.jpg",O'zbekiston 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=140
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="395" tvg-name="Zo'rTV " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/z2.png",Zo'rTV 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=395
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="682" tvg-name="Jibek Joly" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2023/790.jpg",Jibek Joly
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=682
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="621" tvg-name="Ала-тоо 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/6211.jpg",Ала-тоо 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=621
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="112" tvg-name="TVT 1" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TV-channels_0017_tochikiston.png",TVT 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=112
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="114" tvg-name="AzTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/AzTVnew.png",AzTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=114
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="90" tvg-name="Ictimai TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ictimai.jpg",Ictimai TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=90
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="90" tvg-name="Idman TV" tvg-logo="https://yt3.googleusercontent.com/T10TP4qbY584Rx30XlDn_7EPIvo4OsI6wtdlh2UCtQWithOqWNqxiSnhPY3EwX1oM4kevKcTEbI",Idman TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=92
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="234" tvg-name="Россия 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ONGlJrus24mb.png",Россия 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=234
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="585" tvg-name="TRT World" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2019/TRT-World.png",TRT World
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=585
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="491" tvg-name="Mediabay TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mediabay1235.png",Mediabay TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=491
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="495" tvg-name="Таджикская Музыка" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/J.png",Таджикская Музыка
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=495
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="499" tvg-name="Узбекская музыка" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Узбекская музыка
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=499
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="545" tvg-name="Казахские фильмы (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/kaz.jpg",Казахские фильмы (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=545
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="544" tvg-name="Таджикские фильмы (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TJFILM.jpg",Таджикские фильмы (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=544
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="605" tvg-name="DW News" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/DWNews.png",DW News
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=605
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="425" tvg-name="France 24 " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2018/254px-France24.png",France 24 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=425
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="405" tvg-name="Беларусь 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/belorussiya.png",Беларусь 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=405
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="604" tvg-name="DW Deutsch" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/DW-Deutsch.png",DW Deutsch
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=604
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="596" tvg-name="Varzish " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/varzish-backup.png",Varzish 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=596
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="467" tvg-name="Новое телевидение (Караганда)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2018/nt.png",Новое телевидение (Караганда)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=467
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="407" tvg-name="Атамекен" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/atameken2020.png",Атамекен
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=407
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="439" tvg-name="Хабар 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/xabar.png",Хабар 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=439
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="560" tvg-name="Музыка " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/5600.jpg",Музыка 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=560
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="611" tvg-name="Илим Билим" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2020/ilim-bilim.png",Илим Билим
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=611
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="162" tvg-name="ЭЛ ТР Кыргызстан" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/eltr.png",ЭЛ ТР Кыргызстан
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=162
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="505" tvg-name="8 Канал" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2019/8kanalua.png",8 Канал
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=505
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="391" tvg-name="MilliyTV " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/milliylogo.png",MilliyTV 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=391
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="653" tvg-name="Al Jazeera English" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2021/Al-Jazeera-eng.png",Al Jazeera English
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=653
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="654" tvg-name="Al Jazeera Arabic" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2021/Al-Jazeera.png",Al Jazeera Arabic
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=654
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="86" tvg-name="ATV (Azad Azerbaycan TV)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/FKz7Razadazerbaycantvmb.png",ATV (Azad Azerbaycan TV)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=86
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="571" tvg-name="ARB" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/arb.png",ARB
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=571
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="572" tvg-name="ARB 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/08-2019/arb-24.png",ARB 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=572
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="98" tvg-name="Medeniyyet" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/aGaA6medeniyyettvmb.png",Medeniyyet
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=98
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="475" tvg-name="Real TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/real-tv.png",Real TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=475
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="104" tvg-name="Xezer" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/BSv97xezertvazmb.png",Xezer
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=104
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="154" tvg-name="CBC (Caspian Broadcasting Company)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TcR96cbc.png",CBC (Caspian Broadcasting Company)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=154
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="420" tvg-name="NRBTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2018/nrbtv.png",NRBTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=420
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="134" tvg-name="Yoshlar" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/YoshlAR.png",Yoshlar
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=134
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="136" tvg-name="Toshkent" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/iTUCW2.png",Toshkent
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=136
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="451" tvg-name="A2itv" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/A2i-t.png",A2itv
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=451
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="452" tvg-name="A2i Religion" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/a2i-r.png",A2i Religion
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=452
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="453" tvg-name="A2i Music" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/a2i-music.png",A2i Music
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=453
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="392" tvg-name="Foreign Languages (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/flanguages.png",Foreign Languages (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=392
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="426" tvg-name="France 24  Arabic" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ARABIC.png",France 24  Arabic
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=426
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="428" tvg-name="France 24  English" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/France24-Eng.png",France 24  English
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=428
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="427" tvg-name="France 24  Espanol" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/franceesp.png",France 24  Espanol
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=427
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="397" tvg-name="Синамо" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/logosinamo11494510073.png",Синамо
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=397
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="106" tvg-name="Jahonnamo" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Jf5xPjahonnamomb.png",Jahonnamo
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=106
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="108" tvg-name="Bakhoristan" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/tvbakhoriston.png",Bakhoristan
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=108
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="110" tvg-name="Safina" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/hfzKVtvsafinamb.png",Safina
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=110
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="144" tvg-name="Dunyo Boylab" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/GFX6X40.png",Dunyo Boylab
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=144
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="692" tvg-name="Istiqlol TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/692.jpg",Istiqlol TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=692
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="693" tvg-name="NTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/693.jpg",NTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=693
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="694" tvg-name="Илм ва табиат" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2023/480.jpg",Илм ва табиат
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=694
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="697" tvg-name="Ош Пирим" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2024/4900.jpg",Ош Пирим
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=697
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="699" tvg-name="Just TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2024/500.jpg",Just TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=699
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="700" tvg-name="Ishonch TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2024/505.jpg",Ishonch TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=700
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="704" tvg-name="LIVETVAZ" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2024/525.jpg",LIVETVAZ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=704
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="706" tvg-name="Mening Yurtim" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Mening5.png",Mening Yurtim
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=706
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="707" tvg-name="MiMi TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/540.jpg",MiMi TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=707
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="708" tvg-name="Shifo TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/545.jpg",Shifo TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=708
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="709" tvg-name="Hidoyat sari" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/hidoyat-sari.png",Hidoyat sari
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=709
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="712" tvg-name="RETROTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/8855.jpg",RETROTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=712
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="713" tvg-name="QIZIQTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/880.jpg",QIZIQTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=713
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="714" tvg-name="KNTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2025/570.jpg",KNTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=714
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="715" tvg-name="Konul Tv" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/575.jpg",Konul Tv
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=715
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="716" tvg-name="Konul Music Tv" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/580.jpg",Konul Music Tv
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=716
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="717" tvg-name="Azerbaijan music HD" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/585.jpg",Azerbaijan music HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=717
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="718" tvg-name="Azerbaijan music Plus" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/590.jpg",Azerbaijan music Plus
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=718
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="719" tvg-name="Azerbaijan music HIT" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/595.jpg",Azerbaijan music HIT
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=719
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="720" tvg-name="4 Turk pop HD" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/600.jpg",4 Turk pop HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=720
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="168" tvg-name="Мир 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ZVhWF.png",Мир 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=168
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="487" tvg-name="НТМ" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/NTM.jpg",НТМ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=487
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="492" tvg-name="ПРО БИЗНЕС" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/prob.png",ПРО БИЗНЕС
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=492
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="721" tvg-name="Ayaz TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/605.jpg",Ayaz TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=721
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="34" tvg-name="RT документальный " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/RTDOCDOC.png",RT документальный 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=34
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="343" tvg-name="8 ТВ Москва" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/8tv.png",8 ТВ Москва
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=343
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="378" tvg-name="РТР - ПЛАНЕТА " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/1HLzzplanetamb.png",РТР - ПЛАНЕТА 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=378
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="408" tvg-name="RT Arabic" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rtarabic.png",RT Arabic
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=408
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="382" tvg-name="Türkmenistan Sport " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/IcwZmtmsport.png",Türkmenistan Sport 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=382
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="383" tvg-name="Yaslyk - TM" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Fvd9DYASHLYK.png",Yaslyk - TM
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=383
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="384" tvg-name="Miras " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/QQJXEmirasmb.png",Miras 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=384
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="385" tvg-name="Türkmenistan" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/XdeOZturkmenistan.png",Türkmenistan
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=385
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="386" tvg-name="Asgabat " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ugcTZashgabadmb.png",Asgabat 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=386
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="387" tvg-name="Türkmen Owazy " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/XFl4eowazymb.png",Türkmen Owazy 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=387
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="587" tvg-name="TRT Arabic" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TRT-Arabi.png",TRT Arabic
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=587
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="414" tvg-name="8 Канал Красноярский край" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/8kr.png",8 Канал Красноярский край
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=414
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="409" tvg-name="Грозный" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/grozny-new.png",Грозный
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=409
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="507" tvg-name="Diyar TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/diyar-tv.png",Diyar TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=507
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="146" tvg-name="Madaniyat va Ma'rifat" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Dev2F39.png",Madaniyat va Ma'rifat
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=146
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="148" tvg-name="Bolajon" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/VUTumKOOV114.png",Bolajon
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=148
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="466" tvg-name="Первый Тульский" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/tulskiy1.png",Первый Тульский
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=466
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="473" tvg-name="Саратов 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2018/saratov24.png",Саратов 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=473
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="489" tvg-name="Телеканал Север" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/sever-tv.png",Телеканал Север
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=489
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="496" tvg-name="8 канал. Новосибирск" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/12-2018/novosib.png",8 канал. Новосибирск
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=496
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="502" tvg-name="Губерния" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/guberniya.png",Губерния
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=502
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="418" tvg-name="Краснодар" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/05-2018/krasnodarTV.png",Краснодар
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=418
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="442" tvg-name="Союз" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/soyuz-b.png",Союз
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=442
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="443" tvg-name="Музсоюз" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/muzsoyuz-b.png",Музсоюз
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=443
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="645" tvg-name="Aqlvoy" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2021/aqlvoy.png",Aqlvoy
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=645
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="576" tvg-name="TOLO (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/tolotv.png",TOLO (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=576
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="577" tvg-name="TOLO News (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2019/ToloNews.png",TOLO News (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=577
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="578" tvg-name="Ariana Television (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2019/arianat.png",Ariana Television (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=578
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="588" tvg-name="Noor TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2019/noor-tv.png",Noor TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=588
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="606" tvg-name="ATV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2020/aynaTV.png",ATV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=606
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="625" tvg-name="Biz TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/BizTV.jpg",Biz TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=625
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="626" tvg-name="BIZ MUSIC" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/626.jpg",BIZ MUSIC
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=626
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="627" tvg-name="BIZ CINEMA" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/490.jpg",BIZ CINEMA
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=627
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="628" tvg-name="Душанбе HD" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/duu.jpg",Душанбе HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=628
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="651" tvg-name="Dasturxon TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/DDDDDDasturxon.png",Dasturxon TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=651
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="629" tvg-name="Шаҳнавоз" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/shahnavoz__.png",Шаҳнавоз
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=629
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="630" tvg-name="ТВ-Хатлон" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2020/xalton.png",ТВ-Хатлон
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=630
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="631" tvg-name="ТВ-Бадахшон" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/badaxshon.png",ТВ-Бадахшон
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=631
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="632" tvg-name="ТВ-Кулоб" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2020/kULOB-TV.png",ТВ-Кулоб
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=632
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="633" tvg-name="Суғд" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2020/SUGD.png",Суғд
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=633
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="646" tvg-name="VIVA" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2021/VIVA.png",VIVA
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=646
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="479" tvg-name="TBN Baltia" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2018/tbn-baltia.png",TBN Baltia
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=479
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="594" tvg-name="NavigatorTV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2019/navigatoR.png",NavigatorTV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=594
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="616" tvg-name="Rumeli TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rumelitv.png",Rumeli TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=616
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="394" tvg-name="Mahalla" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mahalla.png",Mahalla
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=394
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="482" tvg-name="Hope TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/nadejda.png",Hope TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=482
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="485" tvg-name="FREEДОМ" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/UA-TV-new.png",FREEДОМ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=485
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="254" tvg-name="Navo" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/YXT71Navo.png",Navo
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=254
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="517" tvg-name="Die Neue Zeit " tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/die.png",Die Neue Zeit 
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=517
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="528" tvg-name="RT Documentary" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rtdhd.png",RT Documentary
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=528
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="529" tvg-name="RT Español" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/espanolRT.png",RT Español
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=529
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="530" tvg-name="RT International" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/rt27-05.png",RT International
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=530
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="532" tvg-name="RT UK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/ukRT.png",RT UK
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=532
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="542" tvg-name="TVMChannel" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/TVMCHANNEL__.png",TVMChannel
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=542
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="511" tvg-name="Motors TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Motors-TV.png",Motors TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=511
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="569" tvg-name="Arezo TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/arezotv.png",Arezo TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=569
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="579" tvg-name="Jigyasa TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/jigyasatv.png",Jigyasa TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=579
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="551" tvg-name="Imam Hussein TV 1" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/imam1.png",Imam Hussein TV 1
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=551
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="552" tvg-name="Imam Hussein TV 2" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/IMAM2.png",Imam Hussein TV 2
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=552
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="553" tvg-name="Imam Hussein TV 3" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/IMAM3.png",Imam Hussein TV 3
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=553
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="554" tvg-name="Imam Hussein TV 4" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/IMAM4.png",Imam Hussein TV 4
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=554
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="555" tvg-name="Al-Zahra TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/al-zahratv.png",Al-Zahra TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=555
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="665" tvg-name="Huzur TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2022/Xuzur-TV.png",Huzur TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=665
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="668" tvg-name="ЕСПРЕСО" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/04-2022/expresso-tv.png",ЕСПРЕСО
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=668
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="556" tvg-name="Novo Tempo" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/novotempo.png",Novo Tempo
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=556
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="557" tvg-name="Nuevo Tempo" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2019/nuevo.png",Nuevo Tempo
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=557
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="600" tvg-name="Az Star TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/02-2020/AzStar.png",Az Star TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=600
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="622" tvg-name="ТБН Россия (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/07-2020/TBN.png",ТБН Россия (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=622
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="655" tvg-name="Пирамида" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/Piramida-TV.png",Пирамида
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=655
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="663" tvg-name="TVA" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2022/TVA-UA.png",TVA
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=663
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="670" tvg-name="STR TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/05-2022/SRTTV.png",STR TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=670
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="677" tvg-name="Россия К" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/01-2023/CfgJWrossiyak.png",Россия К
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=677
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="688" tvg-name="Ukraine World News" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/06-2023/UWN.png",Ukraine World News
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=688
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="647" tvg-name="Ruxsor TV" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2021/ruxsor-tv.png",Ruxsor TV
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=647
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="672" tvg-name="S IKBOL" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/10-2022/s-iqbol.png",S IKBOL
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=672
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="684" tvg-name="LUX.TV HD" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/03-2023/LUXTV.jpg",LUX.TV HD
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=684
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="648" tvg-name="Gold UZ TV (тест)" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/GOLDTV.jpg",Gold UZ TV (тест)
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=648
 #EXTINF:-1 group-title="MEDIABAY" tvg-id="673" tvg-name="ТВ САЙЁҲӢ ВА ҲУНАРҲОИ МАРДУМӢ" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/673.jpg",ТВ САЙЁҲӢ ВА ҲУНАРҲОИ МАРДУМӢ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://live.mediabaytv.workers.dev/?ID=673
 
 
@@ -2905,7 +2905,7 @@ https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Балаболᴴᴰ
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Балаболᴴᴰ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg",НТВ Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
@@ -2931,13 +2931,13 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Пять минут тишиныᴴᴰ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Пять минут тишиныᴴᴰ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="НТВ плюс",НТВ Санкт-Петербург
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://cdn2.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png",НТВ Своя Играᴴᴰ
-#EXTVLCOPT:http-user-agent=TiviMate
+
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="НТВ плюс" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -4689,10 +4689,10 @@ https://stream1.cinerama.uz/1018/playlist.m3u8?token=JUqt%2FH90d%2F9fA4vkUeivmgM
 
 
 #EXTINF:-1 group-title="UZD+ (🇺🇿)",Oilaviy
-#EXTVLCOPT:http-user-agent=TiviMate
+
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="UZD+ (🇺🇿)" tvg-logo="http://rafail1982.uz/logo/Uzbekistan 24.png",Uzbekistan 24
-#EXTVLCOPT:http-user-agent=TiviMate
+
 https://st1.uzdigital.tv/Uzb24/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="UZD+ (🇺🇿)" tvg-logo="https://cdn.uzd.udevs.io/uzdigital-images-compressed/images/2af84baa-2912-4971-a114-f5a66ec35541.jpg",BRIDGE TV CLASSIC
 https://st1.uzdigital.tv/BRIDGE_TV_CLASSIC/video.m3u8
@@ -5415,27 +5415,82 @@ http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
-https://autopilot.catcast.tv/content/40504/index.m3u8
 #EXTINF:-1 group-title="Catcast",A21 NETWORK
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 group-title="Catcast",A21 NETWORK
 https://tv.a21network.ru/content/37909/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
-https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
+https://autopilot.catcast.tv/content/40504/index.m3u8
+#EXTINF:-1 group-title="Catcast",ARMENIUS TV
+https://v2.catcast.tv/content/40504/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden AutoGid
+http://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden Birma Play
+http://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://iptvcinema.ru/channels/citykinoclassica1.png",City Eden Classic Music
+http://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="http://only4.tv/ch/9856.png",City Eden KinoAction
+http://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden KinoArt
+http://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden KinoAsia
+http://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="http://only4.tv/ch/9859.png",City Eden KinoDetektiv
+http://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden KinoDok
+http://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://iptvcinema.ru/channels/citykinodrama1.png",City Eden KinoDrama
+http://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden KinoFantastika
+http://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden KinoKlassika
+http://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="http://only4.tv/ch/9858.png",City Eden KinoKomediya
+http://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="http://only4.tv/ch/9857.png",City Eden KinoMistika
+http://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden KinoSemya
+http://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden Meditation Music
+http://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden MedZdrav
+http://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden Play
+http://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden Recepty Gurmana
+http://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden Sirtaki TV
+http://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="Catcast",City Eden TeleNovella
+http://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Catcast",Disco Polo TV
+https://discopolo.catcast.tv/content/39686/index.m3u8
 #EXTINF:-1 group-title="Catcast",Eurodance 90s
 http://eurodance.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="Catcast",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 group-title="Catcast",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/logos/20e59f084e72195ca60d5bf990a12a74.png",Karapuztv
 https://karapuztv.catcast.tv/content/33418/index.m3u8
 #EXTINF:-1 group-title="Catcast",Lime Gold TV
 http://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:-1 group-title="Catcast",Malder Vse TV 3
 https://autopilot.catcast.tv/content/44395/index.m3u8
+#EXTINF:-1 group-title="Catcast",Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 group-title="Catcast",Malder Ужас
+https://autopilot.catcast.tv/content/47764/index.m3u8
+#EXTINF:-1 group-title="Catcast",MCM 90'S
+https://v2.catcast.tv/content/38484/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema",MGM
+https://autopilot.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/01102023/logos/43959-65198b3e02358.jpg",musicarmsupertv
 https://v2.catcast.tv/content/43959/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1 group-title="Catcast",RE МИКС
+http://autopilot.catcast.tv/content/41833/index.m3u8
 #EXTINF:-1 group-title="Catcast",RETRO 80 HD
 https://autopilot.catcast.tv/content/38204/index.m3u8
 #EXTINF:-1 group-title="Catcast",Retro 80 HD
@@ -5444,9 +5499,11 @@ https://eurodance90.catcast.tv/content/38204/index.m3u8
 http://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/25122022/logos/391-63a838ae5af0b.png",TRANCE IS STAR TV
 https://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Catcast",VIVA TV RUSSIA
+#EXTINF:-1 group-title="Catcast",VHS TV
+http://v2.catcast.tv/content/47609/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" tvg-id="VIVARussia.ru",VIVA TV RUSSIA
 http://autopilot.catcast.tv/content/39575/index.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Catcast",VIVA TV RUSSIA
+#EXTINF:-1 group-title="Catcast" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" tvg-id="VIVARussia.ru",VIVA TV RUSSIA
 https://s.catcast.tv/content/39575/index.m3u8
 #EXTINF:-1 group-title="Catcast",Видеокассета HD
 http://autopilot.catcast.tv/content/37925/index.m3u8
@@ -5474,10 +5531,18 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Catcast",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema",ЛИК
+http://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 group-title="Catcast",Малдер Кинозал
+https://autopilot.catcast.tv/content/47180/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.postimg.cc/ZRXNFjt0/VHS.png",Малдер ТВ VHS
 https://autopilot.catcast.tv/content/41023/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.postimg.cc/ZRXNFjt0/VHS.png",Малдер ТВ VHS
 https://v2.catcast.tv/content/41023/index.m3u8
+#EXTINF:-1 group-title="Catcast",Мода - ТВ ШАНС
+https://tvshans.catcast.tv/content/40721/index.m3u8
+#EXTINF:-1 group-title="Catcast",Модели и красивые девушки
+https://tvshans.catcast.tv/content/40730/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 1 International
 http://autopilot.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 1 International
@@ -5502,76 +5567,144 @@ http://autopilot.catcast.tv/content/37739/index.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png",Рецепты Гурмана
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="Catcast",СТС – Петербург / Телеклуб
+https://v2.catcast.tv/content/43944/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" tvg-id="no_epg_cinema",Сити Эдем - АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" tvg-id="no_epg_cinema",Сити Эдем - Бирма Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia",Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200",Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" tvg-id="no_epg_cinema",Сити Эдем - КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" tvg-id="no_epg_cinema",Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov",Сити Эдем - Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" tvg-id="no_epg_cinema",Сити Эдем - Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" tvg-id="no_epg_cinema",Сити Эдем - Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" tvg-id="no_epg_cinema",Сити Эдем - АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" tvg-id="no_epg_cinema",Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200",Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
 https://v2.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" tvg-id="no_epg_cinema",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200",Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" tvg-id="no_epg_cinema",Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем - КиноДок HD
+https://v2.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
 https://autopilot.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
 https://v2.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" tvg-id="no_epg_cinema",Сити Эдем - КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200",Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
 https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
 https://v2.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" tvg-id="cityedem-kinoklas",Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
 https://v2.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" tvg-id="no_epg_cinema",Сити Эдем - КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200",Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
 https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" tvg-id="cityedem-kinomist",Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
+#EXTINF:-1 group-title="Catcast",Сити Эдем - КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем - КиноСемья
+https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" tvg-id="no_epg_cinema",Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" tvg-id="cityedem-kinoact",Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Catcast",Сити Эдем - КиноНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Catcast",Сити Эдем - КиноДок HD
-https://v2.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" tvg-id="no_epg_cinema",Сити Эдем - КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png?md5=kyEN39AL3-denlMSJVjnXg&expires=1727773200",Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" tvg-id="no_epg_cinema",Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" tvg-id="no_epg_cinema",Сити Эдем - МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000",Сити Эдем - Рождественский
+https://cityeden.catcast.tv/content/46503/index.m3u8?token=
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Nxw697z/image-15.png" tvg-id="Сити Эдем - Рождественский!",Сити Эдем - Рождественский!
 https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем - Христианский" tvg-logo="https://i.ibb.co/PFXVpvL/image-22.png" group-title="Catcast", Сити Эдем - Христианский
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" tvg-id="no_epg_cinema",Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200",Сити Эдем - ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov",Сити Эдем - Теленовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/PFXVpvL/image-22.png" tvg-id="Сити Эдем - Христианский",Сити Эдем - Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="Catcast",Сити Эдем - КиноСемья
-https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем Meditation Music
+https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем Бирма Play
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем Плей
+https://autopilot.catcast.tv/content/34100/index.m3u8?password=
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://iptvcinema.ru/channels/citykinoaction1.png",Сити Эдем Плей
+https://autopilot.catcast.tv/content/34100/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем ТВ
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000",Сити Эдем ТВ
+https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
+#EXTINF:-1 group-title="Catcast",Сити Эдем ТВ Христианский
+https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем — Classic Music
+https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — Meditation Music
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png",Сити Эдем — АвтоГид
+https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — БирмаПлей
+https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноАРТ
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноАзия
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноДок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноФантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png",Сити Эдем — МедЗдрав
+https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png",Сити Эдем — Рецепты Гурмана
+https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем — СиртакиТВ
+https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",ТВ «ШАНС»
+https://tvshans.catcast.tv/content/34776/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://catcast.tv/assets/no-logo.svg",Телеканал Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
 #EXTINF:-1 group-title="Catcast",Тномер
 https://v2.catcast.tv/content/39971/index.m3u8
 #EXTINF:-1 group-title="Catcast",Ужасы
 https://v2.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2d13fa19483745.562db34d7f9ff.jpg" tvg-id="no_epg_cinema",Фильмы - VHS TV
+https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 group-title="Catcast",большое интересное кино
 https://v2.catcast.tv/content/41833/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/10092023/banners/41596-64fdd9eea6bb4.png",любимое индийское кино
@@ -5582,74 +5715,6 @@ https://autopilot.catcast.tv/content/41596/index.m3u8
 https://v2.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 group-title="Catcast",ԼԱՅՄ GOLD TV
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:-1 group-title="Catcast",HGTN
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="Catcast",MCM 90'S
-https://v2.catcast.tv/content/38484/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://catcast.tv/assets/no-logo.svg",Телеканал Андийцы
-https://v2.catcast.tv/content/34114/index.m3u8
-#EXTINF:-1 group-title="Catcast",Модели и красивые девушки
-https://tvshans.catcast.tv/content/40730/index.m3u8
-#EXTINF:-1 group-title="Catcast",ТВ «ШАНС»
-https://tvshans.catcast.tv/content/34776/index.m3u8
-#EXTINF:-1 group-title="Catcast",СТС – Петербург / Телеклуб
-https://v2.catcast.tv/content/43944/index.m3u8
-#EXTINF:-1 group-title="Catcast",Мода - ТВ ШАНС
-https://tvshans.catcast.tv/content/40721/index.m3u8
-#EXTINF:-1 group-title="Catcast",Disco Polo TV
-https://discopolo.catcast.tv/content/39686/index.m3u8
-#EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/31032024/logos/41833-660986e40421f.png" group-title="Catcast",муз re mix
-https://v2.catcast.tv/content/41833/index.m3u8
-#EXTINF:-1 group-title="Catcast",Малдер Кинозал
-https://autopilot.catcast.tv/content/47180/index.m3u8
-#EXTINF:-1 group-title="Catcast",Malder Мегахит
-https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:-1 group-title="Catcast",Malder Ужас
-https://autopilot.catcast.tv/content/47764/index.m3u8
-#EXTINF:-1 group-title="Catcast",RE МИКС
-http://autopilot.catcast.tv/content/41833/index.m3u8
-#EXTINF:-1 group-title="Catcast",ARMENIUS TV
-https://v2.catcast.tv/content/40504/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema",MGM
-https://autopilot.catcast.tv/content/44051/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema",ЛИК
-http://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2d13fa19483745.562db34d7f9ff.jpg" tvg-id="no_epg_cinema",Фильмы - VHS TV
-https://autopilot.catcast.tv/content/47609/index.m3u8
-#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноАзия
-https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноСемья
-https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноДок
-https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноАРТ
-https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — КиноФантастика
-https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — БирмаПлей
-https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — СиртакиТВ
-https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — Classic Music
-https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",Сити Эдем — Meditation Music
-https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Catcast",VHS TV
-http://v2.catcast.tv/content/47609/index.m3u8
-#EXTINF:-1 group-title="Catcast",City Eden Play
-http://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 group-title="Catcast",City Eden Sirtaki TV
-http://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 group-title="Catcast",City Eden Meditation Music
-http://cityeden.catcast.tv/content/47410/index.m3u8
-#EXTINF:-1 group-title="Catcast",City Eden AutoGid
-http://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 group-title="Catcast",City Eden Recepty Gurmana
-http://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1 group-title="Catcast",City Eden MedZdrav
-http://cityeden.catcast.tv/content/47519/index.m3u8
-
-
 
 
 
@@ -5784,6 +5849,40 @@ http://195.9.195.3:8080/hls/206355.m3u8
 
 
 
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8928.png",ELECTRO
+https://muzzikbalkan-live.morescreens.com/mts-9/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8930.png",FLASHBACK
+https://muzzikbalkan-live.morescreens.com/mts-13/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8930.png",FLASHBACK
+https://muzzikbalkan-live.morescreens.com/mts-8/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8931.png",JEKA
+https://muzzikbalkan-live.morescreens.com/mts-4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8928.png",MUZZIK
+https://muzzikbalkan-live.morescreens.com/mts-15/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8933.png",MUZZIK MIX
+https://muzzikbalkan-live.morescreens.com/mts-a7/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка",MYUZZIK
+https://muzzikbalkan-live.morescreens.com/mts-7/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8934.png",POPSTAR
+https://muzzikbalkan-live.morescreens.com/mts-12/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8934.png",POPSTAR
+https://muzzikbalkan-live.morescreens.com/mts-3/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8932.png",RESTART
+https://muzzikbalkan-live.morescreens.com/mts-2/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8928.png",RIVERA
+https://muzzikbalkan-live.morescreens.com/mts-14/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8916.png",RR
+https://muzzikbalkan-live.morescreens.com/mts-1/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8928.png",SONIDOZZ
+https://muzzikbalkan-live.morescreens.com/mts-11/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8936.png",TIKTAK
+https://muzzikbalkan-live.morescreens.com/mts-a5/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8937.png",WWM
+https://muzzikbalkan-live.morescreens.com/mts-5/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8928.png",X-MUZZIK
+https://muzzikbalkan-live.morescreens.com/mts-10/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8863.png",ZZ TV
+https://muzzikbalkan-live.morescreens.com/mts-a4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
 
 #EXTINF:-1 group-title="Музыка",Страна FM
 http://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
@@ -7568,7 +7667,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.
 #EXTINF:-1 group-title="Спорт",Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png",Setanta VIDEO
-#EXTVLCOPT:http-user-agent=TiviMate
+
 https://setantasports.com/wp-content/uploads/2025/08/VIDEO-FOR-SITE_1.mp4
 #EXTINF:-1 group-title="Спорт",Конный мир
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
@@ -7781,7 +7880,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTINF:-1 group-title="Спорт",Trace Sport Stars
 http://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://rafail1982.uz/logo/sport2.png",Automotion
-#EXTVLCOPT:http-user-agent=TiviMate
+
 http://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Спорт",Goal TV
 http://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
@@ -13186,9 +13285,114 @@ http://ott.watch/stream/JBT2S5J8EX/85.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://telik.live/images/4k-hits.png",4K Кино и сериалы SD
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140",Aisman FHD
+http://kinowalk.hopto.org/aisman_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140",Akudji
+http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140",Alex Films HD
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://files.kick.com/images/user/59967480/profile_image/conversion/b59451dd-0815-4a82-b37f-eac9249ebb51-fullsize.webp",Baragozz TV HD
+http://kinowalk.hopto.org/baragozz_tv_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/12784987/avatar?change_time=1685724547&croped=1&mh=140&mw=140",Bars Play HD
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140",Blockbusters Time HD
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140",BOSSFILM SD
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/198/128x128?unique=2026-02-21%2020:43:54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73",ChowAmigo FHD 60 fps
+http://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon HD
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN FHD
+http://kinowalk.hopto.org/evgamen_movies_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/201/128x128?unique=2026-02-21%2020:44:21.583209&access_token=a59c30de-da75-4cb3-b7b8-6bd9dc3333fa",FilmVibes HD
+http://kinowalk.hopto.org/filmvibes_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png",Kino Mix HD
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140",Kinofon
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png",KinoJam HD
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/stream.channels/68/avatar/128x128?unique=2026-02-14%2015:58:42.547150",LampoTV HD
+http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films HD
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper HD
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/200/128x128?unique=2026-02-21%2020:44:21.583209&access_token=6bdbfce3-ebe0-48be-9c34-98c6f7b4a8f3",PartizaNka HD
+http://kinowalk.hopto.org/partizanka_tv_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/197/128x128?unique=2026-02-21%2020:43:54.719669&access_token=986de50c-3a7a-4798-a1db-19f4161c0b9d",PrizraK PlaY HD
+http://kinowalk.hopto.org/vampiro1965_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1727353764&croped=1&mh=140&mw=140",Prodigy HD
+http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://cdn-icons-png.flaticon.com/128/15714/15714258.png",Profeccor SD
+http://kinowalk.hopto.org/profeccor_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140",ReanimatoR VHS SD
+http://kinowalk.hopto.org/reanimator_vhs_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140",ROMEO Video HD
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140",Rus Serials HD
+http://kinowalk.hopto.org/zzz881_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140",Scarface
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kino-stream.online/logo/scripach.png",ScripachTVᴴᴰ
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png",SeleCaoTV 2 SD
+http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png",SeleCaoTV SD
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Kinowalk 🎞️",Serial Productions HD
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140",Serial4u HD
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/18457974/avatar?change_time=1758279827&croped=1&mh=140&mw=140",Time to Horror HD
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkplay.ru/user/18457965/avatar?change_time=1717150729&croped=1&mh=140&mw=140",TimeToMovie HD
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/199/128x128?unique=2026-02-21%2020:43:54.719669&access_token=4fffcc7c-c861-4f0c-91a5-a1418dff44c6",TopMoment HD
+http://kinowalk.hopto.org/topmomentlive_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever HD
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",Video Channel SD
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140",Video Prokat HD
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",Video Serial SD
+http://kinowalk.hopto.org/videoserial_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png",VideoArsenal HD
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",Wihail
+http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140",ZubrilomFilm HD
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140",ZubrilomFranchise HD
+http://kinowalk.hopto.org/zubrilommusic.ru_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://sun9-15.userapi.com/s/v1/ig2/XvO3pFr-mtRn1UnHD-KuRuyH-ixRZcwTjzGJg1Hy-RmLUkojUgW7UGogQR69tcTQE5kawykqSgTYqfvZ58Dlt240.jpg",Всё ТВ HD
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140",КОМЕДИИ 24/7 HD
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/177/128x128?unique=2026-02-20%2001:57:49.533570&access_token=47c42de7-a71a-4cf9-8390-aa3f92f5aeb5",Кинотека
+http://kinowalk.hopto.org/kinoteka_full_hd_top_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/stream.channels/23/avatar/128x128?unique=2026-02-08%2015:20:23.766308",Мультфильмы нашего детства
+http://kinowalk.hopto.org/childhood_cartoons_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140",Мы из 90-х HD
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140",Первый Ряд HD
+http://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19238690/avatar?change_time=1747562022&croped=1&mh=140&mw=140",ФИЛЬМЫ&СЕРИАЛЫ SD
+http://kinowalk.hopto.org/films_serials_24_7_live/_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140",Фильмы Сериалы SD
+http://kinowalk.hopto.org/dfsfsdg_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140",Эквилибриум HD
+http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/202/128x128?unique=2026-02-21%2020:44:21.583209&access_token=1895e10c-b884-45cf-b1e3-6e4d66617d8c",Эра VHS
+http://kinowalk.hopto.org/era_vhs_live
+#EXTINF:-1 group-title="Kinowalk 🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",𝕂𝔸ℂℂ𝔼𝕋𝔸 SD
+http://kinowalk.hopto.org/kasseta_live
 
 
 
