@@ -3681,7 +3681,6 @@ http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Catcast",A21 NETWORK
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 group-title="Catcast",A21 NETWORK
@@ -3736,10 +3735,8 @@ https://discopolo.catcast.tv/content/39686/index.m3u8
 http://eurodance.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="Catcast",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 group-title="Catcast",HGTN
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png",HGTN
 https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/logos/20e59f084e72195ca60d5bf990a12a74.png",Karapuztv
-https://karapuztv.catcast.tv/content/33418/index.m3u8
 #EXTINF:-1 group-title="Catcast",Lime Gold TV
 http://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:-1 group-title="Catcast",Malder Vse TV 3
@@ -3756,6 +3753,8 @@ https://autopilot.catcast.tv/content/44051/index.m3u8
 https://v2.catcast.tv/content/43959/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
 https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/16052025/banners/33418-682782266b049.png",Phoenix TV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
 #EXTINF:-1 group-title="Catcast",RE МИКС
 http://autopilot.catcast.tv/content/41833/index.m3u8
 #EXTINF:-1 group-title="Catcast",RETRO 80 HD
@@ -3766,6 +3765,8 @@ https://eurodance90.catcast.tv/content/38204/index.m3u8
 http://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/25122022/logos/391-63a838ae5af0b.png",TRANCE IS STAR TV
 https://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 group-title="Catcast",VHS TV
 http://v2.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" tvg-id="VIVARussia.ru",VIVA TV RUSSIA
@@ -3782,22 +3783,22 @@ https://v2.catcast.tv/content/37925/index.m3u8?telegramm=yossotv
 https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Catcast",Видеокассета VHS
 https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Catcast",Детское кино International
 http://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Catcast",Детское кино International
 http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Catcast",Детское кино International
 https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Catcast",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Catcast",Кино 1 International
 http://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Catcast",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Catcast",Кино 1 International
 https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Catcast",Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema",ЛИК
 http://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1 group-title="Catcast",Малдер Кинозал
@@ -3810,6 +3811,8 @@ https://v2.catcast.tv/content/41023/index.m3u8
 https://tvshans.catcast.tv/content/40721/index.m3u8
 #EXTINF:-1 group-title="Catcast",Модели и красивые девушки
 https://tvshans.catcast.tv/content/40730/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 1 International
 http://autopilot.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 1 International
@@ -3818,88 +3821,70 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 https://autopilot.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 1 International
 https://autopilot.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Catcast",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 2 International
 http://autopilot.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 2 International
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка 2 International
 https://autopilot.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Catcast",Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка Кино International
 http://autopilot.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Catcast",Музыка Кино International
 http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="Catcast",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png",Рецепты Гурмана
-https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 group-title="Catcast",СТС – Петербург / Телеклуб
 https://v2.catcast.tv/content/43944/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" tvg-id="no_epg_cinema",Сити Эдем - АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" tvg-id="no_epg_cinema",Сити Эдем - Бирма Play
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia",Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200",Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" tvg-id="no_epg_cinema",Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200",Сити Эдем - КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
 https://v2.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" tvg-id="no_epg_cinema",Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" tvg-id="no_epg_cinema",Сити Эдем - КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 group-title="Catcast",Сити Эдем - КиноДок HD
 https://v2.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
 https://autopilot.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
 https://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" tvg-id="no_epg_cinema",Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200",Сити Эдем - КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
 https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
 https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" tvg-id="cityedem-kinoklas",Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200",Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
 https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" tvg-id="no_epg_cinema",Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200",Сити Эдем - КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
 https://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" tvg-id="cityedem-kinomist",Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200",Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
 #EXTINF:-1 group-title="Catcast",Сити Эдем - КиноНовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Catcast",Сити Эдем - КиноСемья
 https://v2.catcast.tv/content/38128/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" tvg-id="no_epg_cinema",Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
@@ -3908,36 +3893,52 @@ https://v2.catcast.tv/content/41333/index.m3u8
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png?md5=kyEN39AL3-denlMSJVjnXg&expires=1727773200",Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" tvg-id="no_epg_cinema",Сити Эдем - Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" tvg-id="no_epg_cinema",Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000",Сити Эдем - Рождественский
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/Nxw697z/image-15.png" tvg-id="Сити Эдем - Рождественский!",Сити Эдем - Рождественский!
 https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" tvg-id="no_epg_cinema",Сити Эдем - Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200",Сити Эдем - ТелеНовелла
 https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
-#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov",Сити Эдем - Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/PFXVpvL/image-22.png" tvg-id="Сити Эдем - Христианский",Сити Эдем - Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 group-title="Catcast",Сити Эдем Meditation Music
 https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем Play Христианский Музыкальный
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png",Сити Эдем АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 group-title="Catcast",Сити Эдем Бирма Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png",Сити Эдем КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png",Сити Эдем КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png",Сити Эдем КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png",Сити Эдем КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png",Сити Эдем Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png",Сити Эдем МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 group-title="Catcast",Сити Эдем Плей
 https://autopilot.catcast.tv/content/34100/index.m3u8?password=
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://iptvcinema.ru/channels/citykinoaction1.png",Сити Эдем Плей
 https://autopilot.catcast.tv/content/34100/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Catcast",Сити Эдем Рецепты Гурмана
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="Catcast",Сити Эдем Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="Catcast",Сити Эдем ТВ
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=
 #EXTINF:-1 group-title="Catcast" tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000",Сити Эдем ТВ
 https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
 #EXTINF:-1 group-title="Catcast",Сити Эдем ТВ Христианский
 https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 group-title="Catcast" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png",Сити Эдем ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Catcast",Сити Эдем — Classic Music
 https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Catcast",Сити Эдем — Meditation Music
