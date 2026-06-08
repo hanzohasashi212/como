@@ -41117,3 +41117,9 @@ http://s.only4.tv/10804/index.m3u8?token=KQqwg46ZkG
 http://s.only4.tv/10806/index.m3u8?token=KQqwg46ZkG
 #EXTINF:-1 group-title="Only4TV" tvg-logo="http://1lot.tv/ch/10807.png" tvg-id="qyzyljar",Qyzyljar [KZ]
 http://s.only4.tv/10807/index.m3u8?token=KQqwg46ZkG
+
+
+#EXTINF:-1 group-title="VK Radio", LoFiRadio 2026-06-08 20:24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.vkvideo.ru/
+https://vsd202.okcdn.ru/cmaf/15677533129294/sig/ydke9Llo9P8/expires/1781018640277/srcIp/198.163.195.45/urls/95.163.35.78/clientType/36/srcAg/CHROME/mid/14522948994894/get/CM6O3ZnWpgMQ6AcYBTIICgYIgAoQ0AU6BAjE2AJaBggDEAIoF2ICCBhmuh2WpYxuVA/track.m3u8
