@@ -47320,13 +47320,13 @@ http://live.uspeh.my/9499/video.m3u8?token=83z9bwqd1YL1SvLH
 
 #EXTINF:-1 tvg-id="lime-1kanal" group-title="Lime HD TV", Первый канал - смотреть онлайн прямой эфир
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.8.0","version_code":"580","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/-kra6SU5WjVEnPDZlbSWlQ,1787301284/streaming/1kanalott/324/5/index.m3u8
+https://mhd156.iptv2022.com/x/_yrFbkZ4PQgQSTmLaNzHJw,1787301866/streaming/1kanalott/324/5/tracks-v5a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="lime-rossia1" group-title="Lime HD TV", Россия 1 онлайн - прямая трансляция
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.8.0","version_code":"580","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/lwkHWdPHGlzsdB80CqOaPw,1787301298/streaming/rossia1ott/324/5/index.m3u8
+https://mhd156.iptv2022.com/x/J7SKliq3XoDB0DCpgVxz7Q,1787301882/streaming/rossia1ott/324/5/tracks-v5a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="lime-match" group-title="Lime HD TV", Матч ТВ - спортивный канал онлайн
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.8.0","version_code":"580","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/b9QZVJJMYktQCJSdQ9iuAw,1787301313/streaming/matchott/324/5/index.m3u8
+https://mhd156.iptv2022.com/x/2PWkSuhy7TisrDkAeqKgYw,1787301899/streaming/matchott/324/5/tracks-v5a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="lime-ntv" group-title="Lime HD TV", НТВ - прямой эфир онлайн
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.8.0","version_code":"580","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/VztNsX3VqCutw9bUEwCcjA,1787301327/streaming/ntvnn/324/5/index.m3u8
+https://mhd156.iptv2022.com/x/xzd-PiYFHXf5DttTR8tnmQ,1787301915/streaming/ntvnn/324/5/tracks-v4a1/mono.ts.m3u8
