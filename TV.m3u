@@ -6214,33 +6214,22 @@ http://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg",Avia Stream
 http://iptv.prosto.tv:7000/ch306/video.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" tvg-id="US2900005NW",Cozy Vibes
-https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Cozy Vibes
-https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 1
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 1
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 10
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 10
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 14
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 14
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 15
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 2
-https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 5
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 5
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 6
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 6
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg",Relax 8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1 group-title="Релакс",Sochi Live HD
@@ -6251,26 +6240,20 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 http://serv30.vintera.tv:8081/sochilive_site/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png",Space Stream
 http://iptv.prosto.tv:7000/ch314/video.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" tvg-id="USBD3500038R6",Stingray Holidayscapes
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png",Stingray Holidayscapes
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
 #EXTINF:-1 group-title="Релакс",Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" tvg-id="USAK3508705A",Stingray Naturescape
-https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
 #EXTINF:-1 group-title="Релакс",Stingray Naturescape
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" tvg-id="USBD3500013DG",Stingray Spa
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png",Stingray Spa
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png",Stream City
 http://iptv.prosto.tv:7000/ch321/video.m3u8
 #EXTINF:-1 group-title="Релакс",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://tgtv.ua/images/tgtv_logo.png",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33/232/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" tvg-id="USBD3500027DS",ZenLIFE by Stingray
-https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500027DS
 #EXTINF:-1 group-title="Релакс",ZOO Stream
 http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png",Аквариум
@@ -6361,26 +6344,8 @@ http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png",IPTVPLAY ИНТЕРНЫ
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png",IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png",IPTVPLAY ПАМЯТЬ
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png",IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png",IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="С сайтов",312 Кино
-http://176.126.166.43:1935/live/312kino/chunklist_w1530696005.m3u8
-#EXTINF:-1 group-title="С сайтов",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",312 Сериал
-http://176.126.166.43:1935/live/312musik/chunklist_w1120993243.m3u8
-#EXTINF:-1 group-title="С сайтов",312 Сериал
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",360
-http://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 group-title="С сайтов",360 HD
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="С сайтов",360 Новости
@@ -6419,10 +6384,6 @@ https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="С сайтов",360° HD
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 group-title="С сайтов",43 канал HD
-http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",4K travel
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 #EXTINF:-1 group-title="С сайтов",555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",555 Hunt Fishing TV HD
@@ -6435,32 +6396,14 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="С сайтов",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 group-title="С сайтов",Alpha Cinema
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="С сайтов",Alpha Funny
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 group-title="С сайтов",Alpha Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="С сайтов",BOLT
 http://iptv.prosto.tv:7000/ch53/video.m3u8
 #EXTINF:-1 group-title="С сайтов",Bonappetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.ibb.co/27GXQYG/resize-2024-10-10-T212758-935.png",CGTN Русский
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="С сайтов",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",Cinema
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="С сайтов",Cinema
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов",Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",Cinema
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 group-title="С сайтов",CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 group-title="С сайтов",Code Fashion
@@ -6477,16 +6420,10 @@ http://iptv.prosto.tv:7000/ch63/video.m3u8
 http://iptv.prosto.tv:7000/ch157/video.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
 http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
-#EXTINF:-1 group-title="С сайтов",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов",Kino TV
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="С сайтов",Kino24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="С сайтов",MostVideo TV HD
 http://wowza01.newmedia.lu:1935/cita/cita_a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",Multimania
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 group-title="С сайтов",My Zen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",NANO TV
@@ -6505,8 +6442,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 group-title="С сайтов",OVAA TV
 http://vod.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 group-title="С сайтов",Pro100TV
-http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="С сайтов",Prosto GAME
 http://iptv.prosto.tv:7000/ch322/video.m3u8
 #EXTINF:-1 group-title="С сайтов",RT
@@ -6559,14 +6494,6 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b3628000_slru.m3u8
 #EXTINF:-1 group-title="С сайтов",Univer TV HD
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",Viasat Kino Comedy
-http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1 group-title="С сайтов",Viasat Kino Comedy HD 🛡
-http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="С сайтов",VIP Premiere HD
-https://stream2.somon.tv/vippremiera/index.m3u8
-#EXTINF:-1 group-title="С сайтов",VIP Serial HD
-https://stream2.somon.tv/vipserial/index.m3u8
 #EXTINF:-1 group-title="С сайтов",WFC
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 #EXTINF:-1 group-title="С сайтов",WFC HD
@@ -6621,8 +6548,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://epgx.site/p/vmeste-rf.png",Вместе РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://iptvx.one/picons/multimania-lv.png",Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов",Дождь ТВ [СМИ иногент]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Дом Кино Премиум HD
@@ -6677,16 +6602,10 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="С сайтов",Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",Известия
-http://hls-igi.cdnvideo.ru/igi/igi1_lq/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.imgur.com/r5HzA6J.png",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов",Известия
-https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Известия (Старый Оскол)
 http://stream.tvbelgorod.ru:8080/izvestiya/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Известия (Старый Оскол)
@@ -6705,10 +6624,6 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов",Китай ТВ
-http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="С сайтов",Китай ТВ
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Кнопка ТВ
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="С сайтов",Кнопка ТВ
@@ -6729,12 +6644,6 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 http://live-saha.cdnvideo.ru/saha/mamont/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Мама
 http://live-saha.cdnvideo.ru/saha2/mamont_live.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png",Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов",Матч ТВ
-http://catchup.videoline.ru/match/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов",Матч! Страна
-http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="С сайтов",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Мир
@@ -6773,8 +6682,6 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Мульт
 http://4.59.210.197:8815/udp/127.0.0.1:6006
-#EXTINF:-1 group-title="С сайтов",Мульт и музыка
-https://streamer3.connectto.com/372/mono.m3u8
 #EXTINF:-1 group-title="С сайтов",Мультиландия
 http://live-saha.cdnvideo.ru/saha2/saha_live.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов",НСТ
@@ -6789,8 +6696,6 @@ http://vod.tuva.ru/nauka2/index.m3u8
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Неизвестная Планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
-#EXTINF:-1 group-title="С сайтов",ОК ТВ
-http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 group-title="С сайтов",ОТР
 http://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:-1 group-title="С сайтов",Открытый Мир
@@ -6805,30 +6710,10 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunkli
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="С сайтов",Первый информационный Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов",Первый канал
-https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов",Первый канал (+4)
-https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 group-title="С сайтов",Первый канал FHD
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов",Первый канал HD Спорт
-https://edge1.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
-#EXTINF:-1 group-title="С сайтов",Первый канал HD Спорт
-https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png",Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов",Поехали!
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Про Бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
-#EXTINF:-1 group-title="С сайтов",Про100 ТВ
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="С сайтов",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="С сайтов",Пятница
@@ -6915,12 +6800,6 @@ https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://epgx.site/p/stv-by.png",СТВ Беларусь
 https://edge52.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1462712291.m3u8
-#EXTINF:-1 group-title="С сайтов",Свое ТВ
-http://live.stv24.tv:8080/svoetv/LQ_video.m3u8
-#EXTINF:-1 group-title="С сайтов",Свое ТВ HD
-http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:-1 group-title="С сайтов",Своё ТВ Ставрополь
-http://live.stv24.tv:8080/svoetv/MQ_video.m3u8
 #EXTINF:-1 group-title="С сайтов",Сок ТВ
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1 group-title="С сайтов",Солнце
@@ -6965,12 +6844,9 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",Танец ТВ
 https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://tvoetv.space/tvoetv.png",Твоё ТВ HD v8 (Skycam)
-http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png",Твоё ТВ HD Юмор (Skycam)
-http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
 
 
 
