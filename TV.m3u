@@ -5547,7 +5547,22 @@ https://v2.catcast.tv/content/40546/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-name="Muzzik Mix" group-title="Музыка", Muzzik Mix Promo
+#EXTVLCOPT:http-referrer=https://muzzik.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://muzzikbalkan-live.morescreens.com/mts-12/playlist.m3u8?id=mts-12&video_id=1236&token=2ac8ce5f20b5bb882344806a27e29a03f980356a&authority_instance_id=spectar-prd-muzzikbalkan&profile_id=26437&application_installation_id=617962&uuid=6ac3eff3a16986-39494246&subscriber_id=26437&application_id=web&detected_delivery_method=hls&playlist_template=nginx&ps=38a27b931845703e89703849929dc092baa92a399e59a336828aa4608693583e4e769933975202260e792fddb66e0ad9a43c3149093d4b3394ee33bf220578f8&vh=3a038879c5d2e623282c845362f35f765d8c3144bd625962ef6f7d0e936979816a8b2a4f013f53bc206445a9ae47c91874d611ee31128531c7ef8d95b4125ae2
+#EXTINF:-1 tvg-name="Muzzik Mix" group-title="Музыка", Muzzik RIVIERA
+#EXTVLCOPT:http-referrer=https://muzzik.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://muzzikbalkan-live.morescreens.com/mts-14/playlist.m3u8?id=mts-14&video_id=1018&token=34f200479cbc37a8021442d209cbcfdea75a42dc&authority_instance_id=spectar-prd-muzzikbalkan&profile_id=26435&application_installation_id=617946&uuid=6ac3ebccc2b4c3-07602240&subscriber_id=26435&application_id=web&detected_delivery_method=hls&playlist_template=nginx&ps=e1c359e0a01e7f2ef4d995b81e2c596b8e1b3f9f0c22cb6aada17409e1515e1ab410f22737870a36a4704622fa48431e035c6937c99621b92938df1cef952783&vh=a196b3e462e5a6992beb114ee9dbf59bb272c0029cae59a9ec21f57743cd23621aff76e1c0d257ca47eb89a6d2dd1aa1a980ecf7e46a95752430f61b5b629018
+#EXTINF:-1 tvg-name="Muzzik Mix" group-title="Музыка", Muzzik X-MUZZIK
+#EXTVLCOPT:http-referrer=https://muzzik.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://muzzikbalkan-live.morescreens.com/mts-10/playlist.m3u8?id=mts-10&video_id=408&token=34f200479cbc37a8021442d209cbcfdea75a42dc&authority_instance_id=spectar-prd-muzzikbalkan&profile_id=26435&application_installation_id=617946&uuid=6ac3ebccc2b4c3-07602240&subscriber_id=26435&application_id=web&detected_delivery_method=hls&playlist_template=nginx&ps=4f7c9e52c5d8bd4063c0b59c4790a95e9ebfef6bc3122ecec0e0d64cd7e3e188358b3a4940635d320a913821db53dcbcd0edef9765368dde903779c1f14cde5b&vh=0364836ee3b59fb8ef19c1e2e6e0337ce15b266bc1f7e2d01b6d0d02df0d4f64b68275b1477f5540966ecaacb2ac0acccde99e41d0afb6ba05e0f04c74da45a5
+#EXTINF:-1 tvg-name="Muzzik Mix" group-title="Музыка", Muzzik 78
+#EXTVLCOPT:http-referrer=https://muzzik.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://muzzikbalkan-live.morescreens.com/mts-4/playlist.m3u8?id=mts-4&video_id=62&token=34f200479cbc37a8021442d209cbcfdea75a42dc&authority_instance_id=spectar-prd-muzzikbalkan&profile_id=26435&application_installation_id=617946&uuid=6ac3ebccc2b4c3-07602240&subscriber_id=26435&application_id=web&detected_delivery_method=hls&playlist_template=nginx&ps=272359497f9a68ec2b01f2a575e33a6df728fecf58a5803f5d471c551a50ac349a656d459f3f5e017aeb80d65babd6e3653e645243c8d1cf8f46dcc4f4afde26&vh=45173d1b5c50cf05bed84ce2c91bea3f64de7ed7a2dbdb3d393910fcf82e10c8ba034b8899e9a255fd71addb4468daa330011d28bbf18ce70d2736d3982ffe5c
 #EXTINF:-1 group-title="Музыка",30A Music
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",30A Music
